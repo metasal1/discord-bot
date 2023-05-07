@@ -1,0 +1,23 @@
+{
+  nft: {
+    collection_id: 'okay_bears',
+    name: 'Okay Bear #2233',
+    image: 'https://nftstorage.link/ipfs/bafybeianrhh7xz7obggjo4xh3ztufcgwzhu763hcp2yeucajkjedvxdaa4/2232.png',
+    rank: 9136,
+    traits: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    mint: 'Gk98rJmmWukxbe2iS42irh9SQHys9XKR18k1NDNEjPNa',
+    floorPrice: 58856300000,
+    estimate: { min: 58856300000, max: 61799115000 }
+  },
+  seller: 'AgxfD7iS3M6hSR75dfhBZxXYEym5ohanPBBge5QhfQCK',
+  sellerReferral: 'autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2',
+  auctionHouse: 'E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe',
+  price: '58856200000',
+  tokenAddress: '7PjTEZx8uduPaWpMX36fuNV8c9qGJEXBRvyvqaUbzpA3',
+  pdaAddress: 'EUgb3ATofxvhxEXmqx5afPccCBcHeW2gdjv1t9YjxzMi'
+}
