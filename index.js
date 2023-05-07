@@ -29,11 +29,12 @@ socket.on("listing", function (data) {
     const low = (data.nft.estimate.min / LAMPORTS_PER_SOL).toFixed(2);
     const high = (data.nft.estimate.max / LAMPORTS_PER_SOL).toFixed(2);
 
-    const diff = data.price - data.nft.floorPrice;
-    const message = `${data.nft.name} listed for ${(data.price / LAMPORTS_PER_SOL).toFixed(2)} SOL which is ${diff / LAMPORTS_PER_SOL} SOL above floor price of ${floor} SOL. Estimated value is between ${low} and ${high} SOL.`;
+    const diff = (((data.price / data.nft.floorPrice) - 1) * 100).toFixed(2);
+
+    const message = `${data.nft.name} listed for ${(data.price / LAMPORTS_PER_SOL).toFixed(2)} SOL which is ${diff}% SOL above floor price of ${floor} SOL. Estimated value is between ${low} and ${high} SOL.`;
     const channelBad = client.channels.cache.get('1104738578925367296');
     const channelGood = client.channels.cache.get('1104154734195130458');
-    const channel = diff < 1 ? channelGood : channelBad;
+    const channel = diff <= -5 ? channelGood : channelBad;
     const meLink = `https://magiceden.io/item-details/${data.nft.mint}`;
     console.log(message)
     // https://discordjs.guide/popular-topics/embeds.html#using-the-embed-constructor
