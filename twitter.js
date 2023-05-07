@@ -3,27 +3,19 @@ import crypto from 'crypto';
 import OAuth from 'oauth-1.0a';
 import qs from 'querystring';
 import dotenv from 'dotenv';
-import { createInterface } from 'readline';
 dotenv.config();
-
-const readline = createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
 
 const consumer_key = process.env.TWITTER_CONSUMER_KEY;
 const consumer_secret = process.env.TWITTER_CONSUMER_SECRET;
+const access_token = process.env.TWITTER_ACCESS_TOKEN;
+const access_token_secret = process.env.TWITTER_ACCESS_TOKEN_SECRET;
 
 const data = {
-    "text": "Hello world!"
+    "text": "GM!"
 };
 
 const endpointURL = `https://api.twitter.com/2/tweets`;
 
-// this example uses PIN-based OAuth to authorize the user
-const requestTokenURL = 'https://api.twitter.com/oauth/request_token?oauth_callback=oob&x_auth_access_type=write';
-const authorizeURL = new URL('https://api.twitter.com/oauth/authorize');
-const accessTokenURL = 'https://api.twitter.com/oauth/access_token';
 const oauth = OAuth({
     consumer: {
         key: consumer_key,
@@ -33,66 +25,7 @@ const oauth = OAuth({
     hash_function: (baseString, key) => crypto.createHmac('sha1', key).update(baseString).digest('base64')
 });
 
-async function input(prompt) {
-    return new Promise(async (resolve, reject) => {
-        readline.question(prompt, (out) => {
-            readline.close();
-            resolve(out);
-        });
-    });
-}
-
-async function requestToken() {
-    const authHeader = oauth.toHeader(oauth.authorize({
-        url: requestTokenURL,
-        method: 'POST'
-    }));
-
-    const req = await got.post(requestTokenURL, {
-        headers: {
-            Authorization: authHeader["Authorization"]
-        }
-    });
-    if (req.body) {
-        return qs.parse(req.body);
-    } else {
-        throw new Error('Cannot get an OAuth request token');
-    }
-}
-
-
-async function accessToken({
-    oauth_token,
-    oauth_token_secret
-}, verifier) {
-    const authHeader = oauth.toHeader(oauth.authorize({
-        url: accessTokenURL,
-        method: 'POST'
-    }));
-    const path = `https://api.twitter.com/oauth/access_token?oauth_verifier=${verifier}&oauth_token=${oauth_token}`
-    const req = await got.post(path, {
-        headers: {
-            Authorization: authHeader["Authorization"]
-        }
-    });
-    if (req.body) {
-        return qs.parse(req.body);
-    } else {
-        throw new Error('Cannot get an OAuth request token');
-    }
-}
-
-
-async function getRequest({
-    oauth_token,
-    oauth_token_secret
-}) {
-
-    const token = {
-        key: oauth_token,
-        secret: oauth_token_secret
-    };
-
+async function getRequest(token) {
     const authHeader = oauth.toHeader(oauth.authorize({
         url: endpointURL,
         method: 'POST'
@@ -115,19 +48,15 @@ async function getRequest({
     }
 }
 
-
 (async () => {
     try {
-        // Get request token
-        const oAuthRequestToken = await requestToken();
-        // Get authorization
-        authorizeURL.searchParams.append('oauth_token', oAuthRequestToken.oauth_token);
-        console.log('Please go here and authorize:', authorizeURL.href);
-        const pin = await input('Paste the PIN here: ');
-        // Get the access token
-        const oAuthAccessToken = await accessToken(oAuthRequestToken, pin.trim());
+        // Get user token and secret
+        const userToken = {
+            key: access_token,
+            secret: access_token_secret
+        };
         // Make the request
-        const response = await getRequest(oAuthAccessToken);
+        const response = await getRequest(userToken);
         console.dir(response, {
             depth: null
         });
