@@ -3,6 +3,8 @@ import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import profileModel from './models/profileSchema.js';
 import io from "socket.io-client";
+import sendTweet from './tweet-good-buy.js';
+
 const LAMPORTS_PER_SOL = 1000000000;
 
 dotenv.config();
@@ -34,9 +36,15 @@ socket.on("listing", function (data) {
     const message = `${data.nft.name} listed for ${(data.price / LAMPORTS_PER_SOL).toFixed(2)} SOL which is ${diff}% SOL above floor price of ${floor} SOL. Estimated value is between ${low} and ${high} SOL.`;
     const channelBad = client.channels.cache.get('1104738578925367296');
     const channelGood = client.channels.cache.get('1104154734195130458');
-    const channel = diff <= -5 ? channelGood : channelBad;
+    const channel = diff <= -5 ? channelGood : channelBad; // if diff is less than -5% then send to good channel, else send to bad channel
     const meLink = `https://magiceden.io/item-details/${data.nft.mint}`;
     console.log(message)
+
+    if (diff <= -5) {
+
+        sendTweet(message + '\n Go buy it! ' + meLink);
+
+    }
     // https://discordjs.guide/popular-topics/embeds.html#using-the-embed-constructor
     const embed = new EmbedBuilder()
         .setColor('#0099ff')

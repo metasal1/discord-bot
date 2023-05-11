@@ -4,16 +4,11 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const access_token = process.env.TWITTER_ACCESS_TOKEN_SOLANA_FAQS;
-const access_token_secret = process.env.TWITTER_ACCESS_TOKEN_SECRET_SOLANA_FAQS;
+const access_token = process.env.TWITTER_ACCESS_TOKEN;
+const access_token_secret = process.env.TWITTER_ACCESS_TOKEN_SECRET;
 
-const consumer_key = process.env.TWITTER_CONSUMER_KEY_SOLANA_FAQS;
-const consumer_secret = process.env.TWITTER_CONSUMER_SECRET_SOLANA_FAQS;
-
-const getSolanaPrice = await fetch("https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd");
-const solanaPrice = await getSolanaPrice.json();
-const price = solanaPrice.solana.usd;
-const data = { "text": `Solana is currently $${price}` };
+const consumer_key = process.env.TWITTER_CONSUMER_KEY;
+const consumer_secret = process.env.TWITTER_CONSUMER_SECRET;
 const endpointURL = `https://api.twitter.com/2/tweets`;
 
 const oauth = OAuth({
@@ -25,12 +20,13 @@ const oauth = OAuth({
     hash_function: (baseString, key) => crypto.createHmac('sha1', key).update(baseString).digest('base64')
 });
 
-async function getRequest(token) {
+async function getRequest(token, message) {
     const authHeader = oauth.toHeader(oauth.authorize({
         url: endpointURL,
         method: 'POST'
     }, token));
 
+    const data = { "text": message };
     const req = await fetch(endpointURL, {
         method: 'POST',
         headers: {
@@ -50,19 +46,21 @@ async function getRequest(token) {
 }
 
 
-(async () => {
+export default async function sendTweet(message) {
     try {
+
+
         // Get user token and secret
         const userToken = {
             key: access_token,
             secret: access_token_secret
         };
         // Make the request
-        const response = await getRequest(userToken);
+        const response = await getRequest(userToken, message);
         console.log(response);
     } catch (e) {
         console.dir(e);
-        process.exit(-1);
+        // process.exit(-1);
     }
-    process.exit();
-})();
+    // process.exit();
+};
