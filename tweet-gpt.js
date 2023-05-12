@@ -7,7 +7,7 @@ import { Configuration, OpenAIApi } from 'openai';
 
 dotenv.config();
 
-const tweetSchedule = schedule.scheduleJob('/45 * * * *', async function () {
+const tweetSchedule = schedule.scheduleJob('*/17 * * * *', async function () {
 
     const access_token = process.env.TWITTER_ACCESS_TOKEN_SOLANA_FAQS;
     const access_token_secret = process.env.TWITTER_ACCESS_TOKEN_SECRET_SOLANA_FAQS;
@@ -16,7 +16,7 @@ const tweetSchedule = schedule.scheduleJob('/45 * * * *', async function () {
     const consumer_secret = process.env.TWITTER_CONSUMER_SECRET_SOLANA_FAQS;
 
     const endpointURL = `https://api.twitter.com/2/tweets`;
-    const prompt = "Generate a tweet about Solana.";
+    const prompt = "Generate a tweet about Solana and use between 2 and 5 emojis";
 
     const oauth = OAuth({
         consumer: {
