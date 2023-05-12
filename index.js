@@ -33,10 +33,12 @@ socket.on("listing", function (data) {
 
     const diff = (((data.price / data.nft.floorPrice) - 1) * 100).toFixed(2);
 
-    const message = `${data.nft.name} listed for ${(data.price / LAMPORTS_PER_SOL).toFixed(2)} SOL which is ${diff}% SOL above floor price of ${floor} SOL. Estimated value is between ${low} and ${high} SOL.`;
     const channelBad = client.channels.cache.get('1104738578925367296');
     const channelGood = client.channels.cache.get('1104154734195130458');
     const channel = diff <= -5 ? channelGood : channelBad; // if diff is less than -5% then send to good channel, else send to bad channel
+    const messageBad = `${data.nft.name} listed for ${(data.price / LAMPORTS_PER_SOL).toFixed(2)} SOL which is ❌ ${diff}% SOL above floor price of ${floor} SOL. Estimated value is between ${low} and ${high} SOL.`;
+    const messageGood = `${data.nft.name} listed for ${(data.price / LAMPORTS_PER_SOL).toFixed(2)} SOL which is 👌 ${diff}% SOL below floor price of ${floor} SOL. Estimated value is between ${low} and ${high} SOL.`;
+    const message = diff <= -5 ? messageGood : messageBad;
     const meLink = `https://magiceden.io/item-details/${data.nft.mint}`;
     console.log(message)
 
