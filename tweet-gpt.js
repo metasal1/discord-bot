@@ -16,7 +16,7 @@ const tweetSchedule = schedule.scheduleJob('*/17 * * * *', async function () {
     const consumer_secret = process.env.TWITTER_CONSUMER_SECRET_SOLANA_FAQS;
 
     const endpointURL = `https://api.twitter.com/2/tweets`;
-    const prompt = "Generate a tweet about Solana and use between 2 and 5 emojis";
+    const prompt = "Generate a tweet about Solana blockchain and use between 2 and 5 emojis";
 
     const oauth = OAuth({
         consumer: {
