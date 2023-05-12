@@ -7,7 +7,7 @@ import { Configuration, OpenAIApi } from 'openai';
 
 dotenv.config();
 
-const tweetSchedule = schedule.scheduleJob('/19 * * * *', async function () {
+const tweetSchedule = schedule.scheduleJob('45 * * * *', async function () {
 
     const access_token = process.env.TWITTER_ACCESS_TOKEN_SOLANA_FAQS;
     const access_token_secret = process.env.TWITTER_ACCESS_TOKEN_SECRET_SOLANA_FAQS;
