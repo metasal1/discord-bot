@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is an initiative to build the next generation of NFT brands on the Solana blockchain."
+  },
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization that is managed by the Solana team. Their mission is to promote the Solana blockchain and help build a vibrant ecosystem around it."
+  },
+  {
+    "question": "What is the Solana Grants program?",
+    "answer": "Solana Grants is a program that provides funding to innovative projects that are built on the Solana blockchain. It is designed to help projects build out their applications and accelerate the development of the Solana ecosystem."
+  },
+  {
+    "question": "Where can I find the SolanaMedia Kit?",
+    "answer": "The SolanaMedia Kit is available on the Solana Foundation website. It provides information about the Solana blockchain, its features, and how to get started with building applications on Solana."
+  },
+  {
+    "question": "What is the Solana Ecosystem?",
+    "answer": "The Solana Ecosystem is a network of developers, businesses, and users working together to build the next generation of decentralized applications. It includes the Solana Grants program, the SolanaMedia Kit, and the Solana Foundation's blog and newsletter."
+  }
+]

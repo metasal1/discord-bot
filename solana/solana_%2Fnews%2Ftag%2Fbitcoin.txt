@@ -1,0 +1,18 @@
+[
+    {
+        "Question": "What is the June Newsletter about?", 
+        "Answer": "The June Newsletter focuses on 1B Transactions, 20M Blocks, Kin Migration, Exchange Listing, & More, as well as validators that are helping to grow the Solana network, elastic circuit breakers, Solana's incentivized testnet event, the internal scalability test, pipelining in Solana, and 8 innovations that make Solana the first web-scale blockchain." 
+    },
+    {
+        "Question": "What is the Solana incentivized testnet event?", 
+        "Answer": "The Solana incentivized testnet event is an opportunity for validators to flex their validation skills, earn tokens, and secure the Solana network."
+    },
+    {
+        "Question": "What is pipelining in Solana?", 
+        "Answer": "Pipelining in Solana is the process the Solana network utilizes to validate and replicate transactions with web-scale speed and functionality."
+    },
+    {
+        "Question": "What are the 8 innovations that make Solana the first web-scale blockchain?", 
+        "Answer": "The 8 innovations that make Solana the first web-scale blockchain are Solana's distributed clock, proof of history, turbos, segment trees, pipelining, sharding, lazy verification, and turboshares."
+    }
+]

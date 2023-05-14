@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What are compressed NFTs?",
+        "answer": "Compressed NFTs are a new class of non-fungible tokens on Solana that employs a technique known as state compression to reduce the load of data storage. State compression uses a Merkle tree structure to store the minimal amount of data on-chain in order to confirm that the underlying data is correct."
+    },
+    {
+        "question": "What are the benefits of compressed NFTs?",
+        "answer": "By compressing the underlying data, NFT developers can store more information on the blockchain at a lower cost while maintaining the integrity and uniqueness of their respective digital assets. Even better, the cost of minting NFTs gets cheaper at higher volumes, lowering barriers to on a massive scale."
+    },
+    {
+        "question": "What are some enterprise use cases for compressed NFTs?",
+        "answer": "Enterprise use cases for compressed NFTs include social media incentivization, gaming, extended reality assets, metaverse experiences, and on-chain credentials."
+    },
+    {
+        "question": "What are the costs of minting a Solana NFT?",
+        "answer": "A standard NFT mint on Solana costs about 0.012 SOL, or roughly $0.24 at the time of writing."
+    }
+]

@@ -1,0 +1,11 @@
+
+[
+  {
+    "question": "What is the Decentralized Solana DShop Swag Store?",
+    "answer": "The Decentralized Solana DShop Swag Store is a store powered by Origin Protocol that allows users to purchase gear with Solana branding."
+  },
+  {
+    "question": "How long has the Decentralized Solana DShop Swag Store been live?",
+    "answer": "The Decentralized Solana DShop Swag Store has been live for several weeks."
+  }
+]

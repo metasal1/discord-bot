@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is a global initiative to build the next generation of NFT brands on the Solana blockchain."
+  },
+  {
+    "question": "What is the Summer of S◎L?",
+    "answer": "The Summer of S◎L is a series of events and activities organized by the Solana Foundation to showcase the robust and vibrant Solana ecosystem."
+  },
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization dedicated to building and maintaining the Solana blockchain ecosystem."
+  },
+  {
+    "question": "What is the Reddit Break?",
+    "answer": "The Reddit Break is a Solana-powered project that allows users to create and trade digital tokens backed by Reddit-curated content."
+  },
+  {
+    "question": "What is the Serum Break?",
+    "answer": "The Serum Break is a Solana-powered project that allows users to create and trade digital tokens backed by Serum-curated content."
+  },
+  {
+    "question": "What is the Solana Grants program?",
+    "answer": "The Solana Grants program is a program sponsored by the Solana Foundation to provide financial and technical support to developers and entrepreneurs working to build applications on the Solana blockchain."
+  },
+  {
+    "question": "What is the Solana Media Kit?",
+    "answer": "The Solana Media Kit is a collection of resources, including logos, images, and videos, that can be used to promote the Solana blockchain and its ecosystem."
+  },
+  {
+    "question": "What is the Solana Ecosystem Blog?",
+    "answer": "The Solana Ecosystem Blog is an online blog dedicated to providing information and resources about the Solana blockchain and its ecosystem."
+  },
+  {
+    "question": "What is the Solana Newsletter?",
+    "answer": "The Solana Newsletter is a monthly newsletter that provides news and updates about the Solana blockchain and its ecosystem."
+  }
+]

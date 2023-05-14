@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is a competition to build the next generation of NFT brands on the Solana blockchain."
+  },
+  {
+    "question": "What is the 'Summer of S◎L'?",
+    "answer": "The 'Summer of S◎L' is a series of events and initiatives taking place throughout the summer of 2021, including collaborations with Reddit and Serum, to promote the Solana ecosystem."
+  },
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization dedicated to managing the Solana ecosystem and funding grants to further the development of the Solana blockchain."
+  }
+]

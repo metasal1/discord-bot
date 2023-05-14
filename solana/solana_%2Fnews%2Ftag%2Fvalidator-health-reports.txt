@@ -1,0 +1,15 @@
+
+[
+  {
+    "Question": "What is the Solana Foundation Validator Health Report?",
+    "Answer": "The Solana Foundation Validator Health Report is a data-driven analysis of the health of the Solana validator network."
+  },
+  {
+    "Question": "When was the last report released?",
+    "Answer": "The last report was released in August 2022."
+  },
+  {
+    "Question": "What types of reports are included in the Validator Health Reports?",
+    "Answer": "The Validator Health Reports include data-driven analyses of the health of the Solana validator network."
+  }
+]

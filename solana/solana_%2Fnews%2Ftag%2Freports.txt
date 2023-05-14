@@ -1,0 +1,19 @@
+
+[
+    {
+        "question": "What is Trycarbonara?",
+        "answer": "Trycarbonara is a platform that enables users to view emissions data down to the validator level on the Solana blockchain."
+    },
+    {
+        "question": "What type of reports does Solana Foundation provide?",
+        "answer": "Solana Foundation provides reports such as Validator Health Reports, Developer and User Activity Reports, State of the Network Snapshots, and Network Performance Reports."
+    },
+    {
+        "question": "What did the Energy Use Report for March 2022 find?",
+        "answer": "The Energy Use Report for March 2022 found that average emissions per validator shrank, while Solana’s overall carbon footprint grew because of network growth."
+    },
+    {
+        "question": "What is the average energy usage of a Solana transaction?",
+        "answer": "The average Solana transaction takes less energy than many other common household activities, according to the Energy Use Report for November 2021."
+    }
+]

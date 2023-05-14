@@ -1,0 +1,39 @@
+
+[
+    {
+        "question": "What is the NFT Showdown?",
+        "answer": "The NFT Showdown is a competition organised by the Solana Foundation to create the next generation of NFT brands on the Solana blockchain."
+    },
+    {
+        "question": "What is included in the Solana Newsletter?",
+        "answer": "The Solana Newsletter provides updates about the Solana blockchain, including new partnerships, events, and grant opportunities."
+    },
+    {
+        "question": "Who runs the Solana Foundation?",
+        "answer": "The Solana Foundation is managed by a team of experienced blockchain professionals and experts."
+    },
+    {
+        "question": "What is SolanaGrants?",
+        "answer": "SolanaGrants is a program run by the Solana Foundation to support the development of projects on the Solana blockchain."
+    },
+    {
+        "question": "What is the SolanaMedia Kit?",
+        "answer": "The SolanaMedia Kit is a collection of resources designed to help developers and media professionals learn more about the Solana blockchain."
+    },
+    {
+        "question": "Are there any careers available with the Solana Foundation?",
+        "answer": "Yes, the Solana Foundation is always looking for talented individuals to join their team. Visit the Careers page on their website for more information."
+    },
+    {
+        "question": "What is the Solana Ecosystem?",
+        "answer": "The Solana Ecosystem is a global network of developers, partners, and users who are building on the Solana blockchain."
+    },
+    {
+        "question": "What is the Solana Blog?",
+        "answer": "The Solana Blog is a collection of articles, guides, and tutorials written by the Solana Foundation and its community members to help users learn more about the Solana blockchain."
+    },
+    {
+        "question": "What is the Solana Newsletter?",
+        "answer": "The Solana Newsletter is a monthly email newsletter providing updates about the Solana blockchain, including new partnerships, events, and grant opportunities."
+    }
+]

@@ -1,0 +1,23 @@
+
+[
+    {
+        "question": "When is Breakpoint 2023 happening?",
+        "answer": "Breakpoint 2023 is happening Monday, Oct. 30 - Friday, Nov. 3, 2023 in Amsterdam, Netherlands."
+    },
+    {
+        "question": "How do I get tickets for Breakpoint 2023?",
+        "answer": "You can sign up to be the first to hear when tickets go on sale. There are General Admission, Developer, Creator, and Student tickets available."
+    },
+    {
+        "question": "Where is the Solana Campus located?",
+        "answer": "The Solana Campus is located 15 minutes from central Amsterdam."
+    },
+    {
+        "question": "What kind of activities can I do at Breakpoint 2023?",
+        "answer": "At Breakpoint 2023, you can host a meetup, volunteer for a panel, host a workshop, share your knowledge, and more."
+    },
+    {
+        "question": "Do you have videos from Breakpoint 2022?",
+        "answer": "Yes, we have videos from Breakpoint 2022."
+    }
+]

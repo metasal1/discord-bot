@@ -1,0 +1,8 @@
+Q1: What is the Solana Community Update newsletter?
+A1: The Solana Community Update newsletter is an email newsletter that provides the latest updates on Solana and its ecosystem.
+
+Q2: What is Grizzlython?
+A2: Grizzlython is a hackathon hosted by the Solana Foundation with $5 million in prizes and seed funding up for grabs. Projects go from ideas to fully-fledged companies during a six week sprint, with special prizes and a demo day for the winners.
+
+Q3: What is Solana Mobile?
+A3: Solana Mobile is a project that allows users to turn a selfie into an NFT in seconds with Minty Fresh. It recently soft launched in Melbourne.

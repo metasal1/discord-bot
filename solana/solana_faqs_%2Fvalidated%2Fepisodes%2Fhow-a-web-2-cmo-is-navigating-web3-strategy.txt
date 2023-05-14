@@ -1,0 +1,15 @@
+
+[
+  {
+    "question": "What is web3 and how does it relate to legacy fashion brands?",
+    "answer": "Web3 is an umbrella term for a collection of emerging technologies that enable users to interact with digital applications in a decentralized manner. During the last bull run, many legacy fashion brands raced to incorporate web3 into their strategies. This was done in order to create more customer engagement and loyalty through the use of new and innovative technologies."
+  },
+  {
+    "question": "What has changed in the last year regarding Fossil's attitude towards web3?",
+    "answer": "Fossil Group has recently ventured into NFTs and their attitude towards web3 has changed in the last year. They remain bullish on the implementation of web3 strategies for both Fossil and other legacy brands in the long term, but only if those strategies are implemented for the right reasons."
+  },
+  {
+    "question": "What is the disclaimer related to the content provided by Solana Foundation?",
+    "answer": "The content provided by Solana Foundation is intended to be for educational, informational, and entertainment purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities, options, futures, or other derivatives related to securities in any jurisdiction. All opinions expressed herein are the speakers’ own personal opinions and do not reflect the opinions of any entities. The Foundation Parties shall have no liability whatsoever, under contract, tort, trust or otherwise, to any person arising from or related to the content or any use of the information contained herein by you or any of your representatives."
+  }
+]

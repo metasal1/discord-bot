@@ -1,0 +1,27 @@
+
+[
+  {
+    "question": "What is the Solana Foundation Delegation Strategy?",
+    "answer": "The Solana Foundation Delegation Strategy is an initiative to allocate 100 million SOL tokens for the purpose of censorship resistance."
+  },
+  {
+    "question": "What is the partnership between dfuse and Solana?",
+    "answer": "The partnership between dfuse and Solana is a technical collaboration to create a powerful data solution for the Solana network."
+  },
+  {
+    "question": "What is Tour de SOL?",
+    "answer": "Tour de SOL is an incentivized testnet event for validators to secure the Solana network and earn tokens."
+  },
+  {
+    "question": "What is the SLP1 Cluster Launch?",
+    "answer": "The SLP1 Cluster Launch is an incentivized cluster for development and partner testing prior to mainnet launch."
+  },
+  {
+    "question": "What did Solana achieve in 2019?",
+    "answer": "In 2019, Solana achieved significant progress in growth and development, culminating in a successful launch of the mainnet."
+  },
+  {
+    "question": "What is pipelining in Solana?",
+    "answer": "Pipelining in Solana is the process the network utilizes to validate and replicate transactions with web-scale speed and functionality."
+  }
+]

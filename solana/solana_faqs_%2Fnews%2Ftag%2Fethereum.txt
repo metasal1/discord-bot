@@ -1,0 +1,22 @@
+[
+    {
+    "question": "What is the Solana Foundation x Serum DeFi Hackathon?",
+    "answer": "The Solana Foundation x Serum DeFi Hackathon is a hackathon bringing together blockchain developers to build the next generation of NFT brands on Solana."
+    },
+    {
+    "question": "What is the goal of the Solana Foundation x Serum DeFi Hackathon?",
+    "answer": "The goal of the Solana Foundation x Serum DeFi Hackathon is to bring blazing speed, low fees, and scalability to Decentralized Finance."
+    },
+    {
+    "question": "What are some of the technologies used in Solana?",
+    "answer": "Solana uses a variety of technologies including Ethereum, Wormhole, and Blockchain technology."
+    },
+    {
+    "question": "What are the innovations that make Solana the first web-scale blockchain?",
+    "answer": "The innovations that make Solana the first web-scale blockchain include a 50,000 TPS blockchain network, an incentivized cluster for development and partner, and more."
+    },
+    {
+    "question": "What resources are available from the Solana Foundation?",
+    "answer": "The Solana Foundation provides resources such as grants, media kits, a blog, a newsletter, and more."
+    }
+]

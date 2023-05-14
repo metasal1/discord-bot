@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What caused the Mainnet Beta network stall?",
+    "answer": "On Friday, December 4th at 1:46pm UTC, Solana's Mainnet Beta network halted new block confirmations, which caused a temporary outage."
+  },
+  {
+    "question": "When did the Mainnet Beta stall occur?",
+    "answer": "The Mainnet Beta stall occurred on Friday, December 4th at 1:46pm UTC."
+  }
+]

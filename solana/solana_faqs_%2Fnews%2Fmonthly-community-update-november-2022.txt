@@ -1,0 +1,14 @@
+
+[{
+"question": "What happened at Breakpoint 2021?",
+"answer": "At Breakpoint 2021, more than 3,700 builders came together in Lisbon. Community members from around the world came to learn, code, and recognize the accomplishments and hard work of the Solana community."
+}, {
+"question": "How did the FTX collapse affect the Solana network?",
+"answer": "The Solana network remains strong and full of committed builders. We’ve published a blog post to foster transparency and answer questions related to the FTX collapse. You can read that post here: <link>"
+}, {
+"question": "What is the state of the Solana network?",
+"answer": "As of October 2022, there were 11.5 million active user accounts on Solana, despite the market downturn. The number of open source projects on Solana continues to grow, with 20,717 Github developer repositories as of the start of Breakpoint in early November 2022. NFTs have exploded on Solana, with more than 21.9 million NFTs minted from 150,000 creators. Over 1,100 gamers came to Solana Foundation Games Day in Lisbon, which took place the day before Breakpoint kicked off. Over $150 million was raised by Solana DeFi projects in 2022. At Breakpoint 2021, DAO governance did not exist on Solana. In the year since, new tooling has led to a blossoming of DAOs on Solana, leading to 7,693 DAO proposals and 31,793 total votes."
+}, {
+"question": "What new announcements were made at Breakpoint 2022?",
+"answer": "Jump Crypto's Firedancer processes 1.2 million transactions per second in live demo, Instagram and Facebook now support Solana NFTs, Google Cloud is exploring the Solana network, Ledger adds support for Solana Mobile, Patika launches new Solana course for Turkish devs."
+}]

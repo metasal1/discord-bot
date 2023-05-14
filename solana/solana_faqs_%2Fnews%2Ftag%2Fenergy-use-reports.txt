@@ -1,0 +1,15 @@
+
+[
+    {
+        "question": "What is Solana's Energy Use Report?",
+        "answer": "Solana's Energy Use Report is a monthly report which provides data on the energy consumption of Solana's network and validator nodes."
+    },
+    {
+        "question": "What caused the increase in network emissions in September 2022?",
+        "answer": "The increase in network emissions in September 2022 was caused by the new measurements of e-waste, improved methodology, and validator network growth."
+    },
+    {
+        "question": "What caused the decrease in emissions per validator?",
+        "answer": "The decrease in emissions per validator was caused by the new measurements of e-waste, improved methodology, and validator network growth."
+    }
+]

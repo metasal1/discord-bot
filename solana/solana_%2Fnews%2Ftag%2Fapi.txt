@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is Pocket?", 
+        "answer": "Pocket is a decentralized API solution, that incentivizes participants to run full nodes for developers who need data for their applications"
+    }, 
+    {
+        "question": "What is Pocket's integration with Solana?",
+        "answer": "Pocket recently announced its integration with Solana, providing developers with decentralized API solutions."
+    }, 
+    {
+        "question": "How does Pocket incentivize participants?", 
+        "answer": "Pocket incentivizes participants to run full nodes for developers by providing rewards."
+    }
+]

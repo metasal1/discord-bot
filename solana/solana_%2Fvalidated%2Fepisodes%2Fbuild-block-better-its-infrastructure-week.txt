@@ -1,0 +1,23 @@
+
+[
+    {
+        "question": "What is blockchain infrastructure?",
+        "answer": "Blockchain infrastructure refers to any component of a blockchain network that facilitates its existence, such as hardware and software."
+    },
+    {
+        "question": "How do you build infrastructure for different blockchains?",
+        "answer": "Building infrastructure for different blockchains requires sophisticated hardware and software working together to run a blockchain network."
+    },
+    {
+        "question": "How can infrastructure companies adapt to legacy tech giants entering the space?",
+        "answer": "Infrastructure companies will need to stay on top of new technologies and be able to scale quickly in order to remain competitive with legacy tech giants in the space."
+    },
+    {
+        "question": "What is the Solana Foundation?",
+        "answer": "The Solana Foundation is an organization that provides educational, informational, and entertainment content related to blockchain technology."
+    },
+    {
+        "question": "Does the Solana Foundation offer any warranties?",
+        "answer": "No, the Solana Foundation does not offer any warranties for the accuracy of the information provided."
+    }
+]

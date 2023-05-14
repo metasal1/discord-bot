@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Solana Labs?",
+    "answer": "Solana Labs is a software engineering organization that is building, shipping, and scaling the Solana blockchain platform."
+  },
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization that supports the development of the Solana blockchain platform."
+  },
+  {
+    "question": "What has Solana Labs and the Solana Foundation been working on?",
+    "answer": "Both Solana Labs and the Solana Foundation have been working to build, ship, and scale the Solana blockchain platform."
+  }
+]

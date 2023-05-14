@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is Helium?",
+    "answer": "Helium is a decentralized wireless network, the largest LoRaWAN network in the world, providing wireless access via its constellation of hotspots deployed by individuals and enterprises around the world."
+  },
+  {
+    "question": "What are the benefits of the Helium upgrade to Solana?",
+    "answer": "The benefits of the Helium upgrade to Solana include cost-effective connectivity, focus, open-source ethos, composable smart contracts in one global state, and more."
+  },
+  {
+    "question": "What is the cost of minting an NFT on Solana?",
+    "answer": "Minting 900k compressed NFTs on Solana costs as little as 0.3 SOL in storage cost and 5 SOL in transaction cost (roughly $122 at the time of publication)."
+  },
+  {
+    "question": "What is DePIN?",
+    "answer": "Decentralized Physical Infrastructure (DePin) projects are projects that bring blockchain technology into the real world."
+  }
+]

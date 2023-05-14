@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is the Solana Foundation?",
+        "answer": "The Solana Foundation is a non-profit organization established to support the development and growth of the Solana protocol and its associated ecosystem."
+    },
+    {
+        "question": "When was the Solana Foundation established?",
+        "answer": "The Solana Foundation was established on April 8th, 2020 when Solana Labs transferred all IP related to the protocol and a majority of SOLs to the Solana Foundation."
+    },
+    {
+        "question": "What is the purpose of the Solana Foundation?",
+        "answer": "The purpose of the Solana Foundation is to support the development and growth of the Solana protocol and its associated ecosystem."
+    }
+]

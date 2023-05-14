@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Coinbase Custody?",
+    "answer": "Coinbase Custody is an institutional-grade qualified custodian and fiduciary under New York State banking law, providing secure storage of digital assets for institutional clients."
+  },
+  {
+    "question": "What does Coinbase Custody support?",
+    "answer": "Coinbase Custody now supports Solana, a blockchain platform designed for scalability and security for mission-critical applications."
+  },
+  {
+    "question": "What is the partnership between Coinbase Custody and Solana?",
+    "answer": "Coinbase Custody and Solana have partnered to provide secure storage of digital assets for institutional clients."
+  }
+]

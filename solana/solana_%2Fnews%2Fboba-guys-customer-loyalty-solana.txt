@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is Boba Guys' commitment to their customers?",
+    "answer": "Boba Guys is committed to providing high-quality ingredients and exceptional customer service to create an amazing experience for their customers."
+  },
+  {
+    "question": "What kind of loyalty program is Boba Guys building?",
+    "answer": "Boba Guys is building a next-generation customer loyalty program on Solana. The program will offer real-time rewards and perks to customers, making their experience more personalized and engaging."
+  },
+  {
+    "question": "What kind of investments has the Solana Foundation made in Boba Guys?",
+    "answer": "The Solana Foundation has invested $100,000 in the form of a convertible grant into Boba Guys."
+  },
+  {
+    "question": "What is the purpose of the Solana Foundation's investment in Boba Guys?",
+    "answer": "The Solana Foundation's investment in Boba Guys is intended to show how loyalty programs can be improved for both customers and retailers, and to create a path for other organizations to follow."
+  }
+]

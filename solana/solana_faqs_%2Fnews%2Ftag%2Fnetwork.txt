@@ -1,0 +1,15 @@
+
+[
+    {
+        "question": "What was the cause of the Solana Mainnet Beta Outage on June 1?",
+        "answer": "The Solana Mainnet Beta outage on June 1 was caused by a bug in the durable nonce transactions feature."
+    },
+    {
+        "question": "How long did the Solana Mainnet Beta Outage last?",
+        "answer": "The Solana Mainnet Beta Outage lasted for approximately four and a half hours."
+    },
+    {
+        "question": "When did the Solana Mainnet Beta Outage occur?",
+        "answer": "The Solana Mainnet Beta Outage occurred at approximately 16:30 UTC on Wednesday, June 1."
+    }
+]

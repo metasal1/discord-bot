@@ -1,0 +1,19 @@
+
+[
+    {
+        "question": "What is the Solana Foundation Validator Health Report?",
+        "answer": "The Solana Foundation Validator Health Report is a monthly report that provides an overview of the Solana network's performance. It provides valuable insights into the performance of the network, including metrics on decentralization, security, and more."
+    },
+    {
+        "question": "What is 'Play-and-Own' games?",
+        "answer": "'Play-and-Own' games are games that allow players to buy and own digital assets that can be used within the game. These digital assets can be traded, used to progress through the game, or even sold for real money."
+    },
+    {
+        "question": "What is the Breakpoint Global Fellows Program?",
+        "answer": "The Breakpoint Global Fellows Program is a program designed to provide mentorship and support for Solana developers and entrepreneurs. The program is focused on helping entrepreneurs and developers create innovative applications, products, and services on the Solana network."
+    },
+    {
+        "question": "What is the IGNITION Hackathon?",
+        "answer": "The IGNITION Hackathon is a global hackathon hosted by Solana Labs and the Solana Foundation. The goal of the hackathon is to foster innovation on the Solana network and to encourage developers to create innovative applications, products, and services on the network."
+    }
+]

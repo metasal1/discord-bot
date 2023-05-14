@@ -1,0 +1,27 @@
+
+[
+  {
+    "question": "What is Solana sponsoring?",
+    "answer": "Solana is sponsoring Lollapalooza again in 2022."
+  },
+  {
+    "question": "What can I get for free?",
+    "answer": "You can get entry to Solana’s Dopamine compound at Lollapalooza 2022 for free."
+  },
+  {
+    "question": "How do I get a piece of Lollapalooza?",
+    "answer": "You can collect all 4 Collections in 2022 at the Solana Compound near the Solana x Perry's stage to hold a piece of Lollapalooza."
+  },
+  {
+    "question": "What can I win by scanning tags?",
+    "answer": "You can win VIP passes, exclusive experiences, swag, and more by scanning redemption tags around the Solana Compound at Lollapalooza."
+  },
+  {
+    "question": "What are the benefits of using Solana?",
+    "answer": "Solana has fast transactions, low energy impact, and fees that are a fraction of a cent, making it a popular choice for NFT projects."
+  },
+  {
+    "question": "Where can I find the most popular NFT marketplaces?",
+    "answer": "The most popular NFT marketplaces are Magic Eden, Phantom, and Holaplex."
+  }
+]

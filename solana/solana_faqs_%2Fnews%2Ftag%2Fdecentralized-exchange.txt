@@ -1,0 +1,6 @@
+[{"Q":"What is the NFT Showdown?",
+"A":"The NFT Showdown is an opportunity to develop and build the next generation of NFT brands on the Solana network."},
+{"Q":"What is Solana's network architecture?",
+"A":"Solana's network architecture is a high-performance permissionless design, consisting of decentralized exchanges, Avalanche, Proof of History, and a Developer platform managed by the Solana Foundation."},
+{"Q":"What are SolanaGrants?",
+"A":"SolanaGrants is a funding initiative by the Solana Foundation to support developers and entrepreneurs building on the Solana network."}]

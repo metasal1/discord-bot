@@ -1,0 +1,19 @@
+
+[
+  {
+    question: "What is the Solana Network?",
+    answer: "The Solana Network is an open-source, high-performance blockchain protocol designed to enable secure, scalable, and trustless decentralized applications."
+  },
+  {
+    question: "What is Tether?",
+    answer: "Tether is a cryptocurrency asset issued on the Bitcoin, Ethereum, Tron, Omni, and Algorand blockchains. It is backed by fiat currencies such as the US dollar, Euro, and the Japanese Yen."
+  },
+  {
+    question: "What is USDt?",
+    answer: "USDt is a stablecoin issued by Tether on the bitcoin blockchain, and is backed by the US dollar."
+  },
+  {
+    question: "What is the purpose of bringing USDt to the Solana Network?",
+    answer: "Bringing USDt to the Solana Network will allow developers to create and use stable digital assets on the Solana blockchain, enabling them to build more secure, scalable, and trustless applications."
+  }
+]

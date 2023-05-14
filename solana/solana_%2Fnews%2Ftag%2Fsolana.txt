@@ -1,0 +1,70 @@
+[
+    {
+        "Question": "What was the global challenges faced by Solana in 2020?",
+        "Answer": "2020 was a difficult and challenging year for many. Despite the global challenges, Solana and the entire Solana ecosystem managed to make great strides in the blockchain technology space."
+    },
+    {
+        "Question": "What is SOLAR Bridge?",
+        "Answer": "SOLAR Bridge is a bridge that connects Solana ledger data to Arweave’s Permanent Network."
+    },
+    {
+        "Question": "What was the purpose of Solana's Inaugural Hackathon?",
+        "Answer": "Solana's Inaugural Hackathon was a global event with the purpose of accelerating the growth of the ecosystem with over 1,000 registrations and 60+ project submissions from builders."
+    },
+    {
+        "Question": "What is the Solana Foundation Delegation Strategy?",
+        "Answer": "The Solana Foundation Delegation Strategy is allocating 100 million SOL toward censorship resistance."
+    },
+    {
+        "Question": "What was the October Newsletter Update about?",
+        "Answer": "The October Newsletter Update included the release of the Wormhole Bridge connecting Ethereum with Solana, Audius bringing decentralized music to Solana, and USDC-SPL being live with $25M."
+    },
+    {
+        "Question": "Why did Audius choose Solana to scale long-term?",
+        "Answer": "Audius chose Solana to scale long-term due to its ability to provide fast and secure transactions, as well as its support for decentralized applications."
+    },
+    {
+        "Question": "What is Circle and Solana Partner to bring USDC to the Solana Blockchain?",
+        "Answer": "Circle and Solana have partnered to bring USDC (a stablecoin) to the Solana Blockchain, known as USDC-SPL."
+    },
+    {
+        "Question": "What is the purpose of the Wormhole-Solana/Ethereum Bridge?",
+        "Answer": "The purpose of the Wormhole-Solana/Ethereum Bridge is to pave the road to a decentralized economic utopia by connecting multiple blockchains."
+    },
+    {
+        "Question": "What was the September Newsletter about?",
+        "Answer": "The September Newsletter included updates about Tether bringing USDT to the Solana Network, Solana Ecosystem Growth, OKEx Lists SOL, and more."
+    },
+    {
+        "Question": "What is the Solana Arweave Interoperability Hack?",
+        "Answer": "The Solana Arweave Interoperability Hack is a collaboration between Solana and Arweave calling for developers to build a bridge between the Solana and Arweave networks."
+    },
+    {
+        "Question": "What is the Decentralized Solana DShop Swag Store?",
+        "Answer": "The Decentralized Solana DShop Swag Store, powered by Origin Protocol, is a store where people can purchase gear with Solana branding."
+    },
+    {
+        "Question": "What are Solana Foundation Transparency Reports?",
+        "Answer": "Solana Foundation Transparency Reports are an important part of maintaining a high level of transparency as the Solana token user base grows."
+    },
+    {
+        "Question": "What is the Gate.io Listing Competition?",
+        "Answer": "The Gate.io Listing Competition is an upcoming competition featuring the Solana token."
+    },
+    {
+        "Question": "What is the Bithumb Global listing?",
+        "Answer": "The Bithumb Global listing is a listing of the SOL token on Bithumb Global."
+    },
+    {
+        "Question": "What is the MXC listing?",
+        "Answer": "The MXC listing is the listing of the SOL token on MXC."
+    },
+    {
+        "Question": "What was the May Newsletter about?",
+        "Answer": "The May Newsletter was about the Solana Labs and the Solana Foundation building, shipping, and scaling, as well as the Decentralized Solana DShop Swag Store, powered by Origin Protocol, being live."
+    },
+    {
+        "Question": "What is Pocket integration with Solana?",
+        "Answer": "Pocket integration with Solana is a decentralized API solution that incentivizes participants to run full nodes for developers who need data for their applications."
+    }
+]

@@ -1,0 +1,16 @@
+[{
+    "question": "What caused the outage?",
+    "answer": "A runtime bug triggered by the durable nonce transactions feature allowed, under a specific set of circumstances, for a failed durable nonce transaction to be processed twice. This led to nondeterminism, when a validator processed the transaction a second time and some nodes rejected the subsequent block, while others accepted it."
+},
+{
+    "question": "How are nonce transactions supposed to work, and how are they different from normal transactions?",
+    "answer": "Solana utilizes parallel processing of non-overlapping transactions to greatly improve throughput. Networks that process transactions serially can use an incrementing nonce; Solana uses a different method to ensure transactions are not processed twice. For normal transactions, which make up over 99.99% of transactions on the Solana blockchain,  the network utilizes a recent block hash and maintains a record of processed transactions within that window to ensure that duplicates are not processed. Because durable nonce transactions are designed to not expire, they require a different mechanism to prevent double processing, and are processed serially."
+},
+{
+    "question": "What happened?",
+    "answer": "The processing of a durable nonce transaction in a specific set of circumstances revealed a bug in the runtime that prevented the network from advancing. This bug required the durable nonce transaction to have failed, and would not have been triggered by a successful transaction. The durable nonce transaction was processed while its blockhash was still recent enough for the transaction to be processed as a normal transactionSeeing a recent blockhash, the runtime assumed it was processing a normal transaction, not a durable nonce transactionThis transaction failed and since it was not processed as a durable transaction, processing did not advance the on-chain nonce value as intendedBecause the failed transaction was successfully added to a block, its transaction fees were paidAfter the durable transaction was processed once and failed, it was still able to be processed again as a durable transaction because the nonce value it referenced had not been advanced and was still usable. After the failed transaction was processed, but before the nonce was used again, the user resubmitted the same transaction for processing. This resubmission activated the bug in the runtime."
+},
+{
+    "question": "What is being done?",
+    "answer": "The durable nonce transaction feature was disabled in releases v1.9.28/v1.10.23 to prevent the network from halting if the same situation were to arise again. Durable nonce transactions will not process until the mitigation has been applied, and the feature re-activated in a forthcoming release."
+}]

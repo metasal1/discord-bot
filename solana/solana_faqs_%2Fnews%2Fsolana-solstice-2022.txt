@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is Solana Mobile Stack?",
+    "answer": "Solana Mobile Stack is a protocol from Solana Labs that helps seed a whole ecosystem of new projects that aim to free web3 from desktops and make mobile a much friendlier to dApps. Saga, Solana Mobile’s flagship device, also brings a near-hardware wallet level of security to mobile devices, uniting security and simplicity."
+  },
+  {
+    "question": "What is Solana Pay?",
+    "answer": "Solana Pay is a protocol introduced in February that has kickstarted a frictionless, permissionless payment ecosystem. It’s now being used by stores and brands alike — and will continue to grow in 2023."
+  },
+  {
+    "question": "What is SolanaU?",
+    "answer": "SolanaU is a program that has been helping students and professors at universities from Berkeley to Belgrade learn about the Solana ecosystem. The next cohort of SolanaU Ambassadors is taking applications until December 22nd."
+  },
+  {
+    "question": "What is Solana Network Usage?",
+    "answer": "Solana network usage averages around 4,000 transactions per second, thousands more than the nearest competitor."
+  },
+  {
+    "question": "What is Firedancer?",
+    "answer": "Firedancer is a second validator client that will turbocharge transaction times on Solana, taking the network’s respectable TPS from the thousands to the hundreds of thousands, if not millions. It is set to be released in 2023."
+  },
+  {
+    "question": "What is Solana Spaces?",
+    "answer": "Solana Spaces is a company dedicated to bringing the Solana community off the internet and into retail spaces. They have opened two locations in the last year, one in New York City and their flagship Solana Embassy in Miami, that showcase projects from the ecosystem and help onboard new users."
+  },
+  {
+    "question": "What is Solana Hacker Houses?",
+    "answer": "Solana Hacker Houses are spaces for Solana developers to build, learn, and showcase their projects. There are more than 24 Solana Hacker Houses from Berlin to Bangalore and Seoul to Seattle, and there are a dozen Solana Hacker Houses already open for registration in 2023."
+  },
+  {
+    "question": "What is Breakpoint?",
+    "answer": "Breakpoint is the annual conference put on by the Solana Foundation. More than 3,800 members of the Solana community gathered in Lisbon this year to see thoughtful discussions, dig into the tech, and hear from the ecosystem about what’s coming up next year."
+  }
+]

@@ -1,0 +1,8 @@
+Q1: What is Solana's network architecture?
+A1: Solana is a high-performance permissionless network that employs a distributed systems approach to scaling blockchain. It features innovations such as Proof of History, a clock for blockchain, and Loom, a data-encoding technique for time.
+
+Q2: What is Proof of History?
+A2: Proof of History is a new approach to blockchain scaling that encodes time as data. It is used in Solana's network architecture to enable faster transaction times and greater scalability.
+
+Q3: What is Loom?
+A3: Loom is a data-encoding technique for time that is used in Solana's network architecture. It is designed to enable faster transaction times and greater scalability.

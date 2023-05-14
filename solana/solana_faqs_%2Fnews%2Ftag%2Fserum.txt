@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Serum?",
+    "answer": "Serum is a new high-speed, non-custodial decentralized derivatives exchange created by FTX and Alameda Research. It is built on Solana."
+  },
+  {
+    "question": "What is the benefit of building Serum on Solana?",
+    "answer": "Solana provides a high-speed, secure, decentralized infrastructure which is ideal for a DEX such as Serum."
+  },
+  {
+    "question": "Who created Serum?",
+    "answer": "Serum was created by FTX and Alameda Research and is supported by the Serum Foundation."
+  }
+]

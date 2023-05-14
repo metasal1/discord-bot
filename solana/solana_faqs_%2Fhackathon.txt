@@ -1,0 +1,27 @@
+
+[
+  {
+    "question": "What is a Solana hackathon?",
+    "answer": "Solana hackathons are global, online events where ambitious entrepreneurs and builders compete to launch their crypto startups to raise seed rounds from the world's leading investors."
+  },
+  {
+    "question": "How many developers participate in Solana hackathons?",
+    "answer": "Solana hackathons have had over 48,000 developers participate."
+  },
+  {
+    "question": "How many projects have been launched through Solana hackathons?",
+    "answer": "Over 2,500 projects have been launched through Solana hackathons."
+  },
+  {
+    "question": "What is the minimum external funding required to participate in a Solana hackathon?",
+    "answer": "$600 is the minimum external funding required to participate in a Solana hackathon."
+  },
+  {
+    "question": "Who are the previous winners and honorable mentions of Solana hackathons?",
+    "answer": "Please check our website for a list of the previous winners and honorable mentions of Solana hackathons."
+  },
+  {
+    "question": "Who are the sponsors of Solana hackathons?",
+    "answer": "Please check our website for a list of the sponsors of Solana hackathons."
+  }
+]

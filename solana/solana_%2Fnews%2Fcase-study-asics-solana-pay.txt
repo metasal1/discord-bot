@@ -1,0 +1,11 @@
+Q1: What is ASICS?
+A1: ASICS is a renowned athletic shoe brand that was founded in Japan after World War II with the mission of uplifting youth and promoting an active lifestyle. 
+
+Q2: What is Solana Pay?
+A2: Solana Pay is a large-scale brand loyalty program built on the Solana blockchain, which allows brands to launch loyalty programs that can scale at day one, with better utility and better ownership of the assets associated with said program. 
+
+Q3: What is the UI Collection?
+A3: The UI Collection is an open edition running shoe design from ASICS, which comes in a "light mode" or "dark mode" color scheme, and includes a loyalty badge. 
+
+Q4: What are the benefits of using Solana for a loyalty program?
+A4: The Solana platform is open source, meaning brands can drag-and-drop aspects of the loyalty program they dream up from existing projects and users who are ready to collaborate. Additionally, Solana has an extremely low environmental impact.

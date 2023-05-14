@@ -1,0 +1,31 @@
+
+[
+  {
+    "question": "What is Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization dedicated to fostering the growth and development of the Solana blockchain ecosystem."
+  },
+  {
+    "question": "What is Solana Grants?",
+    "answer": "Solana Grants are a funding mechanism for open source projects that are building on the Solana blockchain. They are designed to support developers, researchers, and entrepreneurs who are creating the next generation of blockchain-based products and services."
+  },
+  {
+    "question": "What is Solana Media Kit?",
+    "answer": "The Solana Media Kit is a comprehensive collection of resources and materials to help members of the media and influencers learn more about Solana and the projects built on it."
+  },
+  {
+    "question": "What is the Solana Ecosystem?",
+    "answer": "The Solana Ecosystem is a vibrant global community of developers, entrepreneurs, and investors building on the Solana blockchain. It includes projects like wallets, exchanges, and other applications that make it easier to use and interact with the Solana blockchain."
+  },
+  {
+    "question": "What is the Solana Blog?",
+    "answer": "The Solana Blog is a place to find the latest news and updates about the Solana blockchain, the Solana Foundation, and the projects built on the Solana platform."
+  },
+  {
+    "question": "What is the Solana Newsletter?",
+    "answer": "The Solana Newsletter is a weekly email newsletter that provides subscribers with the latest news and updates about the Solana blockchain, the Solana Foundation, and the projects built on the Solana platform."
+  },
+  {
+    "question": "Who owns Solana Foundation?",
+    "answer": "Solana Foundation is owned and managed by the Solana Foundation. All rights are reserved by the Solana Foundation."
+  }
+]

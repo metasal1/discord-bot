@@ -1,0 +1,27 @@
+
+[
+  {
+    "question": "Why are thousands of new blockchain developers building on Solana?",
+    "answer": "New blockchain developers are choosing Solana over other chains for its scalability, speed, lower costs, and the Electric Capital Developer Report which confirmed Solana as one of the fastest growing blockchains in 2022."
+  },
+  {
+    "question": "How much has the number of full time Solana developers grown since 2018?",
+    "answer": "The number of full time Solana developers has grown 16x16x since 2018."
+  },
+  {
+    "question": "How much did the total Solana developers grow in 2022?",
+    "answer": "The total Solana developers grew by 83% in 2022."
+  },
+  {
+    "question": "How many monthly active developers are building on Solana?",
+    "answer": "More than 2000 monthly active developers are building on Solana, second in raw numbers only to Ethereum."
+  },
+  {
+    "question": "What is Solana's vision for web3?",
+    "answer": "Solana's vision for web3 is to embrace decentralization as the uncompromising core of everything a project does, and to create an open-sourced code, all-activity on-chain, and self-custody community-owned experience."
+  },
+  {
+    "question": "What is the Grizzlython Hackathon?",
+    "answer": "The Grizzlython Hackathon is a great opportunity for blockchain developers to join the growing Solana community and kickstart their crypto journey. Builders in the Solana community are very excited about the years ahead of them."
+  }
+]

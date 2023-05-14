@@ -1,0 +1,39 @@
+
+[
+  {
+    "question": "What is holding back crypto from mass adoption?",
+    "answer": "Bad UX is one of the things holding back crypto from mass adoption."
+  },
+  {
+    "question": "What are the pros and cons of Central Bank Digital Currency (CBDC)?",
+    "answer": "The pros and cons of Central Bank Digital Currency (CBDC) were discussed in the live taping of Validated from NFT.NYC, where Austin had an informal chat with his Solana Foundation colleagues Amira Valliani and Pedro Miranda."
+  },
+  {
+    "question": "What topics were discussed in the episode 'Two Ex-OFAC Lawyers Walk into a Bar ... and Discuss the Warren-Marshall Bill'?",
+    "answer": "In the episode 'Two Ex-OFAC Lawyers Walk into a Bar ... and Discuss the Warren-Marshall Bill', Austin, Amira (Head of Policy at the Solana Foundation), and two ex-OFAC lawyers discussed regulation in web3 as it pertains to national security, OFAC's sanction of Tornado Cash and other topics."
+  },
+  {
+    "question": "What is the importance of self-custody?",
+    "answer": "Self-custody is necessary in order to realize the promise of crypto self-sovereignty. Charles Guillimet (CTO of Ledger) discussed the importance of self-custody and the implications for crypto users in the episode 'Not Your Keys, Not Your Crypto'."
+  },
+  {
+    "question": "What happened when Meta Angels was acquired by Hug?",
+    "answer": "When Meta Angels was acquired by Hug, an NFT curation platform, their respective communities merged. This was discussed in the episode 'What Does It Mean for an NFT Community to Get Acquired?'"
+  },
+  {
+    "question": "What are the use cases of Zero-Knowledge Proofs?",
+    "answer": "The use cases of Zero-Knowledge Proofs were discussed in the episode 'Are Zero-Knowledge Proofs All They're Hyped Up to Be?'. Zero-knowledge proofs can be used to prove something with zero knowledge of the thing being proved."
+  },
+  {
+    "question": "What is Decentralized Physical Infrastructure Network (DePIN)?",
+    "answer": "Decentralized Physical Infrastructure Network (DePIN) projects use token economics to incentivize the deployment of physical infrastructure to solve real-world problems. This was discussed in the episode 'Crypto-Powered Physical Infrastructure with Sami Kassab'."
+  },
+  {
+    "question": "What is Arweave's role in making information storage permanent?",
+    "answer": "According to Sam Williams, co-founder of Arweave, immutable storage systems can play a part in making information storage permanent. This was discussed in the episode 'A Decentralized Collective Memory with Sam Williams'."
+  },
+  {
+    "question": "What is Black Dave's web3 origin story?",
+    "answer": "Black Dave is a multi-disciplinary artist best known for his music NFTs and unlike many artists who migrate to web3 from Web 2, web3 is where Black Dave got his start. Dave's web3 origin story was discussed in the episode 'Meet a web3 Musician Who Makes Money'."
+  }
+]

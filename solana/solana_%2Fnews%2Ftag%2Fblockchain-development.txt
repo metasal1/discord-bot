@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is Solana?",
+    "answer": "Solana is a high performance blockchain that uses a concept called Proof of History to achieve a cryptographically secure and trustless distributed ledger system."
+  },
+  {
+    "question": "How does Solana create decentralized storage for a multi-petabyte digital ledger?",
+    "answer": "Solana uses a distributed ledger system to store data across multiple computers, creating a decentralized storage system for the digital ledger. This ensures that the data is secure and tamper-proof, while also providing scalability and high performance."
+  }
+]

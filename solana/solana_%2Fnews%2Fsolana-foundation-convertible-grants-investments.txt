@@ -1,0 +1,15 @@
+
+[
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a nonprofit organization that provides funding to projects around the world that are advancing the adoption, utility, decentralization, and security of the Solana network."
+  },
+  {
+    "question": "What does the Solana Foundation fund?",
+    "answer": "The Solana Foundation primarily funds noncommercial public goods on Solana through grants. It also offers convertible grants and investments for projects that meet certain milestones and have a commitment to public goods in the Solana ecosystem."
+  },
+  {
+    "question": "How can I apply for funding from the Solana Foundation?",
+    "answer": "You can apply for funding from the Solana Foundation by completing the application form at solana.org/grants. In the form, you will have an option to note if you are actively raising investment funds for your project. If interested, the Foundation will discuss what funding option would make sense for your specific situation."
+  }
+]

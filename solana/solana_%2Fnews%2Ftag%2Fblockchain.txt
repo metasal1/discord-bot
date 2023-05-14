@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the Solana Foundation x Serum DeFi Hackathon?",
+    "answer": "The Solana Foundation x Serum DeFi Hackathon is an event that brings together developers from all over the world to build decentralized finance (DeFi) applications using Solana and Serum."
+  },
+  {
+    "question": "What are the benefits of using Solana and DeFi?",
+    "answer": "Using Solana and DeFi provides developers with blazing speed, low fees, and scalability for their decentralized finance applications."
+  },
+  {
+    "question": "What is the SOLAR Bridge?",
+    "answer": "The SOLAR Bridge is a bridge that connects the Solana ledger data to Arweave's Permanent Network."
+  },
+  {
+    "question": "What is the Solana Foundation Grants Program?",
+    "answer": "The Solana Foundation Grants Program is an initiative to accelerate the growth of the Solana ecosystem by allocating 100 million SOL tokens toward censorship resistance."
+  },
+  {
+    "question": "What is the October Newsletter?",
+    "answer": "The October Newsletter is an update on the latest developments in the Solana ecosystem, such as the Wormhole Bridge, Audius, USDC-SPL, and more."
+  },
+  {
+    "question": "What is the Coinbase Custody partnership?",
+    "answer": "Solana is proud to partner with Coinbase Custody, an institutional-grade qualified custodian and fiduciary under New York banking law."
+  },
+  {
+    "question": "What is the July Newsletter?",
+    "answer": "The July Newsletter is an update on the latest developments in the Solana ecosystem, such as Serum, Reddit, Exchange Listing, and more."
+  },
+  {
+    "question": "What is the June Newsletter?",
+    "answer": "The June Newsletter is an update on the Solana ecosystem, such as 1B transactions, 20M blocks, Kin Migration, Exchange Listing, and more."
+  },
+  {
+    "question": "What is the May Newsletter?",
+    "answer": "The May Newsletter is an update on the progress of both Solana Labs and the Solana Foundation, such as their growth, ship, and scale."
+  },
+  {
+    "question": "What is the Solana Foundation Transparency Reports?",
+    "answer": "The Solana Foundation Transparency Reports are reports that provide a high level of transparency with regards to the Solana token user base."
+  }
+]

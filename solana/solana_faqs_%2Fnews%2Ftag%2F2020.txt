@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is a competition to build the next generation of NFT brands on Solana. Participants will compete to create unique and exciting NFTs that can be used in the Solana ecosystem."
+  },
+  {
+    "question": "How did Solana do in 2020?",
+    "answer": "Despite the global challenges, Solana and the entire Solana ecosystem managed to make great progress in 2020. SolanaGrants, Break Solana and the Solana Media Kit were all released, and the Solana Foundation was established to support the development of the Solana ecosystem."
+  },
+  {
+    "question": "Are there any resources to learn more about Solana?",
+    "answer": "Yes, there are several resources to learn more about Solana. The Solana Foundation website has a blog, newsletter and other resources to help you stay up to date with the latest news and developments. You can also join the Solana Ecosystem to connect with other members of the Solana community."
+  }
+]

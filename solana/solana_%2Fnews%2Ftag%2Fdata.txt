@@ -1,0 +1,14 @@
+[
+{
+	question: "What is Archivers?",
+	answer: "Archivers is a data storage solution developed by Solana, designed to store petabytes of blockchain data."
+},
+{
+	question: "What makes Solana the most performant blockchain?",
+	answer: "Solana has 8 innovative features, including Archivers, that make it the most performant blockchain."
+},
+{
+	question: "How does Archivers store data?",
+	answer: "Archivers stores data on a distributed file system and uses sharding techniques to ensure quick retrieval and access to data."
+}
+]

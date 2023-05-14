@@ -1,0 +1,12 @@
+
+Q1: What is the Solana Mobile Stack?
+A1: The Solana Mobile Stack (or SMS) is an innovative technology that enables users to easily use crypto on mobile devices. It includes a mobile wallet adapter, Seed Vault security element, Solana Pay protocol and a decentralized dApp store. 
+
+Q2: What is the Solana Pay protocol?
+A2: The Solana Pay protocol allows users to make frictionless payments with their mobile device. It works by allowing merchants to present a QR code or NFC terminal for users to tap and pay with their phone. 
+
+Q3: What is the Solana Mobile Stack SDK?
+A3: The Solana Mobile Stack SDK is a software development kit that developers can use to create mobile-first web3 experiences. It is now available for download. 
+
+Q4: What is the Solana Summer Camp Online Hackathon?
+A4: The Solana Summer Camp Online Hackathon is a hackathon hosted by the Solana Foundation that encourages developers to build on the Solana blockchain. It will be held on the Solana network in July 2021.

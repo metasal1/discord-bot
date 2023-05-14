@@ -1,0 +1,15 @@
+
+[
+  {
+    "question": "What is the NFT Showdown?", 
+    "answer": "The NFT Showdown is a competition to build the next generation of NFT brands on Solana."
+  }, 
+  {
+    "question": "What is Solana?", 
+    "answer": "Solana is a high-performance blockchain that enables developers to quickly and securely build decentralized applications."
+  }, 
+  {
+    "question": "How can I join the NFT Showdown?", 
+    "answer": "To join the NFT Showdown, sign up on the official website and submit your entry."
+  }
+]

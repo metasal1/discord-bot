@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the Solana Foundation Grants Wave One?",
+    "answer": "The Solana Foundation Grants Wave One is an initiative to accelerate the growth of the Solana ecosystem by providing grants to projects building on the Solana platform."
+  },
+  {
+    "question": "When did the Solana mainnet beta launch?",
+    "answer": "The Solana mainnet beta launched earlier this year."
+  },
+  {
+    "question": "What types of projects will be funded by the Solana Foundation Grants Wave One?",
+    "answer": "Projects that are building on the Solana platform will be eligible to receive funding from the Solana Foundation Grants Wave One."
+  }
+]

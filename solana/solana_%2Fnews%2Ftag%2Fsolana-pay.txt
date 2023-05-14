@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What is Boba Guys building?",
+    "answer": "Boba Guys is building a customer loyalty program on Solana."
+  },
+  {
+    "question": "What is Solana PayASICS?",
+    "answer": "Solana PayASICS is a new shoes for the Solana ecosystem that is available to order globally during Solana Breakpoint, and only with USDC on Solana."
+  },
+  {
+    "question": "What can Solana Pay do?",
+    "answer": "Solana Pay can bring on-chain interactivity to the off-chain world, elevate the power of a simple purchase, and help build new commerce capabilities."
+  },
+  {
+    "question": "What is the purpose of Solana Pay?",
+    "answer": "The purpose of Solana Pay is to spark activity to catalyze the future of payments, and create a smart contract payment stack with Solana Pay."
+  },
+  {
+    "question": "What is Solana Pay ushering in?",
+    "answer": "Solana Pay is ushering in a new payments era, with building blocks now existing for a decentralized, open, P2P payment protocol."
+  }
+]

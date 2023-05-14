@@ -1,0 +1,15 @@
+
+[
+  {
+    "Question": "What is the Wormhole Solana/Ethereum Bridge?",
+    "Answer": "The Wormhole Solana/Ethereum bridge is a way for people to connect different blockchains, allowing for the transfer of value and information between different blockchains."
+  },
+  {
+    "Question": "What is the purpose of the Wormhole Solana/Ethereum Bridge?",
+    "Answer": "The purpose of the Wormhole Solana/Ethereum bridge is to provide a way for people to bridge the gap between different blockchain networks, allowing for the transfer of value and information between different blockchains."
+  },
+  {
+    "Question": "What are the benefits of using the Wormhole Solana/Ethereum Bridge?",
+    "Answer": "The benefits of using the Wormhole Solana/Ethereum bridge include increasing the interoperability of different blockchains, allowing for greater flexibility in the movement of value and information between different blockchains, and providing a secure and reliable way to transfer value between different blockchains."
+  }
+]

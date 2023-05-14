@@ -1,0 +1,5 @@
+Q1: What issues did the 1.14 network update address?
+A1: The 1.14 network update addressed issues around invalid gas metering, lack of flow control for transactions, lack of fee markets, spiraling ram, storage and restart overhead.
+
+Q2: What plans are in motion to improve the balance between reliability and building a scalable and fast network?
+A2: Plans in motion to improve the balance between reliability and building a scalable and fast network include improving the process for software release rollouts by bringing in additional external developers and auditors to test and find exploits, continuing to support external core engineers, improving the upgrade process, forming an adversarial team, improving the restart process, and continuing to focus on stability.

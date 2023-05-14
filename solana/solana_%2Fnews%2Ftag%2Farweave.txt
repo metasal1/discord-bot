@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is an event hosted by the Solana Foundation that is designed to build the next generation of NFT brands on Solana's blockchain platform."
+  },
+  {
+    "question": "What is the SOLAR Bridge?",
+    "answer": "The SOLAR Bridge is a connection between Solana's ledger data and Arweave's Permanent Network. It allows for faster and more reliable storage and transfer of data."
+  },
+  {
+    "question": "What is Solana?",
+    "answer": "Solana is an open-source blockchain platform designed to provide users with a fast, secure, and reliable way to store and transfer data."
+  },
+  {
+    "question": "How do I get connected to the Solana ecosystem?",
+    "answer": "You can get connected to the Solana ecosystem by visiting the Solana website, joining the Solana newsletter, and following the Solana Foundation on social media."
+  }
+]

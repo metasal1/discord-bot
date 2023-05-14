@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is the Solana Foundation Delegation Strategy?",
+        "answer": "The Solana Foundation Delegation Strategy is an initiative to allocate 100 million SOL toward censorship resistance and decentralization of the Solana Token user base."
+    },
+    {
+        "question": "When was the Solana Foundation formed?",
+        "answer": "The Solana Foundation was formed on April 8th, 2020 when Solana Labs transferred all IP related to the protocol and a majority of SOLs to the Solana Foundation."
+    },
+    {
+        "question": "What is the Solana Foundation?",
+        "answer": "The Solana Foundation is a non-profit organization managed by Solana Labs. It focuses on decentralization and censorship resistance of the Solana Token user base, as well as providing grants, media kits, and connecting the Solana ecosystem."
+    }
+]

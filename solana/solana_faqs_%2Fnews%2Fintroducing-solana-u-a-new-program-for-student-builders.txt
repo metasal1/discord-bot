@@ -1,0 +1,19 @@
+
+[
+    {
+    "question": "What is Solana U?",
+    "answer": "Solana U is a new program aimed at equipping university students with tools to connect to the Solana ecosystem, learn Rust, and launch new projects."
+    },
+    {
+    "question": "What does the Ambassadors Program provide?",
+    "answer": "The Ambassadors Program provides students at universities or in blockchain clubs with a direct line to the Solana Foundation and core Solana Labs engineers. Ambassadors work closely with Solana Foundation staff to build a launch strategy for their school or club and get the educational materials, resources, and speakers it needs."
+    },
+    {
+    "question": "What other highlights are included in the program?",
+    "answer": "The program includes free workshops, talks, and panels exclusively for students, accelerators to help jumpstart student projects, university-focused hackathons, and the Breakpoint Global Fellows Program to help students from around the world attend Solana Breakpoint in Lisbon."
+    },
+    {
+    "question": "How can interested students, professors, and academics get involved in Solana U?",
+    "answer": "Interested students, professors, and academics can apply to the Solana U Ambassador Program, join the Solana U student Discord, and learn more about Solana U."
+    }
+]

@@ -1,0 +1,15 @@
+
+[
+  {
+    "question": "What is blockchain-based AI?",
+    "answer": "Blockchain-based AI is a technology that utilizes distributed ledgers to create peer-to-peer information systems. This technology has the potential to revolutionize how we transact on the Internet by creating secure and reliable information systems."
+  },
+  {
+    "question": "What are the benefits of decentralized AI?",
+    "answer": "Decentralized AI has the potential to create secure and reliable information systems that can be used to facilitate transactions on the Internet. This could lead to improved data security, as well as increased transparency and efficiency in how information is shared and used."
+  },
+  {
+    "question": "What should I consider before investing in blockchain-based AI?",
+    "answer": "Before investing in blockchain-based AI, it is important to conduct independent due diligence and consult with a professional advisor. It is also important to be aware of the potential risks associated with the technology, such as data security and regulatory compliance."
+  }
+]

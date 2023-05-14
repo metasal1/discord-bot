@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is the Grizzlython Electric Capital Developer Report?",
+        "answer": "The Grizzlython Electric Capital Developer Report is a monthly update from the Solana ecosystem that provides updates on the latest developments, news, and headlines from the Solana community."
+    },
+    {
+        "question": "What is OpenBook?",
+        "answer": "OpenBook is a platform created by the Solana community that provides a place for users to track and analyze the performance of different blockchain projects."
+    },
+    {
+        "question": "What is Neo Fairies trying to do?",
+        "answer": "Neo Fairies is a project that is attempting to change the incentives around non-fungible tokens (NFTs) on the Solana network."
+    },
+    {
+        "question": "What is AthensDAO?",
+        "answer": "AthensDAO is a decentralized autonomous organization (DAO) built on the Solana blockchain that allows users to pool funds and invest in projects they believe in."
+    },
+    {
+        "question": "What is Wormhole Bridge?",
+        "answer": "Wormhole Bridge is a project that connects Ethereum with Solana, allowing users to bridge assets between the two blockchains."
+    },
+    {
+        "question": "What is Audius?",
+        "answer": "Audius is a decentralized music streaming platform that is built on the Solana blockchain."
+    },
+    {
+        "question": "What is USDC-SPL?",
+        "answer": "USDC-SPL is a project that provides a stablecoin on the Solana network backed by US Dollars."
+    },
+    {
+        "question": "What is Tether bringing to the Solana Network?",
+        "answer": "Tether is bringing its USDT stablecoin to the Solana network, providing users with a more stable means of exchanging value on the blockchain."
+    },
+    {
+        "question": "What is the Summer of S◎L?",
+        "answer": "The Summer of S◎L is an event hosted by Solana Labs and the Solana Foundation to showcase the latest developments in the Solana ecosystem, such as Serum, Reddit, and a mind-blowing demo."
+    },
+    {
+        "question": "What happened when the Russian government invaded Ukraine?",
+        "answer": "When the Russian government invaded Ukraine in February 2022, the world was shocked. For some Solana projects, it was personal as they had to react quickly to the changing geopolitical landscape."
+    }
+]

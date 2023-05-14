@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is Solana Grizzlython?",
+        "answer": "Solana Grizzlython is a hackathon where participants can compete for a chance to win up to $5 million in prizes and seed funding."
+    },
+    {
+        "question": "How many participants were in the Solana Summer Camp Hackathon?",
+        "answer": "The Solana Summer Camp Hackathon had nearly 18,000 participants submit 750 final projects."
+    },
+    {
+        "question": "What prizes are available in the Solana Riptide Hackathon?",
+        "answer": "The Solana Riptide Hackathon offers up to $5 million in prizes and seed funding."
+    },
+    {
+        "question": "How many participants were in the Solana X Serum DeFi Hackathon?",
+        "answer": "The Solana X Serum DeFi Hackathon had over 3,000 registrations and 100+ project submissions."
+    },
+    {
+        "question": "What can I build in the Solana Foundation x Serum DeFi Hackathon?",
+        "answer": "In the Solana Foundation x Serum DeFi Hackathon, you can build projects with blazing speed, low fees, and scalability to Decentralized Finance."
+    },
+    {
+        "question": "How many participants were in the Solana's Inaugural Hackathon?",
+        "answer": "Solana's Inaugural Hackathon had over 1,000 registrations and 60+ project submissions."
+    }
+]

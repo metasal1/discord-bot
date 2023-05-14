@@ -1,0 +1,22 @@
+[
+    {
+        "Question": "What is the NFT Showdown?",
+        "Answer": "The NFT Showdown is an event that encourages developers to build the next generation of NFT brands on the Solana blockchain."
+    },
+    {
+        "Question": "What is in the June Newsletter?",
+        "Answer": "The June Newsletter includes topics such as 1B Transactions, 20M Blocks, Kin Migration, Exchange Listing, & More."
+    },
+    {
+        "Question": "What is the Solana Foundation?",
+        "Answer": "The Solana Foundation is a community-driven organization that is responsible for maintaining the Solana blockchain and its associated tokens."
+    },
+    {
+        "Question": "What is the Solana Token (SOL)?",
+        "Answer": "The Solana Token (SOL) is a cryptocurrency native to the Solana blockchain. It is used for a variety of purposes, including staking, governance, and more."
+    },
+    {
+        "Question": "What is Gate.io?",
+        "Answer": "Gate.io is a cryptocurrency exchange that offers trading of a variety of digital assets, including Solana (SOL)."
+    }
+]

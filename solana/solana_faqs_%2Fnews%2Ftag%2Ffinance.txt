@@ -1,0 +1,18 @@
+[ 
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is a competition that challenges developers to create the next generation of NFT brands on Solana's blockchain."
+  },
+  {
+    "question": "What is the purpose of the NFT Showdown?",
+    "answer": "The NFT Showdown is an opportunity for developers to showcase their creativity and technical skills in creating innovative NFT brands on Solana's blockchain."
+  },
+  {
+    "question": "What happened on Black Thursday?",
+    "answer": "On Black Thursday, we saw multiple oracle and settlement platform failures that were tied to network congestion and spikes in transaction volume."
+  },
+  {
+    "question": "What is the role of the Solana Foundation in the NFT Showdown?",
+    "answer": "The Solana Foundation is managing the NFT Showdown to promote the development of innovative NFT brands on Solana's blockchain."
+  }
+]

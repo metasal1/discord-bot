@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What is QUIC?",
+    "answer": "QUIC is a protocol built by Google, designed for fast asynchronous communication like UDP, but with sessions and flow control like TCP."
+  },
+  {
+    "question": "What is Stake-weighted QoS?",
+    "answer": "Stake-weighted QoS is a way to end the practice of indiscriminately accepting transactions on a first-come-first-served basis, without regard for source. It is natural to extend the utility of stake-weighting to transaction quality of service so that a node with 0.5% stake will have the right to transmit at least 0.5% of the packets to the leader."
+  },
+  {
+    "question": "What is the current status of Fee Markets?",
+    "answer": "Fee markets are currently live on Mainnet-beta, with RPC and wallet support coming soon."
+  },
+  {
+    "question": "What is the current status of Transaction size increase?",
+    "answer": "Transaction size increase is currently under development. Core engineers are currently testing larger transaction sizes."
+  },
+  {
+    "question": "What is Compact Vote State?",
+    "answer": "Compact Vote State is a feature which lowers the vote state even by a few bytes, leading to substantial improvements on the network, as less data is being transmitted and stored on the nodes. It is currently live on testnet."
+  }
+]

@@ -1,0 +1,19 @@
+
+[
+    {
+        "question": "What is Solana Pay?",
+        "answer": "Solana Pay is the first truly decentralized payments rail, introduced in February. It allows users to purchase items with digital currencies like USDC on the Solana blockchain."
+    },
+    {
+        "question": "What is the ASICS UI Collection?",
+        "answer": "The ASICS UI Collection is a custom running shoe in two forms, each accented with Solana colors, available only to purchase with USDC via Solana Pay. It comes with a loyalty ASICS Badge NFT and an initial reward airdrop of a limited number of ASICS-STEPN GT-2000 NFTs."
+    },
+    {
+        "question": "How do I purchase the ASICS UI Collection?",
+        "answer": "The ASICS UI Collection is available for pre-order now through Breakpoint and concluding on Nov. 9 at 6:59 AM UTC. It can be purchased with USDC via Solana Pay at ui.asics.com." 
+    },
+    {
+        "question": "Where can I see the shoes in person?",
+        "answer": "The shoes are on display at Solana Spaces in Hudson Yards in NY, the new Solana Embassy in Wynwood in Miami, and the Solana Spaces pop-up at Breakpoint."
+    }
+]

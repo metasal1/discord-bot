@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Move VM?",
+    "answer": "Move is a programming language designed to be used for secure smart contracts and digital asset creation on blockchain networks. It is used to write applications that can be used by parties to make secure, verifiable transactions."
+  },
+  {
+    "question": "What is Solana?",
+    "answer": "Solana is an open source blockchain platform designed to provide fast, secure and scalable transactions. It is designed for developers, organizations, and businesses looking to build decentralized applications on a secure, reliable and high-performance blockchain platform."
+  },
+  {
+    "question": "How does Solana support Move VM?",
+    "answer": "Solana is now compatible with Move, allowing projects to use the transactional speed and capacity of the Solana network. This enables developers to build applications that use Move to securely and verifiably transfer digital assets."
+  }
+]

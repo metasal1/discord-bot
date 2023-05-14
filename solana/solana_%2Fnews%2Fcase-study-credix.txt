@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is Credix?",
+    "answer": "Credix is a decentralized credit marketplace that links investors with FinTech companies in emerging markets with the goal of tackling credit challenges head-on."
+  },
+  {
+    "question": "What countries is Credix currently operating in?",
+    "answer": "Credix is currently operating in Brazil and plans to open a $150m credit facility in Colombia in 2023."
+  },
+  {
+    "question": "What does Credix do to help small- and medium-sized enterprises and individuals?",
+    "answer": "Credix has helped get over $25 million in loans to small- and medium-sized enterprises and individuals, passing through Brazilian FinTech companies like Tecredi, A55, Divibank, and Adiante."
+  },
+  {
+    "question": "What are the benefits of using Solana to power Credix?",
+    "answer": "Solana provides fast and cheap scalability, enabling investors to put $5 million through the Credix system and see confirmation in a matter of milliseconds rather than minutes. It also separates state and logic, enabling the logic to be coded once and new accounts to be opened on top of that."
+  }
+]

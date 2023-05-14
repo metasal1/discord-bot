@@ -1,0 +1,31 @@
+
+[
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization that manages the development of the Solana blockchain and its ecosystem."
+  },
+  {
+    "question": "What is the Solana Grants program?",
+    "answer": "The Solana Grants program provides funding for projects that support the development of the Solana ecosystem."
+  },
+  {
+    "question": "Where can I find the Solana Media Kit?",
+    "answer": "The Solana Media Kit can be found on the Solana Foundation website."
+  },
+  {
+    "question": "Where can I find information about careers with the Solana Foundation?",
+    "answer": "Information about careers with the Solana Foundation can be found on the Solana Foundation website."
+  },
+  {
+    "question": "What is the Solana Ecosystem?",
+    "answer": "The Solana Ecosystem is a network of developers, businesses, and institutions building decentralized applications on the Solana blockchain."
+  },
+  {
+    "question": "Where can I find the Solana Foundation blog?",
+    "answer": "The Solana Foundation blog can be found on the Solana Foundation website."
+  },
+  {
+    "question": "Where can I sign up for the Solana Foundation newsletter?",
+    "answer": "The Solana Foundation newsletter can be subscribed to on the Solana Foundation website."
+  }
+]

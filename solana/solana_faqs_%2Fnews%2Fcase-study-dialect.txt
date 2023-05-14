@@ -1,0 +1,18 @@
+[
+    {
+    "question": "What is state compression?",
+    "answer": "State compression is an innovation from the Solana ecosystem that uses a Merkle tree structure to store minimal data on the blockchain in order to confirm that an NFT's underlying data is correct, while storing updates in the Solana ledger to take advantage of the chain's security and decentralization."
+    },
+    {
+    "question": "What is the cost of minting NFTs on Solana?",
+    "answer": "The normal price of NFT minting on Solana is 0.012 SOL, a comparatively low figure among blockchains."
+    },
+    {
+    "question": "What is the cost breakdown of minting NFTs with state compression?",
+    "answer": "Minting 100,000 NFTs costs $103, and a million NFTs (ten times the original amount) for only $30 more. This estimate assumes an average gas price of 44 Gwei for Ethereum and 77 Gwei for Polygon based on estimates pulled from Etherscan.io and Polygonscan.io on April 5, 2023."
+    },
+    {
+    "question": "How can I get early access to Dialect's NFT stickers?",
+    "answer": "You can join Dialect's waitlist or contact them directly on social media to get early access to their NFT stickers. They also often host giveaways and drops that you can participate in to get the latest NFT stickers."
+    }
+]

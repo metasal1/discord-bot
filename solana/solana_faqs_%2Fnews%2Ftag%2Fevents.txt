@@ -1,0 +1,15 @@
+
+[
+	{
+		"Question": "What is a Solana x Jump Hacker House?",
+		"Answer": "A Solana x Jump Hacker House is a community-run event that celebrates Solana Summer with a European tour. It is a great way to build towards Breakpoint and join the Solana movement!"
+	},
+	{
+		"Question": "Are there more Solana Hacker Houses coming soon?",
+		"Answer": "Yes! Get ready for Round 2 and stay tuned for more updates on upcoming events."
+	},
+	{
+		"Question": "What is the Solana Hacker House Inaugural World Tour?",
+		"Answer": "The Solana Hacker House Inaugural World Tour is an event series that brings Solana into the real world, one city at a time."
+	}
+]

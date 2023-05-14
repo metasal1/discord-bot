@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Why choose Solana?",
+    "answer": "Solana has solved the trilemma of scale, security, and decentralization for you."
+  },
+  {
+    "question": "What was announced in the September Newsletter?",
+    "answer": "The September Newsletter included announcements such as Tether bringing USDT to the Solana Network, Solana Ecosystem Growth, OKEx Listing SOL, and more."
+  },
+  {
+    "question": "What is the Solana Arweave Interoperability Hack?",
+    "answer": "The Solana Arweave Interoperability Hack is a collaboration between Solana and Arweave, calling for developers to build a bridge between the Solana and Arweave networks."
+  },
+  {
+    "question": "What exchanges are SOL tokens available on?",
+    "answer": "The SOL token is available on BitMax, Bithumb Global, and MXC."
+  },
+  {
+    "question": "What was announced in the May Newsletter?",
+    "answer": "The May Newsletter discussed the growth of Solana Labs and the Solana Foundation building, shipping, and scaling the network."
+  },
+  {
+    "question": "What is the purpose of the Solana Foundation?",
+    "answer": "The Solana Foundation is responsible for the Solana protocol and a majority of SOL tokens."
+  },
+  {
+    "question": "What is the purpose of Elastic Circuit Breakers?",
+    "answer": "Elastic Circuit Breakers are designed to help prevent oracle and settlement platform failures that may be caused by network congestion and spikes in transaction activity."
+  },
+  {
+    "question": "What is SOL Bandits on the Run?",
+    "answer": "SOL Bandits on the Run is a game created by the team at Chorus One where players can compete to execute the largest attack in Tour de SOL."
+  }
+]

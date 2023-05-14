@@ -1,0 +1,8 @@
+Q1: What is the most powerful thing about crypto?
+A1: The most powerful thing about crypto is the proliferation of public/private key cryptography for normal, everyday people.
+
+Q2: What are the advantages of using Solana?
+A2: Solana has seen rapid growth to millions of active addresses. It’s now the largest platform for NFTs, the most user-friendly onramp to crypto. Through a global community of developers launching thousands of diverse applications across DeFi, collectibles, gaming, payments and more, millions of people are already using private keys to authenticate transactions.
+
+Q3: What are the features of Solana Mobile Stack?
+A3: Solana Mobile Stack includes Seed Vault, a secure custody protocol for mobile that facilitates instant signing of transactions while keeping private keys partitioned from wallets, apps and the Android operating system, along with Mobile Wallet Adapter and integrated payments capabilities. It also includes the Solana DApp Store, a new app distribution system on Android for decentralized apps.

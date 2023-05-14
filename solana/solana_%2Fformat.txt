@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the Solana House x FORMAT digital vouchers?",
+    "answer": "The Solana House x FORMAT digital vouchers are a way to get free snacks at the FORMAT Festival, powered by TipLink and while supplies last."
+  },
+  {
+    "question": "What is Nancy Baker Cahill’s NFT exhibit?",
+    "answer": "Nancy Baker Cahill is exhibiting 10 exclusive NFTs at Solana House which will be auctioned off to the public with help from Magic Eden."
+  },
+  {
+    "question": "What is the FORMAT Festival?",
+    "answer": "The FORMAT Festival is an event taking place in Bentonville, AR from September 23-25, 2022, where attendees can experience art and tech and redeem a mystery NFT."
+  },
+  {
+    "question": "What is Solana?",
+    "answer": "Solana is a blockchain protocol built to support a high-throughput, low-fee platform for NFTs. It processes 20.3M+ NFTs with fast transactions, and low energy impact."
+  },
+  {
+    "question": "What is an NFT?",
+    "answer": "NFT stands for Non-Fungible Token. It is a digital asset that is unique and cannot be replaced. It is stored on the blockchain to ensure its authenticity."
+  }
+]

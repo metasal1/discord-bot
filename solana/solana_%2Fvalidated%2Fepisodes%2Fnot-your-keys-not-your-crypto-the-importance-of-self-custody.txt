@@ -1,0 +1,19 @@
+
+[
+    {
+        "question": "What is self-sovereignty?",
+        "answer": "Self-sovereignty is the idea that individuals should have full control over their digital identity and assets, with the ability to manage their own data and financial activities securely and with consent."
+    },
+    {
+        "question": "What is the importance of self-custody?",
+        "answer": "Self-custody is key to achieving self-sovereignty, as it enables users to maintain full control over their assets. It is also essential for providing secure storage and management of cryptographic keys and other sensitive data."
+    },
+    {
+        "question": "What role does security play in self-custody?",
+        "answer": "Security is an essential part of self-custody, as it ensures the user's assets are kept safe and secure. Security measures such as encryption, authentication, and access control help protect users' assets and data from unauthorized access. "
+    },
+    {
+        "question": "What has been Ledger's experience as the crypto industry has changed over the last decade?",
+        "answer": "Ledger has been at the forefront of the crypto industry over the last decade, and has adapted its product offerings to meet the changing needs of users. Ledger has developed a range of hardware and software solutions to help users securely store and manage their crypto assets."
+    }
+]

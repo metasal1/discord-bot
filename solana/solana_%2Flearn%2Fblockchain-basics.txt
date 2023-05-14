@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What exactly IS the blockchain?",
+        "answer": "At its core, the blockchain is a ledger — a series of records and data points, like a spreadsheet or old accounting book. Unlike spreadsheets or old books, though, the blockchain is decentralized — instead of it being stored in one place, it’s stored across different computers across a network and around the world."
+    },
+    {
+        "question": "How does that relate to cryptocurrency?",
+        "answer": "Cryptography is the art of keeping things secure. Cryptocurrency, then, is a type of currency that is based on cryptography. Rather than the ledger being centralized, transactions are decentralized — there’s no single authority validating everything — and as secure as other encrypted data. The translation? It’s a very safe way of storing data and value with no choke points or central points of failure and which is very difficult to manipulate."
+    },
+    {
+        "question": "What is a smart contract?",
+        "answer": "A smart contract is a contract that is written into the code of a blockchain and executed automatically when terms are met. It’s something that Solana and certain other protocols can do, but some other blockchains — most notably Bitcoin — cannot."
+    },
+    {
+        "question": "What are dApps?",
+        "answer": "A dApp is a decentralized application, or app that uses smart contracts. Any crypto program — like a marketplace, blockchain game, or tool used for DAO governance — is a dApp."
+    },
+    {
+        "question": "What is web3?",
+        "answer": "Web3 is the next iteration of the internet. Each iteration of the internet has been based on specific ideas: If web 1.0 was static websites and hyperlinking (like AOL or GeoCities) and web2 was social media (like Twitter, Facebook, and so on), web3 is built around the idea of decentralization."
+    },
+    {
+        "question": "What is the advantage of all this decentralization?",
+        "answer": "People who traditionally haven’t had access to banking have the ability to participate in the financial system. You can pay for your favorite coffee without any fees or intermediaries. Networks can’t be compromised or shut down due to one large controlling entity, like a nation state or powerful platform. Users themselves can easily have a stake or buy into the platforms they are using, voting on the future of a video game metaverse."
+    },
+    {
+        "question": "Why Solana?",
+        "answer": "Solana is engineered for widespread, mainstream use by being energy efficient, lightning fast, and extremely inexpensive. Many of the core Solana builders, like co-founder Anatoly Yakavenko, have a background in building cell phone networks. That means that they are singularly focused on building for scalability (the ability to grow) and efficiency (the ability to get the most information across with the least amount of resources)."
+    }
+]

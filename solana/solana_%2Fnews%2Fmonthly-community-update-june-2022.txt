@@ -1,0 +1,37 @@
+Q1: What is Grape? 
+A1: Grape is a tokenized community that acts as a one-stop shop for building a community on Solana. 
+
+Q2: What is AthensDAO?
+A2: AthensDAO is an event held by Grape that brings together people, groups, and communities building new tools and use cases for DAOs on Solana. 
+
+Q3: What is the purpose of the Solana Community Update newsletter?
+A3: The Solana Community Update newsletter is a way to stay informed on the latest news and updates from the Solana Foundation. 
+
+Q4: What is the Solana Foundation Developer Relations Team working on?
+A4: The Solana Foundation Developer Relations Team is working to create a Q+A site for Solana developers on StackExchange.
+
+Q5: What is the Solana Foundation and Solana Ventures launching?
+A5: The Solana Foundation and Solana Ventures are launching a $100 million fund to accelerate development and activity across all web3 verticals. 
+
+[
+    {
+      "question": "What is Grape?",
+      "answer": "Grape is a tokenized community that acts as a one-stop shop for building a community on Solana."
+    },
+    {
+      "question": "What is AthensDAO?",
+      "answer": "AthensDAO is an event held by Grape that brings together people, groups, and communities building new tools and use cases for DAOs on Solana."
+    },
+    {
+      "question": "What is the purpose of the Solana Community Update newsletter?",
+      "answer": "The Solana Community Update newsletter is a way to stay informed on the latest news and updates from the Solana Foundation."
+    },
+    {
+      "question": "What is the Solana Foundation Developer Relations Team working on?",
+      "answer": "The Solana Foundation Developer Relations Team is working to create a Q+A site for Solana developers on StackExchange."
+    },
+    {
+      "question": "What is the Solana Foundation and Solana Ventures launching?",
+      "answer": "The Solana Foundation and Solana Ventures are launching a $100 million fund to accelerate development and activity across all web3 verticals."
+    }
+  ]

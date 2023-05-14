@@ -1,0 +1,10 @@
+[
+    {
+        "Question": "What is Move VM?",
+        "Answer": "Move VM is a programming language designed by Facebook's Libra project that simplifies the development of smart contracts."
+    },
+    {
+        "Question": "How is Move VM compatible with Solana?",
+        "Answer": "Move VM is now compatible with the Solana network, giving developers the ability to use the Solana network's speed and capacity for their projects."
+    }
+]

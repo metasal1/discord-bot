@@ -1,0 +1,18 @@
+[
+{
+   "question": "What is Solana's core innovation?",
+   "answer": "Solana's core innovation is its Proof of History consensus mechanism, which allows the Solana blockchain to process thousands of transactions per second while maintaining a secure, decentralized network."
+},
+{
+   "question": "Who manages Solana?",
+   "answer": "The Solana Foundation is responsible for managing Solana and its related activities."
+},
+{
+   "question": "What is the Solana Grants Program?",
+   "answer": "The Solana Grants Program is an initiative from the Solana Foundation to provide funding support for projects and initiatives that further the Solana ecosystem."
+},
+{
+   "question": "How can I get involved with Solana?",
+   "answer": "You can get involved with Solana by joining the Solana community on social media, subscribing to the Solana newsletter, or participating in the Solana Grants Program."
+}
+]

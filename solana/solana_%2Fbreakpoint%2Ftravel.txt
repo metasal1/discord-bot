@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is a Schengen Visa?",
+        "answer": "The Netherlands is part of the Schengen Region. A Schengen visa is a short-stay visa that allows a person to travel to any member of the SCHENGEN AREA, including Netherlands and stay up to 90 days in a 180 day period for tourism or business purposes."
+    },
+    {
+        "question": "Do I need a Visa for the Netherlands to attend Breakpoint?",
+        "answer": "Click HERE to check if you need a Visa to travel to the Netherlands."
+    },
+    {
+        "question": "Where do I go to apply for a Schengen visa?",
+        "answer": "The issuance of a Schengen visa must be done at the consulate of the country considered to be its main destination, depending on the purpose of your trip and the length of stay, or in the first country of entry if it is the same length of stay in the different Schengen States. Solana Foundation has engaged the assistance of Nomadic to provide you with directions on how to obtain the Schengen visa. Click HERE to answer a few questions about your travel plans and Nomadic will contact you with more detailed instructions on the visa application process."
+    },
+    {
+        "question": "How long will it take to obtain a Schengen Visa for the Netherlands?",
+        "answer": "Processing times vary depending on the location where you apply. In many cases an in-person appointment is required as part of the application process. Please note the appointments are limited and it’s recommended that you apply 3- 6 months in advance of travel to give yourself enough time."
+    },
+    {
+        "question": "How do I receive discounts for flights?",
+        "answer": "Solana foundation has teamed up with SkyTeam and Delta to offer Breakpoint attendees flight discounts to/from Amsterdam. Discounts are automatically applied through the links below. SkyTeam - click HERE to receive the SkyTeam discount and book your flights. Receive discounts of up to 15% on a variety of airlines depending on class of service and departure point. Delta - click HERE to receive the Delta discount and book your flights. Receive a 3, 5 or 10% discount on Delta flights only depending on class of service and departure point. If you prefer to book over the phone, call Delta Meeting Network® at 1.800.328.1111 Monday–Friday from 8:00 a.m. – 6:30 p.m. (EST) and refer to event code NY2AU."
+    },
+    {
+        "question": "How do I book a hotel?",
+        "answer": "We have partnered with multiple hotels across Amsterdam to offer hotel blocks to Breakpoint attendees. More information on how to book will be added to this website in the coming weeks – check back soon!"
+    },
+    {
+        "question": "Will transportation be provided to the venue?",
+        "answer": "Free transportation will be provided between IJcatcher in central Amsterdam and TAETS Arts and Event Park for Breakpoint attendees. See the city in style with regular ferries, or take a short 15-minute shuttle bus ride to campus — both will pick up from IJcatcher."
+    }
+]

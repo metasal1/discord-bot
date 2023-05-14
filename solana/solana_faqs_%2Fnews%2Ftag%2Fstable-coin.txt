@@ -1,0 +1,15 @@
+[
+    {
+        "question": "What is Tether bringing to the Solana Network?",
+        "answer": "Tether is bringing the USDt stablecoin to the Solana Network."
+    },
+    {
+        "question": "What is the USDt stablecoin?",
+        "answer": "The USDt stablecoin is a cryptocurrency that is pegged to the US dollar. It is designed to maintain a stable price and is used for trading, remittances and other financial activities."
+    },
+    {
+        "question": "Why is the Solana Foundation integrating with Tether?",
+        "answer": "The Solana Foundation is integrating with Tether to bring the USDt stablecoin to the Solana Network, which will provide users with the ability to transact with a stable currency on the Solana platform."
+    }
+
+]

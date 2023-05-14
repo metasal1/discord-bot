@@ -1,0 +1,23 @@
+
+[
+    {
+        "question": "What is Solana Mobile Stack?",
+        "answer": "Solana Mobile Stack (SMS) is an open source software toolkit for Android that enables native Android web3 apps on Solana with the Seed Vault secure custody protocol that facilitates instant signing of transactions while keeping private keys partitioned from wallets, apps and the Android operating system."
+    },
+    {
+        "question": "What features does the Solana Mobile Stack SDK include?",
+        "answer": "The Solana Mobile Stack SDK includes a Mobile Wallet Adapter, a Seed Vault, Solana Pay for Android, and a Solana dApp Store."
+    },
+    {
+        "question": "What are the benefits of using the Solana Mobile Stack?",
+        "answer": "The Solana Mobile Stack provides developers with the tools to create rich mobile experiences on Solana, the world’s most performant blockchain. It simplifies the developer experience to build and extend dApps functionality for Solana, and opens up unexplored opportunities for devs to create new and better experiences such as minting an NFT anywhere, anytime, making contactless-based mobile payments backed by self-custodied funds, and participating in token-gated mobile commerce experiences."
+    },
+    {
+        "question": "What is the Solana Foundation?",
+        "answer": "The Solana Foundation has a mission to help support and grow the Solana network and its community while driving mass adoption for blockchain. Based in Switzerland, the Solana Foundation is working to realize a world where individuals own their data, use permissionless networks, and transfer information freely around the world."
+    },
+    {
+        "question": "How can I get involved with the Solana Foundation?",
+        "answer": "To get involved with the Solana Foundation, please visit https://solana.org/."
+    }
+]

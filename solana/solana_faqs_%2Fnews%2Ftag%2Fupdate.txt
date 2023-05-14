@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is the NFT Showdown?",
+        "answer": "The NFT Showdown is a competition to build the next generation of NFT brands on the Solana blockchain."
+    },
+    {
+        "question": "Where can I find the latest ecosystem updates?",
+        "answer": "The latest ecosystem updates can be found here: https://solana.com/news/tag/newsletter"
+    },
+    {
+        "question": "What projects are building on Solana?",
+        "answer": "The Solana Ecosystem includes projects such as Wormhole Bridge (connects Ethereum with Solana), Audius (decentralized music on Solana), and USDC-SPL ($25M live)."
+    }
+]

@@ -1,0 +1,15 @@
+
+[
+  {
+    "question": "What is the integration between Solana Foundation and Tether?",
+    "answer": "The Solana Foundation and Tether have established a technical integration to bring the USDT stablecoin to the Solana Network."
+  },
+  {
+    "question": "What is the purpose of the integration?",
+    "answer": "The integration between Solana Foundation and Tether will allow USDT stablecoin to be used on the Solana Network."
+  },
+  {
+    "question": "What benefits does the integration offer?",
+    "answer": "The integration offers the benefits of being able to use a stablecoin on the Solana Network, as well as the potential for increased liquidity and expanded services for users of the Solana Network."
+  }
+]

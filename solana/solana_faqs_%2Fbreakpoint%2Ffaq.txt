@@ -1,0 +1,46 @@
+[
+  {
+    "Question": "Where is Breakpoint located this year?",
+    "Answer": "Breakpoint 2023 will be located on the Solana Campus at TAETS Arts and Event Park, 15 minutes from central Amsterdam. All speaker venues will be within a few minutes walk of each other!"
+  },
+  {
+    "Question": "How do I get to the Solana Campus?",
+    "Answer": "Free transportation will be provided between IJcatcher in central Amsterdam and TAETS Arts and Event Park for Breakpoint attendees. See the city in style with regular ferries, or take a short 15-minute shuttle bus ride to campus — both will pick up from IJcatcher."
+  },
+  {
+    "Question": "What is included in Breakpoint?",
+    "Answer": "A Breakpoint ticket includes talks, workshops, in-person experiences, celebrations, and opportunities to connect with the entire Solana ecosystem."
+  },
+  {
+    "Question": "Are there any special ticket tiers, grant programs, or discounts on Breakpoint tickets?",
+    "Answer": "Don’t worry — Breakpoint is for builders, and the Solana Foundation wants to ensure that it’s within reach to almost everyone in the Solana community. Applications for programs for developer, creator, and student programs will be coming soon. These programs are subsidized with the support of the larger Solana ecosystem."
+  },
+  {
+    "Question": "What’s the schedule for Breakpoint?",
+    "Answer": "A full schedule will be posted to this website as Breakpoint gets closer, but here’s a high level schedule for planning your travel: Monday, Oct. 30 - Registration and Welcome Mixer (4pm); Tuesday, Oct. 31 - Conference (all day); Wednesday, Nov. 1 - Conference (all day); Thursday, Nov. 2 - Conference (all day); Friday, Nov. 3 - Conference (all day) Closing Celebration (9pm)."
+  },
+  {
+    "Question": "When will tickets go on sale?",
+    "Answer": "Tickets will be released in May — stay tuned!"
+  },
+  {
+    "Question": "Are travel and accommodation part of my ticket?",
+    "Answer": "Breakpoint attendees are responsible for making their own travel and accommodation — but there are plenty of hotels in central Amsterdam! We have partnered with multiple hotels across Amsterdam to offer hotel blocks to Breakpoint attendees. For more information on how to book, visit the travel page."
+  },
+  {
+    "Question": "Are there any flight discounts?",
+    "Answer": "The Solana Foundation has teamed up with SkyTeam and Delta to offer discounts on flights to/from Amsterdam for Breakpoint attendees. For more information on how to redeem these discounts, visit the travel page."
+  },
+  {
+    "Question": "Do I need a visa to attend Breakpoint 2023? How do I get an invitation letter?",
+    "Answer": "Please visit the travel page for more information."
+  },
+  {
+    "Question": "Do you have hotel recommendations?",
+    "Answer": "We have partnered with multiple hotels across Amsterdam to offer hotel blocks to Breakpoint attendees. For more information on how to book, visit the travel page."
+  },
+  {
+    "Question": "Additional questions?",
+    "Answer": "Please email breakpoint@solana.org."
+  }
+]

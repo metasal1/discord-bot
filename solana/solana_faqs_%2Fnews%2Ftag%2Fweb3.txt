@@ -1,0 +1,27 @@
+
+[
+    {
+        "question": "Who manages the Solana Foundation?",
+        "answer": "The Solana Foundation is managed by the Solana Foundation."
+    },
+    {
+        "question": "What is SolanaGrants?",
+        "answer": "SolanaGrants is a platform to fund projects that are building on the Solana blockchain."
+    },
+    {
+        "question": "Where can I find the SolanaMedia Kit?",
+        "answer": "The SolanaMedia Kit can be found on the Solana Foundation website."
+    },
+    {
+        "question": "Are there any career opportunities at the Solana Foundation?",
+        "answer": "Yes, the Solana Foundation is always looking for talented individuals to join the team. Please visit our Careers page for more information."
+    },
+    {
+        "question": "What is the Solana Ecosystem?",
+        "answer": "The Solana Ecosystem is a network of developers, businesses, and users who are building on the Solana blockchain."
+    },
+    {
+        "question": "How can I stay up to date on Solana news?",
+        "answer": "You can stay up to date on Solana news by subscribing to the Solana Foundation blog and newsletter."
+    }
+]

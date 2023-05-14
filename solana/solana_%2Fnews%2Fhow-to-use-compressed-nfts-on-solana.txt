@@ -1,0 +1,30 @@
+Q1: What is a compressed NFT?
+A1: A compressed NFT is a standard NFT that has been optimized for cost-effectiveness. It is 2,400-24,000x cheaper than its uncompressed counterpart, while still retaining the same structure.
+
+Q2: How do I initialize a Merkle tree?
+A2: Initializing a Merkle tree requires three parameters: Depth (capacity), buffer size (concurrency/latency), and canopy height (composability). Depth is the capacity of the tree and can range from eight leaves up to a billion (2^30). Buffer size is an approximation of the number of concurrent updates that can happen in the same block, and can range from eight to 2048. Canopy height determines the portion of the tree that remains on-chain, and maxes out at 17.
+
+Q3: How do I mint a compressed NFT?
+A3: Tooling for minting compressed NFTs is already live. Mints do not require proofs, so anyone can mint compressed NFTs as easily as before by issuing instructions against the Bubblegum smart contract.
+
+Q4: How do I transfer a compressed NFT?
+A4: Transferring a compressed NFT requires computing the proofs needed to signify that you know the latest state of the tree, along with the signature of the leaf owner (or delegate). The Merkle tree proofs are the set of hashes that can be used to prove that the leaf was in the tree to begin with. Submit the proofs along with the modification you want to make and send the transaction.
+
+[
+    {
+        "Q": "What is a compressed NFT?",
+        "A": "A compressed NFT is a standard NFT that has been optimized for cost-effectiveness. It is 2,400-24,000x cheaper than its uncompressed counterpart, while still retaining the same structure."
+    },
+    {
+        "Q": "How do I initialize a Merkle tree?",
+        "A": "Initializing a Merkle tree requires three parameters: Depth (capacity), buffer size (concurrency/latency), and canopy height (composability). Depth is the capacity of the tree and can range from eight leaves up to a billion (2^30). Buffer size is an approximation of the number of concurrent updates that can happen in the same block, and can range from eight to 2048. Canopy height determines the portion of the tree that remains on-chain, and maxes out at 17."
+    },
+    {
+        "Q": "How do I mint a compressed NFT?",
+        "A": "Tooling for minting compressed NFTs is already live. Mints do not require proofs, so anyone can mint compressed NFTs as easily as before by issuing instructions against the Bubblegum smart contract."
+    },
+    {
+        "Q": "How do I transfer a compressed NFT?",
+        "A": "Transferring a compressed NFT requires computing the proofs needed to signify that you know the latest state of the tree, along with the signature of the leaf owner (or delegate). The Merkle tree proofs are the set of hashes that can be used to prove that the leaf was in the tree to begin with. Submit the proofs along with the modification you want to make and send the transaction."
+    }
+]

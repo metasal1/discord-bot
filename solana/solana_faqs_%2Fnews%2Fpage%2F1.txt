@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What are xNFTs?",
+    "answer": "xNFTs are a type of non-fungible token (NFT) that are native to the Solana blockchain. They enable a range of new use cases, including digital collectibles, gaming, and other applications."
+  },
+  {
+    "question": "What is the Breakpoint Global Fellows Program?",
+    "answer": "The Breakpoint Global Fellows Program is an initiative from Solana Labs to bring together top blockchain talent from around the world to help further the development of the Solana blockchain and its ecosystem."
+  },
+  {
+    "question": "What is the IGNITION Hackathon?",
+    "answer": "The IGNITION Hackathon is a virtual event hosted by Solana Labs that challenges developers to build innovative applications on the Solana blockchain. Participants can win prizes and gain recognition for their work."
+  },
+  {
+    "question": "How do I get started with Solana development?",
+    "answer": "Solana Labs provides a variety of resources to help developers get started, including tutorials, documentation, and code samples. Visit the Solana website at https://solana.com/developers/getting-started/ to learn more."
+  }
+]

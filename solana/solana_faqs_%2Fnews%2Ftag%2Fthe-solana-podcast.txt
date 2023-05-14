@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is the Solana Podcast?",
+    "answer": "The Solana Podcast is a series of discussions on topics related to Solana and the blockchain space, featuring expert guests and insights from Solana co-founder Anatoly Yakovenko."
+  },
+  {
+    "question": "What topics are discussed on the Solana Podcast?",
+    "answer": "The Solana Podcast covers a wide range of topics, including censorship resistance, the metaverse, web3 infrastructure, and more."
+  },
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization that is dedicated to building an open source, permissionless, and censorship-resistant blockchain network."
+  },
+  {
+    "question": "How can I connect with the Solana Foundation?",
+    "answer": "You can connect with the Solana Foundation through their blog, newsletter, or social media channels. You can also find more information about their grants, media kit, and careers page on their website."
+  }
+]

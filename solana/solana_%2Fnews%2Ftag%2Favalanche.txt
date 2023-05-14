@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is Solana's Network Architecture?", 
+        "answer": "Solana is a high-performance permissionless network designed to facilitate fast, secure, and affordable transactions. It utilizes a decentralized exchange, Avalanche consensus, and Proof of History to ensure secure transactions and scalability."
+    }, 
+    {
+        "question": "What is the Solana Foundation?",
+        "answer": "The Solana Foundation is an independent organization that works to promote and grow the Solana community. It is responsible for the development of Solana, provides grants and funding opportunities, and oversees the Solana ecosystem."
+    }, 
+    {
+        "question": "What is the NFT Showdown?",
+        "answer": "The NFT Showdown is a competition to build the next generation of NFT brands on Solana. It provides a platform for developers to showcase their creativity by creating innovative NFTs with the help of Solana’s network architecture."
+    }
+]

@@ -1,0 +1,15 @@
+
+[
+    {
+        "question": "What caused the outage?", 
+        "answer": "Due to a validator operator’s malfunctioning hot-spare node, which the operator had deployed as part of a high-availability configuration, duplicate blocks were produced at the same slot height. Both the primary and spare validators became active at the same time, operating with the same node identity, but proposed blocks of differing composition."
+    },
+    {
+        "question": "What was done to fix the issue?", 
+        "answer": "A fix was proposed and a test was added to reproduce the edge-case bug. After review by the core team, the patch was merged into the master branch and backported to all release branches. New release binaries were built and deployed to canary nodes for testing, and 90% of stake-weight applied the patch to fix the consensus bug."
+    },
+    {
+        "question": "When did the network resume?", 
+        "answer": "Block production resumed at approximately 6:57 UTC on Saturday after a coordinated restart, and network operators continued to restore client services over the next several hours."
+    }
+]

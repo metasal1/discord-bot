@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is a competition to build the next generation of NFT brands on Solana. Participants have the opportunity to win prizes for building the most innovative and impactful NFTs."
+  },
+  {
+    "question": "What is the Solana Ecosystem Facts Related To FTX Bankruptcy?",
+    "answer": "The Solana Ecosystem Facts Related To FTX Bankruptcy reports on the financial effects of the FTX bankruptcy on the Solana network and its users."
+  },
+  {
+    "question": "What is the Breakpoint Global Fellows Program?",
+    "answer": "The Breakpoint Global Fellows Program is a program that provides fellows with mentorship, resources, and funding to build innovative projects on the Solana blockchain."
+  },
+  {
+    "question": "Where can I find ideas for the IGNITION Hackathon?",
+    "answer": "You can find ideas for the IGNITION Hackathon in the article 'Need Ideas for the IGNITION Hackathon? Start here.' on the Solana Foundation website."
+  },
+  {
+    "question": "How do I get started with Solana development?",
+    "answer": "You can get started with Solana development by reading the article 'Getting Started with Solana Development' on the Solana Foundation website."
+  }
+]

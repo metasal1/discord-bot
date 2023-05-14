@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is the Solana Foundation?",
+        "answer": "The Solana Foundation is a non-profit organization that works to support the Solana blockchain ecosystem."
+    },
+    {
+        "question": "What is the Solana Grants Program?",
+        "answer": "The Solana Grants Program is a fund dedicated to supporting developers and businesses who are building on the Solana blockchain."
+    },
+    {
+        "question": "What is the Solana Media Kit?",
+        "answer": "The Solana Media Kit is a set of resources to help people learn more about the Solana blockchain and its ecosystem."
+    },
+    {
+        "question": "What is the Solana Careers page?",
+        "answer": "The Solana Careers page is a hub where you can find job opportunities within the Solana blockchain ecosystem."
+    },
+    {
+        "question": "What is the Solana Disclaimer page?",
+        "answer": "The Solana Disclaimer page is a legal document that outlines the terms and conditions of using the Solana blockchain and its related services."
+    },
+    {
+        "question": "What is the Solana Get Connected page?",
+        "answer": "The Solana Get Connected page is a hub where you can find helpful resources to stay up to date with the Solana blockchain ecosystem."
+    },
+    {
+        "question": "What is the Solana Ecosystem page?",
+        "answer": "The Solana Ecosystem page is a hub where you can find information about the various companies, services, and products that make up the Solana blockchain ecosystem."
+    },
+    {
+        "question": "What is the Solana Blog?",
+        "answer": "The Solana Blog is a website where you can find the latest news and updates about the Solana blockchain ecosystem."
+    },
+    {
+        "question": "What is the Solana Newsletter?",
+        "answer": "The Solana Newsletter is an email newsletter where you can stay up to date with the latest news and updates about the Solana blockchain ecosystem."
+    }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "question": "How do validators form the backbone of the Solana network?",
+    "answer": "Validators help to process transactions and participate in consensus, making Solana the most high-performance blockchain network in the world."
+  },
+  {
+    "question": "How can validators earn SOL?",
+    "answer": "Validators can earn SOL for helping to secure the Solana network. Check out our docs on the economics and staking rewards."
+  },
+  {
+    "question": "How do I get started as a validator?",
+    "answer": "To get started, check out our docs on the technical requirements and steps to start your own node. You can also check out our Server Program for discounted servers through our partners."
+  },
+  {
+    "question": "Where can I find a list of validators?",
+    "answer": "You can view the current list of validators, their ranking by stake amount, and information about commission on our Validators Explorer page."
+  }
+]

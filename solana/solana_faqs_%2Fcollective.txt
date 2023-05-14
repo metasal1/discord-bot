@@ -1,0 +1,27 @@
+
+[
+  {
+    "question": "Are participants in the Solana Collective paid?",
+    "answer": "People can participate in the Collective by taking part in dozens of different activities and initiatives, all with their own rewards. While some of these activities offer payment, not all of them do, and there are no monthly stipends or payouts. But all members will get access to the Solana Collective’s benefits as soon as they are accepted — and those who go above and beyond might get other rewards, like a paid trip to Breakpoint 2022."
+  },
+  {
+    "question": "What if I have an idea for a project or task that I want to work on?",
+    "answer": "That’s great! While there’s a constantly-updated list of tasks that the Solana Collective can help out with, members often come up with their own. It’s a passionate group that wants to get stuff done!"
+  },
+  {
+    "question": "Can I apply if I don’t speak English?",
+    "answer": "It’s recommended that all Solana Collective members have at least an intermediate (B1) understanding of English to take advantage of all the benefits and activities, but if you don’t, that’s not a problem. There’s a robust network of region-specific members!"
+  },
+  {
+    "question": "How do I find out if I’ve been accepted?",
+    "answer": "The results of your application will be emailed to you from programs@solana.com. Usually applicants will receive the results within 48 hours of applying, but during periods where there is a high volume of applications it can take up to 10 business days."
+  },
+  {
+    "question": "I want to participate anonymously. Is the video required?",
+    "answer": "The video submission is required, but we understand that some people don’t want to reveal their identity. For those who wish to remain anonymous, it’s suggested that they wear a mask and potentially change their voice."
+  },
+  {
+    "question": "What if I have more questions?",
+    "answer": "If you have any questions about the Solana Collective, email programs@solana.com."
+  }
+]

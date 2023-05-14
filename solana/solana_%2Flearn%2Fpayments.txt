@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What exactly are “digital payments”?",
+    "answer": "Digital payments use digital currencies to pay for goods and services."
+  },
+  {
+    "question": "Does this just mean paying for things with cryptocurrency?",
+    "answer": "Not exactly, says Shere. “This is about building a new set of payment and commerce rails for merchants,” he says, “that happen to use the blockchain.”"
+  },
+  {
+    "question": "Wait, stablecoins? What are those?",
+    "answer": "Digital currency refers to a range of different, digital-native tokens. You’ve probably heard of several of them like sol (on Solana), bitcoin and ether (on Ethereum). The Solana ecosystem also has a number of other tokens built on top of it. Some of these tokens that are built on Solana, like USDC or USDT, are linked to the US dollar. They’re called stablecoins, and being linked to the dollar allows them to remain stable against fluctuations. That way you don’t spend 10,000 BTC on a pizza, only for it to become much more valuable a decade later!"
+  },
+  {
+    "question": "How is this different from traditional digital payment systems, like Venmo or a credit card?",
+    "answer": "Think of it as a digital version of cash. The entire digital financial system is built on intermediaries, says Shere. Payment systems like Venmo insert themselves between consumers and merchants, adding fees and slowing down the process. Blockchain payments, on the other hand, simplify that to a singular, one to one interaction."
+  },
+  {
+    "question": "What is “Solana Pay”?",
+    "answer": "Solana Pay is a protocol that allows people to pay with tokens by scanning a simple QR code. Anyone can set it up in their place of business or use it to create their own payments program!"
+  },
+  {
+    "question": "What do you mean by wallet?",
+    "answer": "To do anything with digital payments, you need to set up a digital wallet. There are several great options in the Solana ecosystem, and they’re easy to set up! Some, like Phantom, already had Solana Pay integrated."
+  },
+  {
+    "question": "Okay, so what exactly can you do with payments that use blockchain?",
+    "answer": "In addition to removing the fees and slowdowns associated with intermediaries, building a payments structure on the blockchain is really about creating a one on one connection between you and someone you’re purchasing something from. And once you think of it that way, the possibilities are endless."
+  },
+  {
+    "question": "How do I get started?",
+    "answer": "If you’re a customer, all you have to do is download a wallet and find a store or merchant that accepts Solana Pay! If you’re a merchant who wants to start accepting Solana Pay, you’ll need the help of a developer, but it’s very easy — and free — to set up. Learn more here."
+  }
+]

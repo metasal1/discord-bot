@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is Change?",
+    "answer": "Change is a web3-based software tool for social impact that was started by Sonia Nigam and Amar Shah. It enables nonprofits to add a “donate with crypto” form to their website, NFT collections to accept donations on primary or secondary sales, and consumers to donate both crypto and fiat at checkout."
+  },
+  {
+    "question": "What type of organizations does Change support?",
+    "answer": "Change has enabled over $1,000,000 in charitable donations to date and allows individuals to donate to more than 200,000 nonprofit and charitable organizations. The organizations they’ve worked with range from snack delivery service SnackMagic to sustainable jewelry line Lokai, empowering individuals to donate to the Make-A-Wish Foundation, the American Cancer Society, and Girls Who Code."
+  },
+  {
+    "question": "What are the advantages of using Change's donation system?",
+    "answer": "Change's donation system allows for transparency to be built into the smart contract set-up. Community members will be able to look up the nonprofit’s wallet and see its entire history of donations and also see what happens to the donation after they make it. Additionally, Solana's cost-effectiveness – transactions cost a fraction of a penny – also means that more of the donations end up in the hands of the non-profit."
+  },
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is an organization that showcases individual, independent projects in the Solana ecosystem. Being featured in a case study does not constitute an endorsement from the Solana Foundation."
+  }
+]

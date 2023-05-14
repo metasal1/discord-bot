@@ -1,0 +1,27 @@
+
+[
+    {
+        "question": "What is the status of the Solana network in the wake of recent events?",
+        "answer": "The Solana network has not experienced any notable performance or uptime issues and the security of the Solana network has not been negatively impacted by the collapse of FTX, or movements in asset price."
+    },
+    {
+        "question": "What is the Solana Foundation's exposure to FTX/Alameda?",
+        "answer": "Solana Foundation had ~$1M in cash or cash equivalents on FTX.com as of 11/6/22 when FTX.com ceased to process withdrawals. This is less than 1% of Solana Foundation’s cash or cash equivalents and as such, the impact on Solana Foundation operations is negligible. The Solana Foundation had no SOL custodied on FTX.com"
+    }, 
+    {
+        "question": "What assets does the Solana Foundation have exposure to in connection with the transactions with FTX/Alameda?",
+        "answer": "As of 11/14/22, the Solana Foundation has exposure to ~3.24m shares of FTX Trading LTD common stock, ~3.43m FTT tokens and 134.54m SRM tokens."
+    }, 
+    {
+        "question": "What is the status of wrapped assets on Solana affected by Sollet custodial bridge?",
+        "answer": "The total exposure to Sollet-based assets on Solana in circulation is valued at approximately $40 million as of Nov 10, 2022. The status of the underlying assets is unknown at this time."
+    }, 
+    {
+        "question": "What is the status of liquidity support / market making on Solana?",
+        "answer": "There are multiple market makers providing liquidity for DeFi applications on Solana."
+    }, 
+    {
+        "question": "What is the current state of unstaking of SOL on Solana?",
+        "answer": "Currently 29 million SOL from ~250 accounts is slated to be unstaked at the end of Epoch 370. This accounts for ~5.4% of total supply. The network has handled similar levels of destaking before."
+    }
+]

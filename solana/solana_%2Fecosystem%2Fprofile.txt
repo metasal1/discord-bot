@@ -1,0 +1,35 @@
+
+[
+  {
+    "question": "What are the hottest projects on Solana?",
+    "answer": "The hottest projects on Solana this month include Secretum, HDOKI, MetaVersana, Salad Cat Coin, Space Falcon, Star Atlas, and ALF Protocol."
+  },
+  {
+    "question": "What is Secretum?",
+    "answer": "Secretum is a revolutionary secure messaging and trading dapp powered by Solana."
+  },
+  {
+    "question": "What is HDOKI?",
+    "answer": "HDOKI is an entertainment ecosystem with crypto-backed rewards on Solana."
+  },
+  {
+    "question": "What is MetaVersana?",
+    "answer": "MetaVersana is the first B2E/P2E virtual platform which provides the ability to host events, conferences, and meetings on Solana."
+  },
+  {
+    "question": "What is Salad Cat Coin?",
+    "answer": "Salad Cat Coin is the coolest memecoin on Solana."
+  },
+  {
+    "question": "What is Space Falcon?",
+    "answer": "Space Falcon is an intergalactic Solana metaverse featuring PvP space battles."
+  },
+  {
+    "question": "What is Star Atlas?",
+    "answer": "Star Atlas is a grand strategy game of space exploration, territorial conquest, and resource management on Solana."
+  },
+  {
+    "question": "What is ALF Protocol?",
+    "answer": "ALF Protocol is a Solana based Leveraged Liquidity & Lending dApp."
+  }
+]

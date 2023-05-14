@@ -1,0 +1,19 @@
+
+[
+    {
+        "question": "What is Solana Ventures?",
+        "answer": "Solana Ventures is the strategic venture investment arm of Solana Labs. The Solana Ventures mission is to provide capital and resources to the most promising teams building on Solana and the broader digital asset and blockchain ecosystem."
+    },
+    {
+        "question": "What is Solana Foundation?",
+        "answer": "The Solana Foundation has a mission to help support and grow the Solana network and its community while driving mass adoption for blockchain. Based in Switzerland, the Solana Foundation is working to realize a world where individuals own their data, use permissionless networks, and transfer information freely around the world."
+    },
+    {
+        "question": "What is the Solana blockchain?",
+        "answer": "Solana is a global state machine, and the world’s most performant blockchain. It gives developers the confidence to build for the long term by delivering predictable scaling without compromising security or composability. Solana’s performance is driven by a single global state, which is capable of processing tens of thousands of smart contracts at once, and by Proof of History, a distributed clock that unlocks low-latency, sub-second finality across the global state."
+    },
+    {
+        "question": "What is the purpose of the new $100 million investment and grant fund?",
+        "answer": "The new $100 million investment and grant fund is to accelerate development and activity across all web3 verticals but with a particular focus on game studios, gamefi, NFTs, and DeFi."
+    }
+]

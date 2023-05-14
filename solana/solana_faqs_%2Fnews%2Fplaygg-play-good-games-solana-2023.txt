@@ -1,0 +1,19 @@
+
+[
+    {
+    "question": "When is PlayGG happening?",
+    "answer": "PlayGG is happening from July 18-19, 2023, at the JULEP Venue in San Diego, immediately before Comic-Con International."
+    },
+    {
+    "question": "What is PlayGG?",
+    "answer": "PlayGG is a community-first celebration of games and innovation featuring over 50 games built on Solana."
+    },
+    {
+    "question": "Is PlayGG free?",
+    "answer": "Yes, PlayGG is a completely free event for both attendees and exhibitors."
+    },
+    {
+    "question": "Will there be game developers and personalities at PlayGG?",
+    "answer": "Yes, PlayGG will feature over 50 games built on Solana, offering attendees a wide variety of gameplay experiences. Developers will be on hand to offer demos and provide attendees with a behind-the-scenes look at their games. In addition, expect feature reveals, surprises, and other announcements from top gaming studios. PlayGG will feature leading personalities from Twitch and other game-related sites, offering attendees the opportunity to meet some of the most prominent figures in gaming. Top professional teams will also be in attendance and competing live in online multiplayer Solana games."
+    }
+]

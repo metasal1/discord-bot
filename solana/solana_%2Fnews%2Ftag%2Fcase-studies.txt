@@ -1,0 +1,8 @@
+Q1. What is Dialect?
+A1. Dialect is a decentralized social messaging platform that uses compressed NFTs to onboard thousands of users for free.
+
+Q2. What is Crossmint?
+A2. Crossmint is an NFT tooling and API company that is using state compression to drop NFTs at a massive scale.
+
+Q3. What is Solana Pay?
+A3. Solana Pay is a payment stack that enables smart contract payments. It is used by ASICS to create a decentralized loyalty program, and by Credix to expand access to credit in Brazil. It is also used by Autonomous to create a smart contract payment stack.

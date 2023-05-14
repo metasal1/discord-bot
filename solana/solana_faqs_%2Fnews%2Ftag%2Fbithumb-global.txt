@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization dedicated to building and supporting the Solana ecosystem."
+  },
+  {
+    "question": "What is the Solana (SOL) token?",
+    "answer": "The Solana (SOL) token is a digital asset used to power the Solana platform, allowing users to access blockchain-based services and applications."
+  },
+  {
+    "question": "Where is Solana (SOL) trading?",
+    "answer": "Solana (SOL) is now trading on Bithumb Global."
+  },
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is an event organized by the Solana Foundation to build the next generation of NFT brands on Solana."
+  }
+]

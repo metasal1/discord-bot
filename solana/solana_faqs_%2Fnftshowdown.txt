@@ -1,0 +1,30 @@
+[
+ {
+  "question": "What is the Solana NFT Showdown?",
+  "answer": "The Solana NFT Showdown is designed to encourage aspiring NFT community creators to focus on product innovation and sound business pitches, ultimately strengthening the quality of new projects in the creator ecosystem."
+ },
+ {
+  "question": "When is the submission window?",
+  "answer": "The submission window will open on June 5th and close at 12 am PST on June 9th."
+ },
+ {
+  "question": "What should I include in my pitch?",
+  "answer": "Your pitch should include: Your target audience, Problems to be solved with your utility or product(s), Your business model and go-to-market strategy, which will detail your vision for launch and the real-world application of your product(s) and/or utility, Your short and long-term community engagement and retention plans, and A high level mock-up of your collection’s art concept. Bonus: How Solana NFT technologies, like state compression, trait swaps, xNFTs and more will be used to supercharge your project."
+ },
+ {
+  "question": "Who can enter the competition?",
+  "answer": "The competition is open to all business-minded creators who are interested in launching an NFT brand, with a focus on providing real-world products and solutions across various verticals. No existing projects will be accepted at this time."
+ },
+ {
+  "question": "What criteria will be used to evaluate my project?",
+  "answer": "Projects will be evaluated on their business acumen, user-centric product thinking, creative direction and lore, innovative use of Solana tech, and real-world application."
+ },
+ {
+  "question": "What kind of support will winning projects receive?",
+  "answer": "Yes, the winning projects will receive various forms of support to help propel the viability of their business plan forward - including mentorship, office hours with the Solana team and workshops with industry experts and NFT community leaders. They will also be eligible to receive Creator tickets to Solana’s Breakpoint event scheduled from Oct. 30 - Nov. 3, 2023."
+ },
+ {
+  "question": "What resources are available to consider when thinking through the utility and functionality of my PFP collection?",
+  "answer": "Below you will find some resources for you to consider as you think through the utility and functionality of your PFP collection: Compressed NFTs, Metaplex Studio, Programmable pNFTs, Trait Swapping, Executable xNFTs, Crossmint, Holaplex, and Elixir CreatorX."
+ }
+]

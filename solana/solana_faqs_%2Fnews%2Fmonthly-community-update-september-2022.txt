@@ -1,0 +1,21 @@
+
+[{
+    "question": "What is the Solana Summer Camp Hackathon?",
+    "answer": "The Solana Summer Camp Hackathon is a global competition focused on bringing the next wave of high-impact projects into the Solana ecosystem. Open to teams globally, Solana Summer Camp saw nearly 18,000 participants submit 750 final projects to the judges."
+},
+{
+    "question": "Who won the Grand Champion prize of Solana Summer Camp?",
+    "answer": "IronForge, a platform that includes automated deployments, program previews, auto-generated APIs, monitoring and more, received the Grand Champion prize of $65,000 in USDC, along with passes to attend Breakpoint, the annual Solana conference in Lisbon Nov. 4-7, 2022, where they will present their project."
+},
+{
+    "question": "What is the Community Choice Award?",
+    "answer": "The Community Choice Award is an award given to Beluga, a stableswap AMM that enables lower slippage and creation of permissionless pools."
+},
+{
+    "question": "What is Coinbase Cloud offering?",
+    "answer": "Coinbase Cloud is offering Solana Archival Nodes, a blockstore of all historical transactions. This will help builders access archival Solana data."
+},
+{
+    "question": "What is Breakpoint?",
+    "answer": "Breakpoint is the annual Solana conference in Lisbon, Nov. 4-7, 2022."
+}]

@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is a challenge to build the next generation of NFT brands on Solana. Participants have the opportunity to create, launch and market their own NFTs and be part of the growing Solana ecosystem."
+  },
+  {
+    "question": "What is the Solana Mainnet Beta Outage Report?",
+    "answer": "The Solana Mainnet Beta Outage Report provides an overview of the outage that occurred on February 25, 2021. It includes information on the incident, its root cause, and any corrective actions taken."
+  },
+  {
+    "question": "What is the Breakpoint Global Fellows Program?",
+    "answer": "The Breakpoint Global Fellows Program is an initiative from the Solana Foundation to provide guidance, mentorship, and resources to developers who are interested in building on Solana. The program also offers grants and investments to support the development of new projects on the Solana network."
+  },
+  {
+    "question": "Where can I find more information on Solana development?",
+    "answer": "You can find more information on Solana development on the Solana Foundation website. There you will find resources such as the Media Kit, Ecosystem, and Blog, as well as links to the Solana Grants and IGNITION Hackathon programs."
+  },
+  {
+    "question": "What is Boba Guys building on Solana?",
+    "answer": "Boba Guys is building a customer loyalty program on Solana. This program will allow Boba Guys customers to earn rewards for their purchases, as well as access exclusive offers and discounts."
+  }
+]

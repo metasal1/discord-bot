@@ -1,0 +1,21 @@
+
+[
+  {
+    "question": "What is Solana?",
+    "answer": "Solana is a high-performance blockchain protocol designed to provide a secure and reliable platform for developers to build decentralized applications."
+  },
+  {
+    "question": "How does Solana work?",
+    "answer": "Solana uses a unique consensus algorithm that allows for high throughput and low latency. This allows for fast and secure transactions on the blockchain, meaning that developers have a reliable platform to build their applications on."
+  },
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization dedicated to promoting the development and adoption of the Solana blockchain. They are responsible for organizing events, providing grants and funding to projects building on the Solana blockchain, and other initiatives to promote the network."
+  },
+  {
+    "question": "What is the Solana NFT contest?",
+    "answer": "The Solana NFT contest is a special contest organized by the Solana Foundation in collaboration with leading NFT ecosystem creators, marketplaces, and infrastructure projects. Participants who link their Phantom wallet to their Facebook or Instagram account and post an NFT they hold can enter for a chance to win unique 1:1 NFTs from some of their favorite collections, as well as exclusive rewards."
+  },
+  {
+    "question": "How is Solana green-friendly?",
+    "answer": "Solana is designed to be more energy-efficient than other blockchains, using 3,290 joules of energy per transaction, compared to the 38,574,000,000 joules used by the average US household. This makes Solana a carbon-neutral blockchain and more sustainable than other blockchains.

@@ -1,0 +1,27 @@
+
+[
+    {
+    "question": "What is Solana Mobile?",
+    "answer": "Solana Mobile is a mobile technology company developing the Solana Mobile Stack and Saga, a subsidiary of Solana Labs, a creator of open source software, and a contributor to Solana software and the Solana protocol."
+    },
+    {
+    "question": "What is the Solana Mobile Stack?",
+    "answer": "The Solana Mobile Stack is a framework for Android allowing developers to create rich mobile experiences for wallets and apps on Solana and create a “Secure Element” for private key management."
+    },
+    {
+    "question": "What is Saga?",
+    "answer": "Saga is a flagship Android mobile phone with unique functionality and features tightly integrated with the Solana blockchain making it easy and secure to transact in web3 and manage digital assets, such as tokens and NFTs."
+    },
+    {
+    "question": "When will Saga be available?",
+    "answer": "Saga is available for pre-orders starting today, with delivery in early 2023."
+    },
+    {
+    "question": "Who is manufacturing Saga?",
+    "answer": "Saga is designed and manufactured by OSOM, a leading Android development company whose team has extensive experience building computing hardware for Google, Apple, and Intel, among others."
+    },
+    {
+    "question": "What is the cost of Saga?",
+    "answer": "Pre-orders for Saga require a $100 fully refundable deposit, which will be applied to the anticipated final cost of $1,000."
+    }
+]

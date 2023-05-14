@@ -1,0 +1,14 @@
+[
+    {
+        "question": "How many people registered for the hackathon?",
+        "answer": "Over 13,000 people registered for the hackathon."
+    },
+    {
+        "question": "How many teams submitted projects?",
+        "answer": "350 teams submitted projects."
+    },
+    {
+        "question": "What kinds of projects did teams submit?",
+        "answer": "Teams submitted projects spanning DeFi, NFTs, Web3 and beyond."
+    }
+]

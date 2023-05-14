@@ -1,0 +1,9 @@
+
+[
+  {"question": "How much USDC is in circulation on Solana?", "answer": "$695M+ USDC is in circulation on Solana."},
+  {"question": "How many active daily accounts are on Solana?", "answer": "There are 280K active daily accounts on Solana."},
+  {"question": "What is the average transaction fee on Solana?", "answer": "The average transaction fee on Solana is $0.00025."},
+  {"question": "Where can I find developer docs for getting started on Solana?", "answer": "Ecosystem projects have provided reference implementations to get you started on Solana in record speed. Visit our developer docs page to learn everything you need to know about payments on Solana."},
+  {"question": "Where can I find the Solana Pay brand guidelines?", "answer": "Implementing Solana Pay? Get the lowdown on the design and brand guidelines by viewing our Guidelines page."},
+  {"question": "Why should I use Solana?", "answer": "Solana is the only solution for low cost, instant settlement for online and in-store payments. With Solana, you can eliminate fees, capture new revenue, incentivize your customers, and own your relationships. Learn more about our turnkey solutions by joining our community."}
+]

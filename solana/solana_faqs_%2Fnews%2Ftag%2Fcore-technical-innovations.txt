@@ -1,0 +1,19 @@
+
+[
+	{
+		"question": "What is the Solana Foundation?",
+		"answer": "The Solana Foundation is a non-profit organization dedicated to supporting the growth and development of the Solana blockchain."
+	},
+	{
+		"question": "What is Proof of History?",
+		"answer": "Proof of History is a consensus mechanism that is used by the Solana blockchain to accurately and securely track the progress of time within the blockchain."
+	},
+	{
+		"question": "What is the NFT Showdown?",
+		"answer": "The NFT Showdown is a competition that encourages developers to create the next generation of NFT brands on the Solana blockchain."
+	},
+	{
+		"question": "What is the SolanaGrants program?",
+		"answer": "SolanaGrants is a program that provides grants to developers who are building on the Solana blockchain. Grants can be used to support development costs or to fund innovative projects."
+	}
+]

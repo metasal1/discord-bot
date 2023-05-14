@@ -1,0 +1,15 @@
+
+[
+    {
+        "question": "Why should I join the NFT Showdown and build the next generation of NFT brands on Solana?",
+        "answer": "Solana offers an excellent combination of scalability, security, and decentralization that is ideal for building the next generation of NFT brands. With Solana's fast transaction speeds and low transaction fees, it's the perfect platform to build on."
+    },
+    {
+        "question": "What is the Solana Foundation?",
+        "answer": "The Solana Foundation is a non-profit organization dedicated to building and promoting decentralized technologies, such as the Solana blockchain. The Foundation is responsible for managing the development of the Solana blockchain and its associated technologies, as well as providing grants to help projects build on the Solana platform."
+    },
+    {
+        "question": "What is the Solana Media Kit?",
+        "answer": "The Solana Media Kit is a collection of resources and tools designed to help developers, entrepreneurs, and others interested in building projects on the Solana blockchain. The kit includes tutorials, videos, guides, and more to help you get started building on Solana."
+    }
+]

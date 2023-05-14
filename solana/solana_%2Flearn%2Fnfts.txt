@@ -1,0 +1,22 @@
+[
+  {
+    "Question": "What exactly is an NFT?",
+    "Answer": "NFT stands for “non-fungible token.” It is a unique token that cannot be swapped out, that is decentrally stored on the blockchain, and is a digital asset that you can own through your online identity within web3."
+  },
+  {
+    "Question": "Are NFTs just paying for a jpeg? Can’t I just save a copy?",
+    "Answer": "No. The most important feature of NFTs is that they are unique – and the uniqueness is recognized by everyone else on the blockchain. An NFT can really be anything, such as a profile picture, item in a video game, short looping animation, a video, a photo, a loan, or proof you bought a ticket to a concert!"
+  },
+  {
+    "Question": "What can you do with an NFT?",
+    "Answer": "Once you can prove something is unique, you can prove something can be linked to a specific wallet. This type of uniqueness and ownership is a huge deal in the digital world. An NFT can be used to create decentralized communities that share a treasury and work towards goals, serve as a form of digital identity, give users discounts on products in a store, and unlock VIP ticket upgrades or merchandise."
+  },
+  {
+    "Question": "How do you get an NFT?",
+    "Answer": "You can get an NFT a few different ways — you can “mint” an NFT directly from an NFT project, you can purchase one on a marketplace, or you can be given one. All of these methods require a wallet."
+  },
+  {
+    "Question": "How do I make my own NFT?",
+    "Answer": "To mint an NFT, all you need is a wallet, the art file (or files), a description, and a small amount of cryptocurrency to pay processing fees. Metaplex provides a number of tools to help artists create their projects, so be sure to check out their guides for each individual tool."
+  }
+]

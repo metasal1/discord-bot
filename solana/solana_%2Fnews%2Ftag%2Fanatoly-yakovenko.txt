@@ -1,0 +1,19 @@
+
+[
+    {
+        "question": "What is Solana Mobile Stack?",
+        "answer": "Solana Mobile Stack is a set of tools for creating mobile apps powered by blockchain technology."
+    },
+    {
+        "question": "What is Saga?",
+        "answer": "Saga is Solana's flagship device, designed to make it easy to create and run blockchain-based mobile applications."
+    },
+    {
+        "question": "Where can I download the SDK?",
+        "answer": "You can download the Solana Mobile Stack SDK from the official Solana website."
+    },
+    {
+        "question": "How do I submit deposits for the developer kit?",
+        "answer": "To submit deposits for the developer kit, you can visit the official Solana website and fill out the form."
+    }
+]

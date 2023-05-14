@@ -1,0 +1,27 @@
+
+[
+  {
+    "question": "What is Dialect?",
+    "answer": "Dialect is a decentralized social messaging platform that allows users to create and share NFT stickers."
+  },
+  {
+    "question": "What is Crossmint?",
+    "answer": "Crossmint is an NFT minting platform that enables users to create and trade digital assets."
+  },
+  {
+    "question": "Where can I find PlayGG in San Diego?",
+    "answer": "PlayGG is coming to San Diego! You can find them at the free Solana games exhibition with over 50 games onsite."
+  },
+  {
+    "question": "What is the Breakpoint Global Fellows Program?",
+    "answer": "The Breakpoint Global Fellows Program is a program designed to support the development of new and innovative technologies through grants and mentorship."
+  },
+  {
+    "question": "Where can I find ideas for the IGNITION Hackathon?",
+    "answer": "You can find ideas for the IGNITION Hackathon on the IGNITION Hackathon website."
+  },
+  {
+    "question": "Where can I get started with Solana Development?",
+    "answer": "You can get started with Solana Development on the Solana website, where you will find tutorials and other resources."
+  }
+]

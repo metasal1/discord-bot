@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is an event hosted by the Solana Foundation that provides an opportunity for developers and entrepreneurs to build the next generation of NFT brands on Solana."
+  },
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization focused on supporting the growth of the Solana ecosystem through grants, events, and other activities that promote the adoption of Solana's blockchain infrastructure."
+  },
+  {
+    "question": "What is the Memo2023 initiative?",
+    "answer": "Memo2023 is a project managed by the Solana Foundation that aims to build a global network of Solana enthusiasts, developers, and entrepreneurs to foster innovation and collaboration on the Solana blockchain."
+  },
+  {
+    "question": "What is the Solana Grants program?",
+    "answer": "The Solana Grants program provides funding to projects that build on Solana's blockchain infrastructure and promote the adoption of Solana. The program is managed by the Solana Foundation."
+  }
+]

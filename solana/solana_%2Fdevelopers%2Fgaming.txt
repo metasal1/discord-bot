@@ -1,0 +1,27 @@
+
+[
+  {
+    "Question": "What is Solana Games Kit?",
+    "Answer": "Solana Games Kit is a collection of tools and services being developed in the Solana ecosystem to empower game developers and accelerate the development of amazing web3 games on Solana."
+  },
+  {
+    "Question": "What makes Solana a great fit for games?",
+    "Answer": "Solana has high throughput and low fees, making it an ideal platform for building games of the future. It also has single state by design, meaning connecting Solana and gaming communities is seamless. Additionally, each transaction is low cost, and consensus and finality are achieved almost immediately, so there are no long wait times like other blockchains."
+  },
+  {
+    "Question": "What is Mini Royale: Nations?",
+    "Answer": "Mini Royale: Nations is a unique open-economy multiplayer shooter that uses the blockchain to create a unique experience."
+  },
+  {
+    "Question": "Who can benefit from Solana Games Kit?",
+    "Answer": "Solana Games Kit is designed to benefit developers, casual players, hardcore gamers, creators, and artists."
+  },
+  {
+    "Question": "What is Star Atlas?",
+    "Answer": "Star Atlas is a massive, futuristic, NFT-powered universe where players can search for resources."
+  },
+  {
+    "Question": "Are there game investment funds available?",
+    "Answer": "Yes, Solana Ventures, Forte, and Griffin Gaming Partners have announced they will invest $150 million in blockchain games."
+  }
+]

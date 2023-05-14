@@ -1,0 +1,11 @@
+
+[
+  {
+    "question": "What is state compression?",
+    "answer": "State compression is a method for reducing the amount of data stored on blockchain networks. It uses Merkle trees to reduce the size of data stored on the blockchain, thereby reducing the cost of minting NFTs."
+  },
+  {
+    "question": "How much does state compression reduce the cost of minting 1 million NFTs on Solana?",
+    "answer": "State compression brings down the cost of minting 1 million NFTs on Solana to approximately $110."
+  }
+]

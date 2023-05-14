@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is USDC?",
+    "answer": "USDC is a stablecoin created by Circle that is backed 1:1 to the US Dollar, providing a more efficient, transparent and widely accepted mechanism for payments, trading and remittances."
+  },
+  {
+    "question": "What is USDC-SPL?",
+    "answer": "USDC-SPL is a partnership between Circle and Solana to bring USDC to the Solana blockchain. This will provide users with a secure and reliable way to use USDC on the Solana blockchain."
+  },
+  {
+    "question": "What are the benefits of USDC-SPL?",
+    "answer": "USDC-SPL provides users with a more efficient, secure, and reliable way to use USDC on the Solana blockchain. USDC-SPL also provides users with access to the wide range of services and applications built on the Solana blockchain."
+  }
+]

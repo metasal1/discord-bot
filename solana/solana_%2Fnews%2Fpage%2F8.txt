@@ -1,0 +1,23 @@
+
+[
+  {
+    "Question": "What is the NFT Showdown?",
+    "Answer": "The NFT Showdown is an initiative to build the next generation of NFT brands on the Solana network. It is designed to help creators and developers in the NFT space to build innovative products on the Solana blockchain."
+  },
+  {
+    "Question": "What is the Solana Solstice?",
+    "Answer": "The Solana Solstice is a major event held by the Solana Foundation each year. In 2022, the event is set to take place in June, and will feature talks, workshops, and activities related to the Solana blockchain and the NFT space."
+  },
+  {
+    "Question": "What is the Breakpoint Global Fellows Program?",
+    "Answer": "The Breakpoint Global Fellows Program is a program created by the Solana Foundation to support and mentor the next generation of blockchain developers. The program provides fellows with resources and guidance to help them build innovative products on the Solana blockchain."
+  },
+  {
+    "Question": "What is the IGNITION Hackathon?",
+    "Answer": "The IGNITION Hackathon is a 24-hour hackathon organized by the Solana Foundation to find innovative solutions and products on the Solana blockchain. Participants are encouraged to come up with creative solutions for various challenges related to NFTs, DeFi, and more."
+  },
+  {
+    "Question": "What resources are available for getting started with Solana Development?",
+    "Answer": "The Solana Foundation provides several resources to help developers get started with Solana development. This includes documentation, tutorials, and more. You can find more information at https://solana.com/developers/"
+  }
+]

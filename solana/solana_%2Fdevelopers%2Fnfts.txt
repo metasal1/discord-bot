@@ -1,0 +1,27 @@
+
+[
+  {
+    "question": "What is Solana?",
+    "answer": "Solana is a high-performance blockchain platform designed to enable developers to create fast, secure, and scalable decentralized applications."
+  },
+  {
+    "question": "What types of NFTs can I mint, sell, and trade on Solana?",
+    "answer": "Solana is a great fit for NFTs of all shapes and sizes. You can use Solana to mint, sell, and trade collectibles, digital artwork, game items, fashion items, and more."
+  },
+  {
+    "question": "What is the cost of minting an NFT using state compression?",
+    "answer": "The cost of minting an NFT using state compression is $0.00012."
+  },
+  {
+    "question": "What resources can I use to launch my NFT on Solana?",
+    "answer": "There are a number of reference implementations and ecosystem projects that can help you launch your NFT on Solana quickly and easily. Check out the Solana Ecosystem page to explore the different projects available."
+  },
+  {
+    "question": "What is Launchpad?",
+    "answer": "Launchpad is a Magic Eden product and service that helps creators mint their collections without any technical know how."
+  },
+  {
+    "question": "Where can I buy, sell, and bid on NFTs?",
+    "answer": "You can buy, sell, and bid on NFTs at various marketplaces, such as Cryptokickers, Degen Apes, Solana Monkey Business, and more. Check out the Ecosystem page for more information."
+  }
+]

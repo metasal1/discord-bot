@@ -1,0 +1,15 @@
+
+[
+  {
+    "Question": "What topics are discussed in the live taping of Validated from NFT.NYC?",
+    "Answer": "Austin, Amira Valliani and Pedro Miranda discuss how web3 x web2 partnerships are evolving, the pros and cons of Central Bank Digital Currencies, and the disconnect between crypto Twitter and conversations among crypto regulators."
+  },
+  {
+    "Question": "Does the Solana Foundation provide advice on investments?",
+    "Answer": "No, the Solana Foundation does not provide advice on investments. This content is intended to be general in nature and is not specific to you, the user or anyone else. You should not make any decision, financial, investment, trading or otherwise, based on any of the information presented without undertaking independent due diligence and consultation with a professional advisor."
+  },
+  {
+    "Question": "What is the opinion of the speakers on the content discussed?",
+    "Answer": "All opinions expressed in the content discussed are the speakers’ own personal opinions and do not reflect the opinions of any entities."
+  }
+]

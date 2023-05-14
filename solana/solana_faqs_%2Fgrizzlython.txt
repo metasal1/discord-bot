@@ -1,0 +1,15 @@
+
+[
+  {
+    "question": "What is the Solana Grizzlython Hackathon?",
+    "answer": "The Solana Grizzlython Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability."
+  },
+  {
+    "question": "What are Solana Foundation's developer resources for?",
+    "answer": "Solana Foundation's developer resources are for educational and inspirational purposes only."
+  },
+  {
+    "question": "Does Solana Foundation encourage the deployment of applications in violation of applicable laws or regulations?",
+    "answer": "No, Solana Foundation does not encourage, induce or sanction the deployment, integration or use of any applications in violation of applicable laws or regulations."
+  }
+]

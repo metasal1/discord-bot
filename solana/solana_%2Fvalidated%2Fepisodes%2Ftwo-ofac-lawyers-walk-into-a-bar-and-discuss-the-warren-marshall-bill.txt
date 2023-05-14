@@ -1,0 +1,23 @@
+
+[
+    {
+        "Question": "What is the episode about?", 
+        "Answer": "This episode is about regulation in web3 as it pertains to national security, specifically OFAC's sanction of Tornado Cash and other ways in which the government could have handled the situation."
+    },
+    {
+        "Question": "What is the Warren-Marshall Bill?", 
+        "Answer": "The Warren-Marshall Bill threatens to hold blockchain validators responsible for illicit activity on chain, which, like the Tornado Cash sanctions before it, will have overreaching consequences for the blockchain industry if it passes."
+    },
+    {
+        "Question": "What is the Solana Foundation?", 
+        "Answer": "The Solana Foundation is a non-profit organization focused on advancing the development and adoption of Solana, an open-source blockchain protocol."
+    },
+    {
+        "Question": "Is the content provided herein intended to be general in nature?", 
+        "Answer": "Yes, the content is intended to be general in nature and is not specific to any user or entity."
+    },
+    {
+        "Question": "Does the Foundation Parties guarantee the accuracy of the information provided?", 
+        "Answer": "No, the Foundation Parties make no representation or warranties, expressed or implied, as to the accuracy of the information provided and expressly disclaims any and all liability that may be based on such information or any errors or omissions therein."
+    }
+]

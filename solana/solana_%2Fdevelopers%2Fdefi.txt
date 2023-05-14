@@ -1,0 +1,11 @@
+Q1: What is Solana?
+A1: Solana is a high-throughput, low-fee, low-latency blockchain designed for developers to build applications on.
+
+Q2: What do Solana's features enable?
+A2: Solana's features enable fast, seamless, and easy DeFi applications, capital efficiency, and smart contract development.
+
+Q3: What is the Anchor framework?
+A3: Anchor is a toolchain that simplifies smart contract development. It includes Solidity, web3.js, ethers.js, Truffle, and ganache all in one.
+
+Q4: What is the benefit of Solana's single global state?
+A4: Solana's single global state enables developers to build applications without dealing with capital inefficient Layer 2 systems or sharded chains, and it scales alongside Moore's Law.

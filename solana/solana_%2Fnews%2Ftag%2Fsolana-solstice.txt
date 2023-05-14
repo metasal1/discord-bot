@@ -1,0 +1,19 @@
+
+[
+    {
+    "Question": "What is Solana Solstice?", 
+    "Answer": "Solana Solstice is an annual celebration of the Solana ecosystem and all of its accomplishments in the year."
+    },
+    {
+    "Question": "When is Solana Solstice 2021?", 
+    "Answer": "Solana Solstice 2021 is being celebrated in December 2021."
+    },
+    {
+    "Question": "What were some of Solana's accomplishments in 2021?", 
+    "Answer": "In 2021, Solana achieved numerous milestones such as launching the Solana mainnet, expanding its developer ecosystem, and launching new products and features."
+    },
+    {
+    "Question": "What can we expect in 2023?", 
+    "Answer": "We can expect the Solana ecosystem to continue to grow and develop in 2023, with new products and features being released throughout the year."
+    }
+]

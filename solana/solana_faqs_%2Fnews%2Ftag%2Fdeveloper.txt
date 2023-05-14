@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What is the Wallet Adapter Library?",
+    "answer": "The Wallet Adapter Library is an open-source library that makes it easier for developers to interact with the Solana blockchain. It allows developers to securely store and manage their wallet accounts, as well as securely sign and broadcast transactions."
+  },
+  {
+    "question": "What is the Solana Path?",
+    "answer": "The Solana Path is a top-down approach tutorial that aims to help developers become more familiar with the Solana blockchain. It covers topics such as wallet balance, sending SOL, and more."
+  },
+  {
+    "question": "What is Pipelining in Solana?",
+    "answer": "Pipelining is the process that the Solana network utilizes to validate and replicate transactions with web-scale speed and functionality. This process is enabled by the Transaction Processing Unit, which helps to increase the network's performance."
+  },
+  {
+    "question": "What is Tower BFT?",
+    "answer": "Tower BFT (Byzantine Fault Tolerant) is one of the 8 key technologies that makes Solana the most performant blockchain in the world. It is a consensus protocol that ensures all nodes in the network have the same view of the network's state."
+  },
+  {
+    "question": "What is Gulf Stream?",
+    "answer": "Gulf Stream is a mempool-less transaction forwarding protocol, which is one of the 8 key technologies that makes Solana's 50,000 TPS blockchain network possible. It is responsible for forwarding transactions from the sender to the recipient."
+  },
+  {
+    "question": "What is Loom, Encoding Time as Data?",
+    "answer": "Loom is a new approach to scaling blockchain, which is based on encoding time as data. This allows for the creation of a deterministic program that can be used to scale the blockchain and improve its performance."
+  },
+  {
+    "question": "What is Proof of History?",
+    "answer": "Proof of History is a core innovation of the Solana blockchain that is used to keep the network secure and ensure that transactions are processed quickly and accurately. It is based on the idea of encoding time as data, which allows the network to have a deterministic program to ensure its accuracy."
+}
+]

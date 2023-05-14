@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a nonprofit organization that is working to build the next generation of NFT brands on Solana, an open-source, high-performance blockchain platform."
+  },
+  {
+    "question": "What is the latest SOL listing on OKEx?",
+    "answer": "The latest SOL listing on OKEx is SOL pairs, which are now available for trading on MXC."
+  },
+  {
+    "question": "What is the Solana token (SOL) featured in Gate.io listing competition?",
+    "answer": "Solana token (SOL) is featured in the upcoming Gate.io listing competition." 
+  },
+  {
+    "question": "Who manages the Solana Foundation?",
+    "answer": "The Solana Foundation is managed by the Solana Foundation."
+  }
+]

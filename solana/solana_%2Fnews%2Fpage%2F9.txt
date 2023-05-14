@@ -1,0 +1,23 @@
+
+[
+    {
+        "question": "What is the NFT Showdown?",
+        "answer": "The NFT Showdown is a competition to build the next generation of NFT brands on the Solana Network."
+    },
+    {
+        "question": "How do I measure developer and user activity on Solana?",
+        "answer": "You can measure developer and user activity on Solana in December 2022 through reports, announcements, and the monthly community update."
+    },
+    {
+        "question": "What is the Breakpoint Global Fellows Program?",
+        "answer": "The Breakpoint Global Fellows Program is an initiative launched by the Solana Foundation to support and connect innovators, makers, and entrepreneurs who are working on the Solana Network."
+    },
+    {
+        "question": "Where can I find ideas for the IGNITION Hackathon?",
+        "answer": "You can find ideas for the IGNITION Hackathon at the Solana blog, newsletter, and other related topics."
+    },
+    {
+        "question": "How do I get started with Solana Development?",
+        "answer": "You can get started with Solana Development by visiting the SolanaGrants website, Break Solana Media Kit, and other resources."
+    }
+]

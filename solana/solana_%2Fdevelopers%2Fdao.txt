@@ -1,0 +1,15 @@
+
+[
+    {
+        "question": "What is Solana's Governance program?",
+        "answer": "Solana's Governance program is designed to make governance easier, faster, and more secure. It allows users to participate in communities without spending hundreds of dollars on transaction fees, and offers the lowest fees of any blockchain. Solana also offers interoperability and horizontal scaling while maintaining a shared state, making it easy to connect to the platform."
+    },
+    {
+        "question": "What are the benefits of using Solana?",
+        "answer": "Solana offers high transaction throughput, low latency, efficiency, and ultra-low fees, making it the perfect place to bring people together. Additionally, it has a SPL governance program that is designed with extendability, plugins, and integrations in mind, allowing for scalability without sacrificing censorship resistance or security."
+    },
+    {
+        "question": "How can I get started with Solana?",
+        "answer": "You can get started with Solana by visiting our Github repository and viewing our reference implementations for DAO primitives. Additionally, you can check out our developer docs to learn everything you need to know about governance on Solana. Finally, you can join our community and view our videos to learn more."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is Audius?", 
+        "answer": "Audius is a blockchain-based protocol for streaming and sharing music, allowing creators to capture, transfer, and monetize their content."
+    },
+    {
+        "question": "Why did Audius choose Solana?", 
+        "answer": "Audius chose Solana for its ability to scale and its low fees, enabling Audius to more easily manage its growth."
+    },
+    {
+        "question": "How can I learn more about Audius' plans?", 
+        "answer": "You can read their post to learn more about their recent growth and why they chose Solana."
+    }
+]

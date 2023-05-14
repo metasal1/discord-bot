@@ -1,0 +1,70 @@
+[
+  {
+    "question": "What challenges did 2020 bring?",
+    "answer": "2020 was a difficult and challenging year for many due to global challenges."
+  }, 
+  {
+    "question": "What is the SOLAR Bridge?",
+    "answer": "The SOLAR Bridge is a bridge that connects Solana ledger data onto Arweave's Permanent Network."
+  },
+  {
+    "question": "What is the Solana Foundation Grants program?",
+    "answer": "The Solana Foundation Grants program is a program that accelerates the growth of the Solana ecosystem by providing grants to developers."
+  },
+  {
+    "question": "Why did Audius choose Solana?",
+    "answer": "Audius chose Solana to scale their platform long-term and take advantage of Solana's features such as scale, security, and decentralization."
+  },
+  {
+    "question": "What is Wormhole?",
+    "answer": "Wormhole is a bridge between Solana and Ethereum blockchains that enables users to move tokens between the two networks."
+  },
+  {
+    "question": "What is the Solana Arweave Interoperability Hack?",
+    "answer": "The Solana Arweave Interoperability Hack is a collaboration between Solana and Arweave that calls for developers to build a bridge between the two networks."
+  },
+  {
+    "question": "What is Serum?",
+    "answer": "Serum is a high-speed, non-custodial decentralized derivatives exchange built on Solana."
+  },
+  {
+    "question": "What was included in the June Newsletter?",
+    "answer": "The June Newsletter included information about 1B transactions, 20M blocks, Kin migration, exchange listing, and more."
+  },
+  {
+    "question": "What is the Solana DShop Swag Store?",
+    "answer": "The Solana DShop Swag Store is a decentralized store powered by Origin Protocol where users can purchase gear with Solana branding."
+  },
+  {
+    "question": "What is the purpose of the Solana Foundation Transparency Reports?",
+    "answer": "The Solana Foundation Transparency Reports maintain a high level of transparency for the Solana token user base."
+  },
+  {
+    "question": "What is Pocket?",
+    "answer": "Pocket is a decentralized API solution that incentivizes participants to run full nodes for developers who need data for their applications."
+  },
+  {
+    "question": "What is Elastic Circuit Breakers?",
+    "answer": "Elastic Circuit Breakers is a network congestion and transaction spike prevention system." 
+  },
+  {
+    "question": "What is SOL Bandits On The Run?",
+    "answer": "SOL Bandits On The Run is an incentivized testnet event created by Chorus One that allows participants to earn tokens and secure the Solana network."
+  },
+  {
+    "question": "What is Tour de SOL?",
+    "answer": "Tour de SOL is Solana's incentivized testnet event where participants can flex their validation skills, earn tokens, and secure the Solana network."
+  },
+  {
+    "question": "What progress did Solana make in 2019?",
+    "answer": "Solana made great progress in 2019 including growth, development, and the road to mainnet."
+  },
+  {
+    "question": "What is the Internal Scalability Test?",
+    "answer": "The Internal Scalability Test is a test of the Solana network's capabilities using only CPU."
+  },
+  {
+    "question": "What innovations make Solana the first web-scale blockchain?",
+    "answer": "The innovations that make Solana the first web-scale blockchain include its 50,000 TPS blockchain network."
+  }
+]

@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What is Solana Foundation?",
+    "answer": "Solana Foundation is an organization responsible for managing the Solana blockchain ecosystem and protocol."
+  },
+  {
+    "question": "What are Solana Grants?",
+    "answer": "Solana Grants are funding opportunities given out by the Solana Foundation to support developers, startups and projects that are building on the Solana blockchain."
+  },
+  {
+    "question": "What is the Solana Media Kit?",
+    "answer": "The Solana Media Kit is a collection of resources and materials that help people learn more about the Solana blockchain, its technology, and its applications."
+  },
+  {
+    "question": "What are the career opportunities at Solana Foundation?",
+    "answer": "Solana Foundation offers a variety of career opportunities for individuals with experience in software engineering, product management, marketing, and design."
+  },
+  {
+    "question": "How can I connect with the Solana community?",
+    "answer": "You can connect with the Solana community through various channels including the Solana Ecosystem page, the Solana Blog, the Solana Newsletter, and the Solana Discord server."
+  }
+]

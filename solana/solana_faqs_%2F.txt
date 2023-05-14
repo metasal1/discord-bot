@@ -1,0 +1,27 @@
+
+[
+    {
+        "question": "What is Solana?",
+        "answer": "Solana is a powerful blockchain platform that enables developers to quickly build decentralized applications. It is designed to support experiences for power users, new consumers, and everyone in between."
+    }, 
+    {
+        "question": "What is the average cost per transaction on Solana?",
+        "answer": "$0.00025 is the average cost per transaction on Solana."
+    },
+    {
+        "question": "How fast is Solana?",
+        "answer": "Solana has block times of 400 milliseconds — and as hardware gets faster, so will the network."
+    }, 
+    {
+        "question": "Is Solana decentralized?",
+        "answer": "Yes, the Solana network is validated by thousands of nodes that operate independently of each other, ensuring your data remains secure and censorship resistant."
+    },
+    {
+        "question": "Is Solana scalable?",
+        "answer": "Yes, Solana is made to handle thousands of transactions per second, and fees for both developers and users remain less than $0.01."
+    },
+    {
+        "question": "Is Solana energy efficient?",
+        "answer": "Yes, Solana's proof of stake network and other innovations minimize its impact on the environment. Each Solana transaction uses about the same energy as a few Google searches."
+    }
+]

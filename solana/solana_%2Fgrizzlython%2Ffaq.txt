@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Do I need to register first before submitting a project?",
+    "answer": "Yes, please register here. If you are part of a team, each individual team member must register to be eligible for prizes."
+  },
+  {
+    "question": "Which projects are eligible to win a prize?",
+    "answer": "Grizzlython is a platform for new projects who are just starting and haven’t raised outside capital. It is not intended for established projects who have been building for months or years. Projects cannot have started more than 30 days before Grizzlython registrations opens on Feb. 2, 2023 (no earlier than Jan. 3, 2023). Projects will only be judged on the code produced during the open and close dates of the hackathon (Feb. 2 - March 14, 2023)."
+  },
+  {
+    "question": "Where can I access developer resources?",
+    "answer": "Check out the Resources section here. This page has all the tools, documentation, tutorials, and guides needed to start building today."
+  },
+  {
+    "question": "Where can I ask technical questions?",
+    "answer": "Head over to the #dev-questions channel in the Solana Hackathon Discord Server here."
+  },
+  {
+    "question": "Can I submit a project individually or do I need to join a team?",
+    "answer": "You may submit a project by yourself. However, we recommend reaching out to other participants who may add valuable skills to your project. Solana Hackathons are highly competitive and so we recommend joining up with others to develop your idea as much as possible. If you need help finding teammates, we’ve got you! Find other builders in the official Grizzlython Find a Team directory."
+  },
+  {
+    "question": "Can I meet up with other hackathon participants in real life?",
+    "answer": "Yes! Ecosystem teams around the world are hosting coworking spaces running concurrently with the hackathon. Each is sponsored by a Solana ecosystem project that will be helping you through your hackathon journey, from project idea to getting started building on Solana. RSVP for one the global locations at solana.com/events."
+  },
+  {
+    "question": "Where can I find project ideas?",
+    "answer": "While participants are encouraged to come up with novel concepts, Superteam has created a repository of project ideas."
+  },
+  {
+    "question": "How will projects be judged?",
+    "answer": "Grizzlython project submissions will be judged on a variety of factors. After projects are submitted, they are evaluated by the team of judges to determine a shortlist based on code and their presentation or video. As Grizzlython is intended to be a speed run through the launch of a new project, it's important that all participants spend time finessing their marketing and presentation, as well their code. All projects will be reviewed and judges will be consulting these questions as they evaluate: Functionality, Potential Impact, Novelty, UX, Open-source, and Business Plan. After judges complete individual evaluations, the hackathon organizers will sync with the judges to choose the winners based on the project's weighted scores. Winners of the event will be announced within a month of the hackathon submission date."
+  },
+  {
+    "question": "I participated in LamportDAO's Sandstorm Hackathon. Can I enter the same project in Grizzlython?",
+    "answer": "If you participated in LamportDAO's Sandstorm Hackathon that ran shortly before the launch of Grizzlython, you are eligible to participate in Grizzlython and win prizes, assuming your project meets the other eligibility requirements. However, projects will only be judged on the code and work produced during the open and close dates of Grizzlython (Feb. 2 - March 14, 2023). If you participated in Sandstorm and are building an entirely new product, you are also eligible to participate and win Grizzlython prizes."
+  },
+  {
+    "question": "What is the Grizzlython Code of Conduct?",
+    "answer": "The Grizzlython Hackathon welcomes anyone from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackathon administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code. Be Respectful, Behave Professionally, Be Thoughtful, Be Open, and Believe in Yourself."
+  }
+]

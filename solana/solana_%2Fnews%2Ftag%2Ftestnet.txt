@@ -1,0 +1,35 @@
+
+[
+  {
+    "question": "What is Solana Foundation?",
+    "answer": "Solana Foundation is a non-profit organization that is responsible for managing the Solana blockchain project and its associated ecosystem."
+  },
+  {
+    "question": "What is Solana Grants?",
+    "answer": "Solana Grants are grants given by the Solana Foundation to projects that are using the Solana blockchain technology, in order to help them develop and succeed."
+  },
+  {
+    "question": "Where can I find the Solana Media Kit?",
+    "answer": "The Solana Media Kit can be found on the Solana Foundation website, under the 'Get Connected' section."
+  },
+  {
+    "question": "Does the Solana Foundation offer Careers?",
+    "answer": "Yes, the Solana Foundation offers various career opportunities. You can find more information on the Solana Foundation website, under the 'Careers' section."
+  },
+  {
+    "question": "What is the Solana Foundation Disclaimer?",
+    "answer": "The Solana Foundation Disclaimer is a legal disclaimer which outlines the limitations of liability and other conditions related to the use of the Solana blockchain project and its associated ecosystem."
+  },
+  {
+    "question": "How can I get connected with the Solana Ecosystem?",
+    "answer": "You can get connected with the Solana Ecosystem by visiting the 'Get Connected' section on the Solana Foundation website, where you can find resources such as the Solana Media Kit and information about how to join the Solana community."
+  }, 
+  {
+    "question": "Where can I find the Solana Foundation blog?",
+    "answer": "You can find the Solana Foundation blog on the Solana Foundation website, under the 'Ecosystem' section."
+  },
+  {
+    "question": "Is there a Solana Foundation Newsletter?",
+    "answer": "Yes, the Solana Foundation offers a newsletter which provides updates on the Solana blockchain project and its associated ecosystem. You can subscribe to the newsletter on the Solana Foundation website, under the 'Newsletter' section."
+  }
+]

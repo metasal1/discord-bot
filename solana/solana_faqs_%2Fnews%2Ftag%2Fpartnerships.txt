@@ -1,0 +1,15 @@
+
+[
+    {
+        "question": "What is Audius?",
+        "answer": "Audius is a decentralized music streaming and sharing platform built on the Ethereum blockchain."
+    },
+    {
+        "question": "Why has Audius chosen Solana?",
+        "answer": "Audius has chosen Solana in order to scale their platform for long-term growth and success. Solana offers high throughput, low latency, and scalability that makes it an ideal platform for Audius."
+    },
+    {
+        "question": "What are the benefits of Audius building on Solana?",
+        "answer": "Building on Solana will allow Audius to benefit from Solana's high throughput, low latency, and scalability which will enable them to scale their platform for long-term success."
+    }
+]

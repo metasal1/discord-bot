@@ -1,0 +1,15 @@
+
+[
+	{
+		"Question": "What is the NFT Showdown?",
+		"Answer": "The NFT Showdown is a competition hosted by the Solana Foundation to build the next generation of NFT brands on the Solana blockchain."
+	},
+	{
+		"Question": "Where have Solana builders met before?",
+		"Answer": "Solana builders have met at various events around the world including the Austin Hacker House, Ho Chi Minh City Hacker House, Melbourne Hacker House, Istanbul Hacker House, January Chicago BootCamp, and Acquired Live Show at Breakpoint: Qualcomm Episode Recording."
+	},
+	{
+		"Question": "What else does the Solana Foundation offer?",
+		"Answer": "In addition to hosting the NFT Showdown, the Solana Foundation also offers grants, a media kit, careers information, an ecosystem, a blog, and a newsletter."
+	}
+]

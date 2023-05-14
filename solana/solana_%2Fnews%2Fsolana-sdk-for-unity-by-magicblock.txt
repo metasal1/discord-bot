@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is the Solana SDK for Unity by Magicblock?",
+    "answer": "The Solana SDK for Unity by Magicblock is a tool that enables game developers to easily integrate Solana-based NFTs, tokens, and on-chain programs within their Unity games, simplifying the process of building web3 games and experiences."
+  },
+  {
+    "question": "What does the Solana SDK for Unity by Magicblock enable?",
+    "answer": "The SDK enables wallet connectivity, the easy creation and handling of tokens, and enables easy connections to Solana-based projects."
+  },
+  {
+    "question": "Who created the Solana SDK for Unity by Magicblock?",
+    "answer": "The SDK was created by Magicblock, a web3 studio building on-chain composable games for the mass mobile market."
+  },
+  {
+    "question": "Where can I find more information about the Solana SDK for Unity by Magicblock?",
+    "answer": "You can find more information about the SDK here and here."
+  }
+]

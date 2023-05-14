@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Move VM?",
+    "answer": "Move VM is a virtual machine developed by the Libra project that enables developers to build financial applications on the blockchain."
+  },
+  {
+    "question": "What is Solana?",
+    "answer": "Solana is a high-performance blockchain that enables fast and secure transactions on the blockchain."
+  },
+  {
+    "question": "Does Solana support Move VM?",
+    "answer": "Yes, Solana now supports Move VM, allowing projects to take advantage of the speed and capacity of the Solana network."
+  }
+]

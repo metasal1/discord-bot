@@ -1,0 +1,19 @@
+
+[
+	{
+		"Question": "What are xNFTs?",
+		"Answer": "xNFTs are Non-Fungible Tokens that are unique and indivisible digital assets built on the Solana blockchain."
+	},
+	{
+		"Question": "What is the Breakpoint Global Fellows Program?",
+		"Answer": "The Breakpoint Global Fellows Program is a six-month program that brings together global leaders and innovators to solve real problems using blockchain technology."
+	},
+	{
+		"Question": "Where can I find ideas for the IGNITION Hackathon?",
+		"Answer": "You can find ideas for the IGNITION Hackathon on the IGNITION Hackathon page on the Solana website."
+	},
+	{
+		"Question": "How do I get started with Solana development?",
+		"Answer": "You can get started with Solana development by following the steps outlined in the Getting Started with Solana Development guide on the Solana website."
+	}
+]

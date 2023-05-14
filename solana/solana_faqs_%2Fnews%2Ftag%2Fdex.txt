@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Serum?",
+    "answer": "Serum is a new high-speed, non-custodial decentralized derivatives exchange created by FTX and Alameda Research. It is built on Solana."
+  },
+  {
+    "question": "What is the purpose of Serum?",
+    "answer": "The purpose of Serum is to provide a secure, fast, and non-custodial DEX platform for trading derivatives."
+  },
+  {
+    "question": "Why was Solana chosen for Serum?",
+    "answer": "Solana was chosen for Serum due to its high speed and non-custodial nature, making it the ideal platform for a decentralized derivatives exchange."
+  }
+]

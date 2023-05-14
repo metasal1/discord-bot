@@ -1,0 +1,18 @@
+
+Q1: What is the average energy used per Solana transaction?
+A1: The average energy used per Solana transaction is 6,980 Joules.
+
+Q2: What is the average energy used per Solana nonvoting transaction?
+A2: The average energy used per Solana nonvoting transaction is 10,499 Joules.
+
+Q3: What is Solana's annual carbon footprint in tons of CO2?
+A3: Solana's annual carbon footprint is reported in the Energy Use Report and is available for viewing on the Solana Foundation website. 
+
+Q4: How does Solana's energy use compare to other blockchains?
+A4: The Energy Use Report provides a detailed comparison of Solana's energy use to other blockchains. 
+
+Q5: What is the Solana Foundation doing to reduce its carbon footprint?
+A5: The Solana Foundation is committed to studying the impact of the Solana blockchain, open-sourcing the data, and taking steps to bring the chain's footprint to zero. Solana is the first smart-contract layer 1 blockchain with real-time energy emissions tracking, enabling anyone in the world to examine the network's emissions down to the validator or RPC level. 
+
+Q6: What initiatives are supported by the Solana Foundation to help combat climate change?
+A6: The Solana Foundation supports various initiatives to combat climate change, including GainForest, WaterDAO, SunriseStake, Outerverse by Outside Interactive, and WiHi. These initiatives focus on artificial intelligence, community engagement, water credit verification, climate-positive staking, outdoor creator communities, and decentralized weather forecasting and climate monitoring.

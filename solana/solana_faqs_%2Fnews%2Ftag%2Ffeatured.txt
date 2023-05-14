@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What is the Breakpoint Global Fellows Program?",
+    "answer": "The Breakpoint Global Fellows Program is a partnership between Solana Labs and Jump Crypto, designed to foster innovation and collaboration in the blockchain ecosystem."
+  },
+  {
+    "question": "What kind of ideas are needed for the IGNITION Hackathon?",
+    "answer": "Anatoly Yakovenko and Kyle Samani have identified the ecosystem needs that the IGNITION Hackathon should focus on."
+  },
+  {
+    "question": "What topics are covered in the 'Getting Started with Solana Development' article?",
+    "answer": "The article covers high level topics related to Solana development such as myths, development workflows, programs, and dApps."
+  },
+  {
+    "question": "How many people registered for the Solana Season Hackathon?",
+    "answer": "Over 13,000 builders registered for the Solana Season Hackathon."
+  },
+  {
+    "question": "What kind of projects were submitted to the Solana Season Hackathon?",
+    "answer": "350 teams submitted projects spanning DeFi, NFTs, Web3, and beyond to the Solana Season Hackathon."
+  }
+]

@@ -1,0 +1,14 @@
+[
+{
+	"question" : "What is Solana?",
+	"answer" : "Solana is a high-performance blockchain platform designed to support large-scale decentralized applications."
+},
+{
+	"question" : "What progress did Solana make in 2019?",
+	"answer" : "In 2019, Solana achieved significant growth and development, culminating in the successful launch of its mainnet."
+},
+{
+	"question" : "What is the mainnet?",
+	"answer" : "The mainnet is the live version of the Solana blockchain. It is the culmination of the development process and enables users to run decentralized applications and transact with the Solana token."
+}
+]

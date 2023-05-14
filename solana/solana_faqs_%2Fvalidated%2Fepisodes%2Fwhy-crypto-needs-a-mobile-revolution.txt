@@ -1,0 +1,15 @@
+
+[
+  {
+    "question": "Will mobile-first applications be a driving force of mass adoption during the next crypto bull run?",
+    "answer": "Yes, mobile-first applications are expected to be a major driving force for mass adoption of cryptocurrencies during the next crypto bull run. With over 5 billion smart phone users around the globe, mobile-first applications are well-positioned to achieve mass adoption."
+  },
+  {
+    "question": "What are the innovative features that will set web3 messaging platforms apart from their Web 2 counterparts?",
+    "answer": "Web3 messaging platforms like Dialect offer innovative features such as greater security, privacy and decentralization compared to their Web 2 counterparts. They also offer features such as interoperability and scalability, which are not available on Web 2 platforms."
+  },
+  {
+    "question": "What role do crypto phones like Saga play in the ecosystem?",
+    "answer": "Crypto phones like Saga are designed to make it easier for users to store, send, and receive cryptocurrencies. They offer enhanced security features and are designed to be user-friendly, making it easier for new users to get started with cryptocurrencies."
+  }
+]

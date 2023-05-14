@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the partnership between Solana and dfuse?",
+    "answer": "Solana has announced a technical partnership with dfuse, the blockchain API company, to collaborate on a powerful data solution for its platform."
+  },
+  {
+    "question": "What is the purpose of the partnership?",
+    "answer": "The purpose of the partnership is to collaborate on a powerful data solution for the Solana platform."
+  },
+  {
+    "question": "What is dfuse?",
+    "answer": "dfuse is a blockchain API company that provides developers with the tools they need to build powerful, secure applications on the blockchain."
+  }
+]

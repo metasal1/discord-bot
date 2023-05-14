@@ -1,0 +1,14 @@
+[
+  {
+    "Question": "What is Solana (SOL)?",
+    "Answer": "Solana (SOL) is a high-performance blockchain protocol that is designed to scale and support real-world applications."
+  },
+  {
+    "Question": "When can I start trading Solana (SOL) on BitMax?",
+    "Answer": "Trading will begin at 2 PM UTC, July 20th."
+  },
+  {
+    "Question": "How do I deposit Solana (SOL) on BitMax?",
+    "Answer": "You can deposit Solana (SOL) on BitMax by following the instructions provided on the website."
+  },
+]

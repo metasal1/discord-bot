@@ -1,0 +1,14 @@
+[
+    {
+        "question": "How can I track users on Solana?",
+        "answer": "The best metric to measure users on Solana is to use unique feePayers. This metric is a measure of dedicated users while not encompassing a lot of the programmatic activity on the network."
+    },
+    {
+        "question": "How can I measure developers on Solana?",
+        "answer": "To track developers on Solana, you need to have an understanding of the current libraries developers use. At the Solana Foundation, we use the Github API to track the projects using the following libraries in the Solana ecosystem: @solana/web3.js, serum/anchor, solana-program, anchor-lang, Solana, solanaj, Solnet, solana-go, solana, and Python SDK."
+    },
+    {
+        "question": "What is the difference between a full-time developer and one-time developer on Solana?",
+        "answer": "A full-time developer is someone who commits on 5 or more days in the past month, whereas a one-time developer is someone who commits on 1 day in the past month."
+    }
+]

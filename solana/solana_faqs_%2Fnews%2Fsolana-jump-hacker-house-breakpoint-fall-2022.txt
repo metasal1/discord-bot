@@ -1,0 +1,11 @@
+
+[
+    {
+        "question": "When will the Solana x Jump Hacker Houses take place?",
+        "answer": "The Solana x Jump Hacker Houses will take place from 8-11 September 2022 in New Delhi, India and from 12-16 September 2022 in Vancouver, BC, Canada. There will also be events in Singapore (21-25 September 2022), Bogotá, Colombia (4-8 October 2022) and Lisbon, Portugal (1-4 November 2022). The Solana Breakpoint conference will take place from 4-7 November 2022 in Lisbon, Portugal."
+    },
+    {
+        "question": "Where can I find more information about the Solana Hacker Houses?",
+        "answer": "You can find more information about the Solana Hacker Houses on the Solana events page. You can also apply to join the Hacker House X program, which allows motivated community members to tweak with the Solana Hacker House format for specialized events."
+    }
+]

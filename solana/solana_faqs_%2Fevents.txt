@@ -1,0 +1,23 @@
+
+[
+    {
+        "Question": "What is Solana Foundation?",
+        "Answer": "Solana Foundation is a managed foundation that works to drive the growth and development of the Solana ecosystem."
+    },
+    {
+        "Question": "What is SolanaGrants?",
+        "Answer": "SolanaGrants is a grant program created by the Solana Foundation to support projects that help grow and strengthen the Solana ecosystem."
+    },
+    {
+        "Question": "What is the Solana Media Kit?",
+        "Answer": "The Solana Media Kit provides resources such as logos, images, and other materials to help stakeholders easily create content about Solana."
+    },
+    {
+        "Question": "What careers are available at the Solana Foundation?",
+        "Answer": "The Solana Foundation offers a variety of career opportunities, including engineering, marketing, and business development positions."
+    },
+    {
+        "Question": "How can I get connected with the Solana ecosystem?",
+        "Answer": "You can get connected with the Solana ecosystem by joining the Solana community on Telegram, subscribing to the Solana newsletter, and checking out the Solana blog."
+    }
+]

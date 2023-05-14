@@ -1,0 +1,11 @@
+
+[
+  {
+    "question": "What are VALIDATED's conversations about?",
+    "answer": "VALIDATED's conversations are about the biggest ideas shaping the future of the internet - web3, blockchain, and how they're rethinking the internet and our world. No hype cycles or financial advice - just conversations on these topics."
+  },
+  {
+    "question": "What is the least interesting part about blockchain?",
+    "answer": "The least interesting part about blockchain is the price - crypto conversations are too often about who's up and who's down, what to buy and what to sell, and today's drama on Twitter."
+  }
+]

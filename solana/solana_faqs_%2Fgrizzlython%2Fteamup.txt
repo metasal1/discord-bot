@@ -1,0 +1,19 @@
+
+[
+    {
+        "question": "What is the Solana Grizzlython Hackathon?",
+        "answer": "The Solana Grizzlython Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability."
+    },
+    {
+        "question": "What is the purpose of the Hackathon?",
+        "answer": "The purpose of the Hackathon is to create software solely for evaluation by judges as part of a competition, and not for commercial deployment or release."
+    },
+    {
+        "question": "What are the developer resources provided by the Solana Foundation?",
+        "answer": "The developer resources that Solana Foundation provides are for educational and inspirational purposes only."
+    },
+    {
+        "question": "What is prohibited when using the developer resources?",
+        "answer": "SF prohibits the deployment, integration, or use of any applications (including the code comprising the Solana blockchain protocol) in violation of applicable laws or regulations. This includes use of any such applications by the reader (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if the reader is located in or ordinarily resides in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), (c) if the reader is or is working on behalf of a Specially Designated National (SDN) or is a person subject to similar blocking or denied party prohibitions, or (d) in violation of the Commodities and Exchange Act."
+    }
+]

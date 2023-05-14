@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization dedicated to advancing the development of the Solana blockchain and its applications, infrastructure, and ecosystem."
+  },
+  {
+    "question": "What is the Solana Network Upgrades page?",
+    "answer": "The Solana Network Upgrades page provides status updates for upgrades to the Solana network, such as QUIC, QoS, fee markets, and more."
+  },
+  {
+    "question": "What is Solana U?",
+    "answer": "Solana U is a program designed to empower the next generation of developers by providing thousands of university students around the world with educational resources and tools to build on the Solana blockchain."
+  },
+  {
+    "question": "What is the Solana Summer Camp Online Hackathon?",
+    "answer": "The Solana Summer Camp Online Hackathon is an online event with up to $5 million in prizes and seed funding for builders to create projects on the Solana blockchain."
+  },
+  {
+    "question": "What is the Solana Foundation Council?",
+    "answer": "The Solana Foundation Council is the governing body of the Solana Foundation and is responsible for managing the Foundation's resources and setting the strategic direction."
+  },
+  {
+    "question": "What is Solana Pay?",
+    "answer": "Solana Pay is a decentralized, open, peer-to-peer payment protocol built on the Solana blockchain that enables users to securely send and receive payments."
+  },
+  {
+    "question": "What is the Solana Ecosystem Directory?",
+    "answer": "The Solana Ecosystem Directory is a platform where anyone can submit their projects and vote for their favorites to be featured on the Solana blockchain."
+  },
+  {
+    "question": "What is the Solana IGNITION Hackathon?",
+    "answer": "The Solana IGNITION Hackathon is an online event with over 500+ project submissions from builders around the world competing for prizes and seed funding."
+  },
+  {
+    "question": "What happened on September 14th?",
+    "answer": "On September 14th, the Solana network was offline for 17 hours. No funds were lost, and the network returned to full functionality in under 24 hours."
+  },
+  {
+    "question": "What is the Breakpoint Global Fellows Program?",
+    "answer": "The Breakpoint Global Fellows Program is a program run by Solana Labs in partnership with Jump Crypto that provides support to student builders around the world."
+  },
+  {
+    "question": "What is Breakpoint?",
+    "answer": "Breakpoint is the annual conference hosted by the Solana Foundation that provides a platform for developers, entrepreneurs, and investors to come together and discuss the latest developments in the Solana blockchain."
+  },
+  {
+    "question": "What is the SOLAR Bridge?",
+    "answer": "The SOLAR Bridge is a bridge that allows data from the Solana ledger to be stored on the Arweave Permanent Network, providing enhanced data security and censorship resistance."
+  },
+  {
+    "question": "What is the Solana Foundation Grants Program?",
+    "answer": "The Solana Foundation Grants Program is a grants program designed to accelerate the growth of the Solana ecosystem by allocating resources to key projects in the form of financial grants."
+  },
+  {
+    "question": "What is the Solana/Ethereum Wormhole?",
+    "answer": "The Solana/Ethereum Wormhole is a bridge that enables data to be transferred between the Solana and Ethereum blockchains, allowing for increased interoperability between the two networks."
+  },
+  {
+    "question": "What exchange lists SOL?",
+    "answer": "SOL is listed on OKEx and Binance.US."
+  },
+  {
+    "question": "What is USDt-SPL?",
+    "answer": "USDT-SPL is the integration of the USDT stablecoin on the Solana blockchain, allowing users to transact on the Solana blockchain with USDT as a medium of exchange."
+  },
+  {
+    "question": "What is the Solana Arweave Interoperability Hack?",
+    "answer": "The Solana Arweave Interoperability Hack is a collaboration between Solana and Arweave calling for developers to build a bridge between the two networks to enable data to be transferred between them."
+  },
+  {
+    "question": "What is Coinbase Custody?",
+    "answer": "Coinbase Custody is an institutional-grade qualified custodian and fiduciary under New York State banking law, providing secure storage for cryptocurrencies for institutions and investors."
+  }
+]

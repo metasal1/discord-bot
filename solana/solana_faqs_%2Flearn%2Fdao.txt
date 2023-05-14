@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is a DAO?",
+    "answer": "A DAO, or “decentralized autonomous organization,” is a way people can organize through the blockchain. They do that by giving members access to special tokens, which allow people to vote."
+  },
+  {
+    "question": "What do you mean by “assets on the blockchain?”",
+    "answer": "Assets can actually be pretty broad here, according to TK TITLE Sebastian Bors at Solana Labs. “An asset,” he says, “can be anything.” Some of the more notable examples of assets include the attempt by a DAO to purchase an original copy of the Constitution to a DAO that managed donations to Ukraine, but an asset can also be something a little bit more abstract. An asset can be the rules of a community, or the direction of a video game metaverse."
+  },
+  {
+    "question": "How does a DAO differ from a traditional organization?",
+    "answer": "A key difference is total transparency. “Everything that is the DAO is defined as the contract on the chain,” he said. Additionally, a DAO is linked to something called a multi-signature wallet, which is controlled by the members of the DAO instead of just one person. This requires much less trust than with a traditional organization."
+  },
+  {
+    "question": "What is a multisignature wallet or governance token?",
+    "answer": "A multisignature wallet is a wallet that requires more than one private key to make decisions. A governance token, on the other hand, is the key for that wallet. If you have a key, you can have a say in how the wallet, project, or community is run."
+  },
+  {
+    "question": "Can the average person use a DAO?",
+    "answer": "DAOs are a great way for normal people to organize towards a shared goal, but DAOs are still in their early days. Many of the tools for voting and organizing are still somewhat technical. Similarly, legal recognition of DAOs is still somewhat limited. However, the space is rapidly evolving and there are several teams and projects in the Solana ecosystem that are making DAOs easier for the layperson!"
+  },
+  {
+    "question": "Why are DAOs important?",
+    "answer": "DAOs can exist on a spectrum and can be used for many different purposes. For example, they can be used to help families protect their assets from the current one person, one wallet crypto setup. Additionally, DAOs provide transparency and allow everyone to have a say in decision making, making them an important tool for organizing people towards a common goal."
+  }
+]

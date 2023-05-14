@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "Who are the winners of Solana Grizzlython?",
+    "answer": "The winners of Solana Grizzlython will be announced shortly."
+  },
+  {
+    "question": "What is State Compression and how does it affect NFTs on Solana?",
+    "answer": "State compression reduces the cost of minting 1 million NFTs on Solana to ~$110. It is a process that compresses data, allowing for more efficient storage and transmission of the data."
+  },
+  {
+    "question": "Where can I find ideas for the IGNITION Hackathon?",
+    "answer": "The IGNITION Hackathon provides a great starting point for ideas. You can find these ideas by visiting their website and reading the article titled “Need Ideas for the IGNITION Hackathon? Start Here.”"
+  },
+  {
+    "question": "What is the Breakpoint Global Fellows Program?",
+    "answer": "The Breakpoint Global Fellows Program is an initiative to foster the next generation of tech leaders. It provides mentorship opportunities, access to resources, and a network of like-minded people."
+  },
+  {
+    "question": "Where can I find resources for getting started with Solana Development?",
+    "answer": "Solana provides extensive resources for getting started with development. You can access these resources by visiting their website and reading the article titled “Getting Started with Solana Development.”"
+  }
+]

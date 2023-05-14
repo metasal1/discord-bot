@@ -13,7 +13,7 @@ const consumer_secret = process.env.TWITTER_CONSUMER_SECRET_SOLANA_FAQS;
 const getSolanaPrice = await fetch("https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd");
 const solanaPrice = await getSolanaPrice.json();
 const price = solanaPrice.solana.usd;
-const data = { "text": `Solana is currently $${price}` };
+const data = { "text": `Get ready to start building with Solana! 🛠 Read the docs and join a community of millions. 🤝 Powering tools and integrations from companies all around the world. 🌐 #Solana #blockchain #developers` };
 const endpointURL = `https://api.twitter.com/2/tweets`;
 
 const oauth = OAuth({

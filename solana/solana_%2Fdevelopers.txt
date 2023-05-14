@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What resources are available to help me join the Solana ecosystem?",
+        "answer": "The Solana Foundation and community offers a variety of courses to help you begin your journey into Solana development. Additionally, there are resources across the greater Solana ecosystem to help you learn more. You can also read the documentation for Solana and popular tools."
+    },
+    {
+        "question": "What is the Solana Changelog?",
+        "answer": "The Solana Changelog is a collection of changes from Jacob & Jonas. It includes new features, bug fixes, and more."
+    },
+    {
+        "question": "How do I stay up to date on the latest Solana news?",
+        "answer": "The best way to stay up to date is to subscribe to the Solana newsletter. You'll be able to learn about new resources, new commits, new proposals, and more."
+    },
+    {
+        "question": "Are there additional resources beyond the Solana Foundation and community?",
+        "answer": "Yes! There are videos, episodes, and discussions between industry leaders in both blockchain and technology, our team, and community developers. You can find them on YouTube and the Solana podcast."
+    }
+]

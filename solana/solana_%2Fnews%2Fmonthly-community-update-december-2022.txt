@@ -1,0 +1,37 @@
+Q1: What is the relationship between FTX and the Solana community?
+A1: FTX was involved in the early days of Solana, largely as the primary developer of Serum. Recently, the relationship between FTX and the Solana community wasn’t particularly notable. 
+
+Q2: What role did Serum play in the Solana decentralized finance ecosystem? 
+A2: Serum served a critical role in the Solana decentralized finance ecosystem as it was one of the first order books built using Solana’s high throughput. It played an outsized role in attracting traditional finance to the ecosystem and provided lots of dependencies from various DeFi protocols. 
+
+Q3: What is OpenBook?
+A3: OpenBook is a community-owned tool created by forking the code from a previous version of Serum. It was created in response to the collapse of FTX to ensure the program upgrade keys would not be compromised and used to change the program and possibly steal user funds. 
+
+Q4: What has been the initial transition to OpenBook like?
+A4: The initial transition to OpenBook has been a success. By Nov. 16th, there was more trading on OpenBook than on Serum. 
+
+Q5: What is the goal for OpenBook?
+A5: The goal for OpenBook is to move forward as a community-led project with no profit motivation and serve as a public good. This will unite the large pool of talented developers in Solana to contribute to OpenBook for the entire ecosystem. 
+
+[
+    {
+        "question": "What is the relationship between FTX and the Solana community?",
+        "answer": "FTX was involved in the early days of Solana, largely as the primary developer of Serum. Recently, the relationship between FTX and the Solana community wasn’t particularly notable."
+    },
+    {
+        "question": "What role did Serum play in the Solana decentralized finance ecosystem?",
+        "answer": "Serum served a critical role in the Solana decentralized finance ecosystem as it was one of the first order books built using Solana’s high throughput. It played an outsized role in attracting traditional finance to the ecosystem and provided lots of dependencies from various DeFi protocols."
+    },
+    {
+        "question": "What is OpenBook?",
+        "answer": "OpenBook is a community-owned tool created by forking the code from a previous version of Serum. It was created in response to the collapse of FTX to ensure the program upgrade keys would not be compromised and used to change the program and possibly steal user funds."
+    },
+    {
+        "question": "What has been the initial transition to OpenBook like?",
+        "answer": "The initial transition to OpenBook has been a success. By Nov. 16th, there was more trading on OpenBook than on Serum."
+    },
+    {
+        "question": "What is the goal for OpenBook?",
+        "answer": "The goal for OpenBook is to move forward as a community-led project with no profit motivation and serve as a public good. This will unite the large pool of talented developers in Solana to contribute to OpenBook for the entire ecosystem."
+    }
+]

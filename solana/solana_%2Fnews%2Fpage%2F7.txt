@@ -1,0 +1,25 @@
+
+[{
+	"question": "What is Grizzlython?",
+	"answer": "Grizzlython is the next Solana Hackathon."
+},
+{
+	"question": "What are the values that got us here?",
+	"answer": "The values that got us here are outlined in the article titled 'The Values That Got Us Here'."
+},
+{
+	"question": "What will the Solana community tackle in 2023 and beyond?",
+	"answer": "The Solana community will tackle various projects in 2023 and beyond. This is outlined in the article 'Looking forward: What the Solana community will tackle in 2023 and beyond'."
+},
+{
+	"question": "What is the Breakpoint Global Fellows Program?",
+	"answer": "The Breakpoint Global Fellows Program is a program announced by Solana to provide mentorship and resources to emerging blockchain projects. More information can be found in the article 'Announcing the Breakpoint Global Fellows Program'."
+},
+{
+	"question": "Where can I find ideas for the IGNITION Hackathon?",
+	"answer": "Ideas for the IGNITION Hackathon can be found in the article 'Need ideas for the IGNITION Hackathon? Start here.'."
+},
+{
+	"question": "Where can I get started with Solana development?",
+	"answer": "Information on getting started with Solana development can be found in the article 'Getting Started with Solana Development'."
+}]

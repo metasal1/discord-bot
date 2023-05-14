@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the SOLAR Bridge?",
+    "answer": "The SOLAR Bridge is a bridge that connects Solana ledger data to Arweave's Permanent Network."
+  },
+  {
+    "question": "What is the NFT Showdown?",
+    "answer": "The NFT Showdown is a competition to build the next generation of NFT brands on Solana."
+  },
+  {
+    "question": "Who manages the Solana Foundation?",
+    "answer": "The Solana Foundation is managed by the Solana Foundation."
+  },
+  {
+    "question": "What is the Solana Grants Program?",
+    "answer": "The Solana Grants Program is a program initiated by the Solana Foundation which provides grants to projects that are building on Solana."
+  },
+  {
+    "question": "Where can I find more information about Solana?",
+    "answer": "You can find more information about Solana at solana.com, including the Solana Media Kit, Careers page, and the Solana Ecosystem page."
+  }
+]

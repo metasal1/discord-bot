@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What is a blockchain dilemma?",
+        "answer": "A blockchain dilemma is a critical issue that blockchain networks must address in order to ensure their security and functionality. Chain forks, catastrophic re-orgs, and insurance are common issues that must be addressed in order for a blockchain network to remain secure and operational."
+    },
+    {
+        "question": "What is a chain fork?",
+        "answer": "A chain fork is an event in which a single cryptocurrency splits in two separate currencies. This can occur when a blockchain is updated and different groups of users have different opinions on what the updated version should look like."
+    },
+    {
+        "question": "What is a catastrophic re-org?",
+        "answer": "A catastrophic re-org is an event in which a blockchain is taken back to a previous point in its history, resulting in transactions being reversed and users potentially losing funds. This often occurs when a blockchain is attacked or hacked."
+    },
+    {
+        "question": "What is blockchain insurance?",
+        "answer": "Blockchain insurance is a form of protection against losses due to a catastrophic re-org or other attacks on a blockchain network. This type of insurance provides users with a financial safeguard against losses that may occur due to a breach or attack on a blockchain."
+    }
+]

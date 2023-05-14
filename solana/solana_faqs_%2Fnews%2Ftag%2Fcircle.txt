@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is USDC?",
+    "answer": "USDC is a digital asset created by Circle. It is a representation of the US dollar and is fully backed by fiat currency stored in reserve."
+  },
+  {
+    "question": "What is USDC-SPL?",
+    "answer": "USDC-SPL is the USDC token that is integrated with the Solana blockchain. This allows USDC to be used for applications and services on the Solana platform."
+  },
+  {
+    "question": "What is the Solana blockchain?",
+    "answer": "Solana is an open-source, permissionless, proof-of-stake blockchain designed to support high-throughput applications. It enables high-speed transaction processing and low transaction fees."
+  }
+]

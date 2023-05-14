@@ -1,0 +1,19 @@
+
+[
+  {
+    "Q": "What is an RPC request?",
+    "A": "RPC requests are an application’s gateway to the Solana cluster. The requests are serviced by aptly named RPC Nodes, which are typically dedicated to the task rather than participating in consensus."
+  },
+  {
+    "Q": "What is the easiest way to run a local cluster?",
+    "A": "The easiest way to run a local cluster is with the solana-test-validator binary, included in the Solana CLI Tools suite."
+  },
+  {
+    "Q": "What are some free RPC providers for the public Solana clusters?",
+    "A": "Testnet: https://api.testnet.solana.com; Devnet: https://api.devnet.solana.com, https://rpc.ankr.com/solana_devnet; Mainnet-beta: https://api.mainnet-beta.solana.com; Syndica; Blockdaemon; GetBlock; Helius; QuickNode."
+  },
+  {
+    "Q": "What are some private RPC services?",
+    "A": "QuickNode (shared); Triton/RPC Pool (shared and dedicated); Chainflow (dedicated); Chainstack (shared and dedicated); GenesysGo (dedicated); Run Nodes (shared); Figment (shared); Foundation Server Program - bare metal at a discount to run-your-own; Syndica; Alchemy (shared); Blockdaemon; Ankr; GetBlock; Helius; NOWNodes (shared and dedicated)."
+  }
+]

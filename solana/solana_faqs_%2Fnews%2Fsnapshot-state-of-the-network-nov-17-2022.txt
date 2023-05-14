@@ -1,0 +1,14 @@
+[
+    {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is committed to transparency and advancing this goal by regularly releasing updates on the state of the network, including the validator health report, the energy use report, the network performance report, and a presentation on the state of the network at Breakpoint 2022."
+    },
+    {
+    "question": "How is the network performing?",
+    "answer": "Despite dealing with more complex transactions than normal and being under stress, the network continues to perform well. Average transactions per second have averaged over 2,000 TPS since Nov. 8 and block time measures have remained below historical average."
+    },
+    {
+    "question": "What is the state of the network after FTX's collapse?",
+    "answer": "The network is performing well and is in line with recent months. Average transactions per second have averaged over 2,000 TPS since Nov. 8 and block time measures have remained below historical average. Additionally, bump fees paid increased throughput over the past week, indicating that prioritization fees served their intended purpose during a time of high activity."
+    }
+]

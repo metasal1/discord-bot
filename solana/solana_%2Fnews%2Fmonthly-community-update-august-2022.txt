@@ -1,0 +1,17 @@
+
+[ {
+  "question": "What is Neo Fairies?",
+  "answer": "Neo Fairies is an urban-fantasy world built with a new tool called Wonder Protocol where users can mint as they build unique objects, create characters, locations, and more, all while participating in a DAO that will guide the future of the property."
+},
+  {
+  "question": "How do I join Neo Fairies?",
+  "answer": "To join Neo Fairies, all you need to do is join their Discord, verify yourself, and answer a prompt to get the creative juices flowing. You will then get an “Ikur Pass” that allows you to declare an area of the world a “fairy sanctuary” and mint an NFT."
+},
+  {
+  "question": "What is the Validator Health Report?",
+  "answer": "The Validator Health Report is a report released by the Solana Foundation that dives into the validator network and key metrics the Foundation tracks to assess its health, including total validator count, Nakamoto Coefficient, and distribution of servers."
+},
+  {
+  "question": "How can I apply for the Solana Fellowship?",
+  "answer": "If you are a developer interested in getting started, you can apply for the Solana Fellowship by visiting this link: https://mhlfellowships.com/solana-fellowship/"
+} ]

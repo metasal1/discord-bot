@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do smart contracts work on Solana's Proof of History based blockchain?",
+    "answer": "Solana's blockchain is based on a Proof of History consensus algorithm, which makes use of a special type of data structure called a Verifiable Delay Function (VDF). This VDF is used to timestamp transactions and create a unique and immutable record of each transaction on the blockchain. Smart contracts on Solana's blockchain are written in the Rust programming language to take advantage of the high performance memory management for smart contracts, allowing developers to create more sophisticated applications."
+  },
+  {
+    "question": "What grants are available on Solana?",
+    "answer": "The Solana Foundation offers grants to help fund projects that will further the development of the Solana ecosystem. This could include grants for developer education, marketing and promotions, or projects that will increase the adoption of the Solana blockchain. To learn more about available grants, please visit the Grants section of the Solana website."
+  },
+  {
+    "question": "What is Solana's Media Kit?",
+    "answer": "The Solana Media Kit is a collection of resources and information to help journalists, bloggers, and other media professionals write stories and create content about the Solana blockchain. The kit includes a range of resources including press releases, logos, images, and more."
+  }
+]

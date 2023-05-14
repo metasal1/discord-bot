@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What is Solana Summer Camp Hackathon?",
+    "answer": "The Solana Summer Camp Hackathon is an online, global event with up to $5 million in prizes and seed funding. The sixth Solana hackathon will run July 11 - Aug. 16. It’s open to everyone, and anyone with a project idea is encouraged to register."
+  },
+  {
+    "question": "What are the tracks for the hackathon?",
+    "answer": "The Solana Summer Camp has a mobile prize track, as well as tracks in Payments, DeFi, Web3, Gaming, and DAOs."
+  },
+  {
+    "question": "What are the prizes for the hackathon?",
+    "answer": "Projects will be eligible for: The Grand Champion will receive $65,000 USDC, three passes to an upcoming Solana conference, and the chance to present their projects to the greater Solana community. The Community Choice Award, voted on by the Solana community, will be awarded $10,000 USDC and an exclusive NFT. Prizes in the Mobile, Payments, DeFi, Web3, Gaming, and DAO Tracks, with five prizes each ranging from $50,000 USDC to $10,000 USDC. The University Award, a $30,000 USDC prize presented to the best student team. The Climate Award, promoting green and climate-friendly projects, will receive $10,000 USDC."
+  },
+  {
+    "question": "Are there any restrictions on who can participate in the hackathon?",
+    "answer": "No purchase necessary to enter or win. Void where prohibited. Participants must be the age of majority in their state/country of residence or older."
+  },
+  {
+    "question": "Are there any restrictions on how the projects developed for the hackathon can be used?",
+    "answer": "Projects created for the hackathon will be evaluated by judges on their technological merits without consideration of legal viability. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon. The Solana Foundation does not encourage, induce or sanction the deployment, integration or use of any such applications (including the code comprising the Solana blockchain protocol) in violation of applicable laws or regulations and hereby prohibits any such deployment, integration or use. This includes use of any such applications by the reader (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if the reader is located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), (c) if the reader is or is working on behalf of a Specially Designated National (SDN) or a person subject to similar blocking or denied party prohibitions, or (d) in violation of the Commodities and Exchange Act."
+  }
+]

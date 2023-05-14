@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What is play-and-own games?",
+        "answer": "Play-and-own games are games where players own their data and progression across games, platforms, and publishers. This means that players have complete control over their user data including profile information, game settings, and progression."
+    },
+    {
+        "question": "What are the benefits of play-and-own games?",
+        "answer": "Play-and-own games enable a better gaming experience by potentially bringing the player’s community engagement and experience into future franchise installments. They also enable players to create and contribute intellectual property to the game through User Generated Content such as extensions of the lore and even new feature designs."
+    },
+    {
+        "question": "What is the Digital Asset Decentralized Exchange (DADex)?",
+        "answer": "DADex is a decentralized exchange specialized for in-game assets. It has integrations with games’ infrastructure for better UX in price discovery and significant improvement in cash out payments UX, such as direct credits to a player’s credit card, compared to current blockchain games."
+    },
+    {
+        "question": "Why is it best to build play-and-own games on Solana?",
+        "answer": "Solana is designed and built with performance in mind. A blockchain protocol needs to provide sufficiently high speeds and consistently low fees to enable in-game asset swaps at scale. Solana's global single shared state results in organic growth when Paid UA is executed. Players from games and users of other products on Solana are much more seamlessly onboarded to your game."
+    }
+]

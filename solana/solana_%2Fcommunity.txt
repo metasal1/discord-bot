@@ -1,0 +1,16 @@
+[{
+    "question": "What is the Solana Community?",
+    "answer": "The Solana Community is a globally distributed home to developers, token holders, validators, and members supporting the protocol."
+},
+{
+    "question": "What communication channels does Solana have?",
+    "answer": "We have most frequented and updated communication channels including Solana Collective, Spotlight: Solana Validator SecurityWatch, News and more."
+},
+{
+    "question": "What is Solana Collective?",
+    "answer": "Solana Collective is a program to support the Solana core team through community and marketing initiatives while accumulating rewards."
+},
+{
+    "question": "What innovations have been launched on Solana?",
+    "answer": "Ecosystem-born innovations like xNFTs, real time emissions measurement and Helium upgrades have been launched on the Solana blockchain."
+}]

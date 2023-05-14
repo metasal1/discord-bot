@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the Solana Foundation x Serum DeFi Hackathon?",
+    "answer": "The Solana Foundation x Serum DeFi Hackathon is an event bringing blazing speed, low fees, and scalability to Decentralized Finance."
+  },
+  {
+    "question": "What did Solana manage to do in 2020?",
+    "answer": "Despite the global challenges, Solana and the entire Solana ecosystem managed to expand rapidly since the mainnet beta launch earlier this year."
+  },
+  {
+    "question": "What is the Solana Foundation Grants — Wave One?",
+    "answer": "The Solana Foundation Grants — Wave One is an event to accelerate the growth of the Solana ecosystem."
+  },
+  {
+    "question": "When did Solana get listed on OKEx?",
+    "answer": "Solana was listed on OKEx in December 2020."
+  },
+  {
+    "question": "What is Coinbase Custody?",
+    "answer": "Coinbase Custody is an institutional-grade qualified custodian and fiduciary under New York laws."
+  },
+  {
+    "question": "What is the Gate.io listing competition?",
+    "answer": "The Gate.io listing competition is an event where Solana will be featured as a token."
+  },
+  {
+    "question": "What is Pocket?",
+    "answer": "Pocket is a decentralized API solution, that incentivizes participants to run full nodes for developers who need data for their applications."
+  },
+  {
+    "question": "What is dfuse?",
+    "answer": "Dfuse is a blockchain API company that has partnered with Solana to collaborate on a powerful data solution."
+  },
+  {
+    "question": "What is Tour de SOL?",
+    "answer": "Tour de SOL is Solana's incentivized testnet event. It is an opportunity to flex their validation skills, earn tokens, and secure the Solana network."
+  },
+  {
+    "question": "What did Solana do in 2019?",
+    "answer": "In 2019, Solana made amazing progress in growth, development, and the road to mainnet."
+  }
+]

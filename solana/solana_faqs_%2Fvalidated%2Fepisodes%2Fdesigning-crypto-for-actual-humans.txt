@@ -1,0 +1,23 @@
+
+[
+	{
+		"Question": "What is holding back crypto from mass adoption?",
+		"Answer": "One of the major factors holding back crypto from mass adoption is bad UX."
+	},
+	{
+		"Question": "What is the main cause of crypto's history of bad UX?",
+		"Answer": "The main cause of crypto's history of bad UX is the underrepresentation of designers’ voices."
+	},
+	{
+		"Question": "What does Ori Kwan think about building web3 products?",
+		"Answer": "Ori Kwan thinks about building web3 products that are desirable, feasible, and viable, all from a designer's point of view."
+	},
+	{
+		"Question": "What is the Solana Foundation's stance on the accuracy of the information presented?",
+		"Answer": "The Solana Foundation and its agents, advisors, council members, officers and employees (the “Foundation Parties”) make no representation or warranties, expressed or implied, as to the accuracy of the information presented."
+	},
+	{
+		"Question": "What should I do before making any decisions based on the information presented?",
+		"Answer": "You should undertake independent due diligence and consultation with a professional advisor before making any decisions based on the information presented."
+	}
+]

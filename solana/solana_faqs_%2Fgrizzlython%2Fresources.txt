@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Where can I find technical support?",
+    "answer": "You can find technical support on the Solana StackExchange or join the hackathon discord!"
+  },
+  {
+    "question": "What resources are available to help me get started with Solana development?",
+    "answer": "The main Solana documentation, Solana Cookbook, Solana Course, Solana Playground, Anchor Book, and various tutorials are all great resources to start with."
+  },
+  {
+    "question": "What developer support is available?",
+    "answer": "Metaplex/NFT Support, Anchor Support, Governance Support, SMS/Mobile Support, and various SDKs are available."
+  },
+  {
+    "question": "Where can I find public RPCs?",
+    "answer": "You can find public RPCs at api.mainnet-beta.solana.com and api.devnet.solana.com. Note: if you plan on using a RPC for any amount of traffic, we recommend using one of the RPCs found in the Solana Cookbook or in the sponsored resources section."
+  },
+  {
+    "question": "Where can I find more information about Backpack?",
+    "answer": "You can find more information about Backpack at https://github.com/coral-xyz/xnft-quickstart and https://docs.xnfts.dev/getting-started/getting-started"
+  },
+  {
+    "question": "What is Helius?",
+    "answer": "Helius is the ultimate developer platform for building on Solana. Effortlessly navigate on-chain data with powerful APIs, webhooks, and RPCs. 150 free Helius Dev plans are available to hackathon participants, first come first serve. For more information, visit https://helius.xyz, see the API docs at https://docs.helius.xyz, and check out the SDK at https://github.com/helius-labs/helius-sdk."
+  },
+  {
+    "question": "Where can I find more information about Symmetry and Syndica?",
+    "answer": "You can find more information about Symmetry at https://docs.symmetry.fi/symmetry-engine/sdks and Syndica at http://www.syndica.io/product. Hackathon participants can sign up for the Syndica starter plan for free after registration and Syndica will be providing $2,500 in credits per team following project submission."
+  },
+  {
+    "question": "Where can I find more information about Triton One?",
+    "answer": "You can find more information about Triton One at https://www.triton.one. They offer one month of free service on their shared Solana RPC for front ends and Triton's private Devnet & Testnet are always free."
+  },
+  {
+    "question": "Where can I find more information about Quicknode?",
+    "answer": "You can find more information about Quicknode at https://www.quicknode.io. Hackathon participants get three months free of the Scale plan ($900 value) for best in class performance globally. If you have technical questions along the way, feel free to reach out in the Telegram group for Solana x QN Hackers."
+  },
+  {
+    "question": "Where can I find more information about SolanaFM?",
+    "answer": "You can find more information about SolanaFM at https://solana.fm/, https://portal.solana.fm/, https://discord.com/invite/3SqREprDJN, and https://twitter.com/solanafm. 250 Dev plans are reserved for Grizzlython participants, start building now!"
+  },
+  {
+    "question": "Where can I find more information about Monaco Protocol?",
+    "answer": "You can find more information about Monaco Protocol at https://www.monacoprotocol.xyz/, https://github.com/MonacoProtocol, https://docs.monacoprotocol.xyz/, and https://discord.gg/8mR7bbBMP6."
+  }
+]

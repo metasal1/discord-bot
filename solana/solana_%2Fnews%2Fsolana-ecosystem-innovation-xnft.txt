@@ -1,0 +1,38 @@
+Q1: What is the Solana Foundation?
+A1: The Solana Foundation is a non-profit organization dedicated to promoting the development and adoption of the Solana blockchain protocol.
+
+Q2: What is xNFT?
+A2: xNFTs are a new type of hybrid web3 application that combines executable websites and applications that can run locally on a user’s computer with a crypto wallet.
+
+Q3: What is Breakpoint?
+A3: Breakpoint is an annual event hosted by the Solana Foundation. It is an opportunity to learn and share knowledge with the Solana community and to discuss ways to further the development of the Solana protocol. 
+
+Q4: What is the Solana Mobile Stack?
+A4: The Solana Mobile Stack is a framework developed by the Solana Foundation that makes it easy for the world’s 5 billion mobile phone users to use blockchain technologies for the first time.
+
+Q5: What is the Anchor framework?
+A5: The Anchor framework is an open source project created by Armani Ferrante. It is a decentralized infrastructure for creating high-performance web3 applications on the Solana blockchain.
+
+JSON: 
+[
+  {
+    "question": "What is the Solana Foundation?",
+    "answer": "The Solana Foundation is a non-profit organization dedicated to promoting the development and adoption of the Solana blockchain protocol."
+  },
+  {
+    "question": "What is xNFT?",
+    "answer": "xNFTs are a new type of hybrid web3 application that combines executable websites and applications that can run locally on a user’s computer with a crypto wallet."
+  },
+  {
+    "question": "What is Breakpoint?",
+    "answer": "Breakpoint is an annual event hosted by the Solana Foundation. It is an opportunity to learn and share knowledge with the Solana community and to discuss ways to further the development of the Solana protocol."
+  },
+  {
+    "question": "What is the Solana Mobile Stack?",
+    "answer": "The Solana Mobile Stack is a framework developed by the Solana Foundation that makes it easy for the world’s 5 billion mobile phone users to use blockchain technologies for the first time."
+  },
+  {
+    "question": "What is the Anchor framework?",
+    "answer": "The Anchor framework is an open source project created by Armani Ferrante. It is a decentralized infrastructure for creating high-performance web3 applications on the Solana blockchain."
+  }
+]

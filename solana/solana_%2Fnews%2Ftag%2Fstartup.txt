@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the Internal Scalability Test of Solana network?",
+    "answer": "The Internal Scalability Test of Solana network is a CPU-only test to demonstrate the capabilities and speed of the Solana network."
+  },
+  {
+    "question": "What is the process used by Solana network to validate and replicate transactions?",
+    "answer": "The Solana network utilizes pipelining in order to validate and replicate transactions with web-scale speed and functionality."
+  },
+  {
+    "question": "What are the tech breakthroughs that make Solana's 50,000 TPS blockchain network possible?",
+    "answer": "There are 8 innovations that make Solana the first web-scale blockchain, such as: sharding, proof-of-historical-stake, virtual-machine, proof-of-replication, blockchain-as-a-service, block-merging, transaction-confirmation-service, and sharding-optimization."
+  }
+]

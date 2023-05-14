@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "What makes Solana special?",
+    "answer": "Solana is made for builders, offering ultra-low fees, high transaction throughput, low latency, and capital efficiency."
+  },
+  {
+    "question": "How can I write smart contracts on Solana?",
+    "answer": "Anchor is an all-in-one toolchain that makes it easy to write smart contracts in Solidity, web3.js, ethers.js, Truffle, and ganache."
+  },
+  {
+    "question": "What is the benefit of using Solana?",
+    "answer": "Solana provides blazing fast speeds and low fees that scale with the ecosystem growth without compromising censorship resistance or security."
+  },
+  {
+    "question": "Does Solana use a single global state?",
+    "answer": "Yes, Solana maintains a single global state and is designed to scale with Moore's Law."
+  },
+  {
+    "question": "Can I join the Solana community?",
+    "answer": "Yes! Solana has a vibrant and growing community, and everyone is welcome to join."
+  }
+]

@@ -1,0 +1,8 @@
+Q) What is state compression?
+A) State compression is a new way to store data directly on-chain that cuts down on cost by magnitudes of scale. It is already being used by teams across the Solana ecosystem to power large, user-friendly experiences.
+
+Q) How much does it cost to store compressed NFTs on-chain?
+A) Storing 100 million compressed NFTs costs about ◎50 to store on-chain, compared to ◎1.2mm for their uncompressed counterpart. In fact, the cost of an NFT on Solana is now as little as the cost of a single transaction (◎0.000005).
+
+Q) How does state compression work?
+A) State compression makes elegant use of a well-known data structure called a Merkle tree. This compression-friendly data structure allows developers to store a small bit of data on-chain and updates directly in the Solana ledger, cutting the data storage cost down dramatically while still using the security and decentralization of Solana’s base layer.

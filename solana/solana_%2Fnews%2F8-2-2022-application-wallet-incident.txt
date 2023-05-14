@@ -1,0 +1,15 @@
+
+[
+ {
+  "question": "How do I know if my wallet is affected by this attack?",
+  "answer": "If you are a user of Slope, or have ever previously imported seed phrases into Slope, your wallet may be compromised, even if no assets have been transferred."
+ },
+ {
+  "question": "What should I do if my wallet is affected?",
+  "answer": "Generate a new seed phrase in another wallet application, transfer all assets (tokens and NFTs) to this new wallet, and abandon the old address, as it was potentially compromised."
+ },
+ {
+  "question": "Should I reuse any wallets derived from seed phrases previously used with Slope’s mobile applications?",
+  "answer": "No, users should not reuse any wallets derived from seed phrases previously used with Slope’s mobile applications."
+ }
+]

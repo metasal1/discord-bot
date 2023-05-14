@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is Solana Summer Camp?",
+    "answer": "Solana Summer Camp is the sixth Solana hackathon, and while it was primarily an online event, ecosystem teams across the world hosted thousands of participants at offline events in San Francisco, Chicago, Salt Lake City, New York City, London, Lisbon, Amsterdam, Prague, Berlin, Belgrade, and Singapore."
+  },
+  {
+    "question": "What is the prize pool for Solana Summer Camp?",
+    "answer": "The hackathon brought together crypto pioneers and developers from around the world to launch projects on the Solana blockchain. Open to teams globally, Solana Summer Camp saw nearly 18,000 participants submit 750 final projects to the judges. Stripe, Orca, Grape, Solana Mobile, Fractal, and Brave joined the Solana Foundation as category sponsors for the hackathon, offering participants a global prize pool of up to $5 million in prizes and seed funding."
+  },
+  {
+    "question": "What is the Grand Champion prize of Solana Summer Camp?",
+    "answer": "The Grand Champion prize of Solana Summer Camp is $65,000 in USDC, along with passes to attend Breakpoint, the annual Solana conference in Lisbon Nov. 4-7, 2022, where they will present their project."
+  },
+  {
+    "question": "Who are the winners of Solana Summer Camp?",
+    "answer": "The winners of Solana Summer Camp are IronForge (Grand Champion), Sphere (Payments Track), RPG Quest (Gaming Track), Bastion (DAOs Track), Dual Finance (DeFi Track), Ora (Web3 Track), BlockLive (Mobile Track), Solstamps (University Award), Beluga (Community Choice Award), and WiHi (Climate Award)."
+  }
+]
