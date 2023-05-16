@@ -5,7 +5,7 @@ import schedule from 'node-schedule';
 
 dotenv.config();
 
-const tweetSchedule = schedule.scheduleJob('*/2 * * *', async function () {
+const tweetSchedule = schedule.scheduleJob('10 */2 * * *', async function () {
 
     const access_token = process.env.TWITTER_ACCESS_TOKEN_SOLANA_FAQS;
     const access_token_secret = process.env.TWITTER_ACCESS_TOKEN_SECRET_SOLANA_FAQS;
