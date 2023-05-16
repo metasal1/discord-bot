@@ -1,13 +1,10 @@
 import crypto from 'crypto';
 import OAuth from 'oauth-1.0a';
 import dotenv from 'dotenv';
-import schedule from 'node-schedule';
-import fs from 'fs';
 import fetch from 'node-fetch';
 import findByNull from './findByNull.js';
 import update from './updatefaq.js';
-import findById from './findById.js';
-import { createObjectCsvWriter } from 'csv-writer';
+import save from './savetodb.js';
 
 dotenv.config();
 
@@ -82,6 +79,7 @@ async function getRequest(token, tweet) {
 
         console.log(`Tweet ID: ${tweetId}`);
         const result = await update(faq_id, tweetId);
+        save('twitter', 'tweetlog', response);
         console.log(result);
 
     } catch (e) {

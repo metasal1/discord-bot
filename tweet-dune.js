@@ -2,6 +2,7 @@ import crypto from 'crypto';
 import OAuth from 'oauth-1.0a';
 import dotenv from 'dotenv';
 import schedule from 'node-schedule';
+import save from './savetodb.js';
 
 const dummy = {
     "execution_id": "01H0H8GT1WPQBK2NY0XF7FSW7S",
@@ -31,7 +32,7 @@ const dummy = {
 }
 dotenv.config();
 
-const tweetSchedule = schedule.scheduleJob('5 * * * *', async function () {
+const tweetSchedule = schedule.scheduleJob('5 */3 * * *', async function () {
 
     const access_token = process.env.TWITTER_ACCESS_TOKEN_SOLANA_FAQS;
     const access_token_secret = process.env.TWITTER_ACCESS_TOKEN_SECRET_SOLANA_FAQS;
@@ -75,6 +76,7 @@ const tweetSchedule = schedule.scheduleJob('5 * * * *', async function () {
 
         console.log(req);
         if (req.body) {
+            save('twitter', 'tweetlog', req.body);
             return req.body;
         } else {
             throw new Error('Unsuccessful request');

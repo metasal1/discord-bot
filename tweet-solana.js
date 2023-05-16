@@ -2,12 +2,10 @@ import crypto from 'crypto';
 import OAuth from 'oauth-1.0a';
 import dotenv from 'dotenv';
 import schedule from 'node-schedule';
-import fs from 'fs';
 import fetch from 'node-fetch';
 import findByNull from './findByNull.js';
 import update from './updatefaq.js';
-import findById from './findById.js';
-import { createObjectCsvWriter } from 'csv-writer';
+import save from './savetodb.js';
 
 dotenv.config();
 
@@ -58,7 +56,8 @@ const tweetSchedule = schedule.scheduleJob('27 * * * *', async function () {
         });
 
         const json = await req.json();
-        console.log(json);
+        save('twitter', 'tweetlog', json);
+
         return json;
 
     }
