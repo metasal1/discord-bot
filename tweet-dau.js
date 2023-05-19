@@ -6,34 +6,16 @@ import save from './savetodb.js';
 import fetch from 'node-fetch';
 
 const dummy = {
-    "execution_id": "01H0H8GT1WPQBK2NY0XF7FSW7S",
-    "query_id": 2476143,
-    "state": "QUERY_STATE_COMPLETED",
-    "submitted_at": "2023-05-16T03:09:04.957661Z",
-    "expires_at": "2023-08-14T03:09:11.934855Z",
-    "execution_started_at": "2023-05-16T03:09:05.015941Z",
-    "execution_ended_at": "2023-05-16T03:09:11.934854Z",
+    "status": "Success",
+    "message": "Retrieved Daily Active Users Data",
     "result": {
-        "rows": [
-            {
-                "_col0": 1366637
-            }
-        ],
-        "metadata": {
-            "column_names": [
-                "_col0"
-            ],
-            "result_set_bytes": 12,
-            "total_row_count": 1,
-            "datapoint_count": 1,
-            "pending_time_millis": 58,
-            "execution_time_millis": 6918
-        }
+        "date": "18-05-2023",
+        "activeUsers": 497218
     }
 }
 dotenv.config();
 
-const tweetSchedule = schedule.scheduleJob('5 */3 * * *', async function () {
+const tweetSchedule = schedule.scheduleJob('23 10 * * *', async function () {
 
     const access_token = process.env.TWITTER_ACCESS_TOKEN_SOLANA_FAQS;
     const access_token_secret = process.env.TWITTER_ACCESS_TOKEN_SECRET_SOLANA_FAQS;
@@ -41,12 +23,21 @@ const tweetSchedule = schedule.scheduleJob('5 */3 * * *', async function () {
     const consumer_key = process.env.TWITTER_CONSUMER_KEY_SOLANA_FAQS;
     const consumer_secret = process.env.TWITTER_CONSUMER_SECRET_SOLANA_FAQS;
 
-    const req = await fetch(`https://api.dune.com/api/v1/query/2476143/results?api_key=${process.env.DUNE_API_KEY}`)
+    const today = new Date();
+    const yesterday = new Date(today);
+    yesterday.setDate(today.getDate() - 1);
+
+    const formattedDate = `${yesterday.getDate().toString().padStart(2, '0')}-${(yesterday.getMonth() + 1).toString().padStart(2, '0')}-${yesterday.getFullYear()}`;
+    console.log(formattedDate);
+
+    const url = `https://api.solana.fm/v0/stats/active-users?date=${formattedDate}`;
+    console.log(url)
+    const req = await fetch(url)
     const res = await req.json();
     console.log(res);
-    const tx = res.result.rows[0]._col0;
-    console.log("Transactions", tx);
-    const data = { "text": `Did you know the Solana Blockchain performed ${tx.toLocaleString()} transactions in the past hour ? 🤯 That's ${Math.round(tx / 60).toLocaleString()} per minute!` };
+    const dau = res.result.activeUsers.toLocaleString();
+    console.log("DAU", dau);
+    const data = { "text": `Did you know that yesterday, the number of users on Solana reached a staggering ${dau}? 🙆‍♂️` };
     console.log(data);
     const endpointURL = `https://api.twitter.com/2/tweets`;
 
