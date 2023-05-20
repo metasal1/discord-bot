@@ -41,7 +41,7 @@ console.log("Min block time:", minBlockTime);
 console.log("Block time:", maxBlockTime - minBlockTime);
 
 // const tweet = `In the last ${time} seconds, there were ${totalTransactions.toLocaleString()} transactions on Solana, averaging ${Math.round(totalTransactions / blocks.result.data.length).toLocaleString()} transactions per block.`;
-const tweet = `In the last ${time} seconds, there were ${totalTransactions.toLocaleString()} transactions on Solana, with an average of ${Math.round(totalTransactions / time).toLocaleString()} transactions per second.`;
+const tweet = `In the last ${time} seconds ⏱️, there were ${totalTransactions.toLocaleString()} transactions on Solana, with an average of ${Math.round(totalTransactions / time).toLocaleString()} transactions per second. 🤯`;
 
 console.log(tweet);
 sendTweet(tweet);
