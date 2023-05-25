@@ -1,5 +1,6 @@
 import dotenv from 'dotenv';
 import fetch from 'node-fetch';
+import schedule from 'node-schedule';
 
 dotenv.config();
 

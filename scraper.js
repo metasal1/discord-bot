@@ -5,7 +5,6 @@ import fs from 'fs';
 import { Configuration, OpenAIApi } from 'openai';
 import dotenv from 'dotenv';
 import csv from 'csv-parser';
-import save from './savetodb.js';
 
 dotenv.config();
 
@@ -16,7 +15,7 @@ const configuration = new Configuration({
 const inputLinks = [];
 
 // Read links from file
-fs.createReadStream('twitter-links.csv')
+fs.createReadStream('docs.solana.com.csv')
     .pipe(csv())
     .on('data', (row) => {
         inputLinks.push(row.link);
@@ -58,9 +57,9 @@ async function generate(url) {
         const article = reader.parse();
 
         const path = new URL(url).pathname;
-        const outputFileName = `scraped-twitter.csv`;
-        // fs.writeFileSync(outputFileName, `${article.textContent}`, 'utf-8');
-        fs.appendFileSync(outputFileName, article.textContent, 'utf-8');
+        const outputFileName = `scraped-docs.csv`;
+        fs.writeFileSync(`docs\${outputFileName}`, `${article.textContent}`, 'utf-8');
+        // fs.appendFileSync(outputFileName, article.textContent, 'utf-8');
         console.log(`Saved generated tweets to ${outputFileName}`);
 
     } catch (error) {

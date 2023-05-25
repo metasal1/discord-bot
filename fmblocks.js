@@ -1,6 +1,5 @@
 // import blocks from './blocks50.json' assert { type: "json" };
 import fetch from 'node-fetch';
-import tweeter from './tweeter.js';
 import sendTweet from './tweeter.js';
 
 const url = `https://api.solana.fm/v0/blocks?pageSize=100`;
